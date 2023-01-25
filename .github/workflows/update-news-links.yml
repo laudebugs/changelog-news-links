@@ -5,18 +5,16 @@ on:
     - cron: '0 0 */3 * *'
 
 jobs:
-  run-script:
+  update-news-links:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
-    - name: Run script
-      run: <command to run your script>
-    - uses: actions/setup-node@v2
+      uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
       with:
-          node-version: 14.x
+        node-version: 16
     - name: Cache Dependencies
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       env:
           cache-name: node-cache
       with:
