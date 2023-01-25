@@ -1,14 +1,12 @@
 import { launch } from 'puppeteer'
 import { writeFileSync } from 'fs'
+import { Article } from './types'
 const BASE_URL = "https://changelog.com/"
 
 const browser = await launch()
 const webPage = await browser.newPage()
 
-type Article = {title: string, link: string, date: string}
-type Nullable<T> = {[K in keyof T]: T[K] | null | undefined}
-
-const articles: Array<Nullable<Article>> = []
+const articles: Array<Article> = []
 
 for(let page = 0; page<=345; page++){
     let url = `${BASE_URL}?page=${page}#feed`

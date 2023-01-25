@@ -1,15 +1,15 @@
 import { launch } from 'puppeteer'
 import { writeFileSync, readFileSync } from 'fs'
+import { Article } from './types.js'
+import { filterLinks, filterWorkingLinks } from './utils.js'
 const BASE_URL = "https://changelog.com/"
 
 const browser = await launch()
 const webPage = await browser.newPage()
 
-type Article = {title: string, link: string, date: string}
-type Nullable<T> = {[K in keyof T]: T[K] | null | undefined}
 
-const oldArticles: Array<Nullable<Article>> =JSON.parse( readFileSync('./data/links.json', 'utf-8')) as Array<Nullable<Article>>
-const newArticles = new Array<Nullable<Article>>()
+const oldArticles: Array<Article> =JSON.parse( readFileSync('./data/links.json', 'utf-8')) as Array<Article>
+const newArticles = new Array<Article>()
 
 for(let page = 0; page<=345; page++){
     let url = `${BASE_URL}?page=${page}#feed`
@@ -32,7 +32,6 @@ for(let page = 0; page<=345; page++){
             const dateEle = await articleElement.$('span[data-style="date"]')
             const date = await webPage.evaluate(dateElement => dateElement?.textContent, dateEle)
             const article = {title, link, date}
-            console.log(link)
             articleLogged = !!oldArticles.find((article)=>article.link === link)
             if(articleLogged) {
                 console.log('article logged')
@@ -49,3 +48,7 @@ for(let page = 0; page<=345; page++){
 await browser.close()
 
 writeFileSync('./data/links.json', JSON.stringify([...newArticles, ...oldArticles], null, 4))
+const filteredLinks = filterLinks([...newArticles, ...oldArticles])
+writeFileSync('./data/filtered-links.json', JSON.stringify(filteredLinks, null, 4))
+const workingLinks = await filterWorkingLinks(filteredLinks)
+writeFileSync('./data/filtered-working-links.json', JSON.stringify(workingLinks, null, 4))

@@ -10,5 +10,5 @@ In my quest to find some of the best blog posts to read, Changelog provides far 
 
 
 ## TODO
-- [ ] Filter out `changelog.com` and `github.com` links. The former contains links to other posts as well as podcast episodes while the later contains links to github repositories (mostly)
+- [X] Filter out `changelog.com` and `github.com` links. The former contains links to other posts as well as podcast episodes while the later contains links to github repositories (mostly)
 - [ ] Check if all the links are working (not broken or moved), add a `status` property or sth
