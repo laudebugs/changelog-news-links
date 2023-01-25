@@ -3,7 +3,7 @@ name: Update News Links
 on:
   schedule:
     - cron: '0 0 */3 * *'
-
+  workflow_call: 
 jobs:
   update-news-links:
     runs-on: ubuntu-latest
