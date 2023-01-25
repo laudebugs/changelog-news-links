@@ -1,0 +1,49 @@
+name: Update News Links
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Run script
+      run: <command to run your script>
+    - uses: actions/setup-node@v2
+      with:
+          node-version: 14.x
+    - name: Cache Dependencies
+      uses: actions/cache@v2
+      env:
+          cache-name: node-cache
+      with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+              ${{ runner.os }}-build-${{ env.cache-name }}-
+              ${{ runner.os }}-build-
+              ${{ runner.os }}-
+    - name: Install Dependencies
+      run: npm install
+    - name: 'Compile TS files 🎄'
+      run: npm run build
+    - name: Update Rss Feeds and Archive 🦄
+      run: |
+          node dist/index.js
+    - name: Verify Changed files 🐒
+      uses: tj-actions/verify-changed-files@v8.3
+      id: verify-changed-files
+      with:
+          files: |
+              data
+    - name: commit & Push changes 💾
+      if: steps.verify-changed-files.outputs.files_changed == 'true'
+      run: |
+          # Stage the file, commit and push
+          git pull
+          git add out
+          git commit -m "update changelog news links"
+          git push origin main
