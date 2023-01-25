@@ -8,7 +8,7 @@ const webPage = await browser.newPage()
 type Article = {title: string, link: string, date: string}
 type Nullable<T> = {[K in keyof T]: T[K] | null | undefined}
 
-const oldArticles: Array<Nullable<Article>> = readFileSync('./data/links.json') as unknown as Array<Nullable<Article>>
+const oldArticles: Array<Nullable<Article>> =JSON.parse( readFileSync('./data/links.json', 'utf-8')) as Array<Nullable<Article>>
 const newArticles = new Array<Nullable<Article>>()
 
 for(let page = 0; page<=345; page++){
@@ -19,8 +19,8 @@ for(let page = 0; page<=345; page++){
             timeout: 60000
         })
         const feedArticles = await webPage.$$('article')
-        
-        for await( const articleElement of feedArticles){
+        let articleLogged = false
+        for await(const articleElement of feedArticles){
             const articleTitleElement = await articleElement.$('.news_item-title')
             const linkElement = await articleTitleElement?.$('a')
             if(!articleTitleElement || !linkElement) continue
@@ -32,10 +32,15 @@ for(let page = 0; page<=345; page++){
             const dateEle = await articleElement.$('span[data-style="date"]')
             const date = await webPage.evaluate(dateElement => dateElement?.textContent, dateEle)
             const article = {title, link, date}
-            const articleLogged = oldArticles.find((article)=>article.link === link)
-            if(articleLogged) break
+            console.log(link)
+            articleLogged = !!oldArticles.find((article)=>article.link === link)
+            if(articleLogged) {
+                console.log('article logged')
+                break
+            }
             newArticles.push(article)
         }
+        if(articleLogged) break
     } catch (error: any) {
         console.log(`error encountered: ${error?.message}`)
     }
