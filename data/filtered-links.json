@@ -15,11 +15,6 @@
         "date": "2023-01-24"
     },
     {
-        "title": "Ruby and Lambda had a baby and that child's name is Jets",
-        "link": "https://rubyonjets.com",
-        "date": "2023-01-23"
-    },
-    {
         "title": "Things I've learned in my 20 years as a software engineer",
         "link": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
         "date": "2023-01-20"
@@ -125,11 +120,6 @@
         "date": "2023-01-05"
     },
     {
-        "title": "Sailboat UI – a framework for Tailwind",
-        "link": "https://sailboatui.com/",
-        "date": "2023-01-04"
-    },
-    {
         "title": "You want modules, not microservices",
         "link": "http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html",
         "date": "2023-01-04"
@@ -137,11 +127,6 @@
     {
         "title": "Docker on macOS is slow and how to fix it",
         "link": "https://www.paolomainardi.com/posts/docker-performance-macos/",
-        "date": "2023-01-03"
-    },
-    {
-        "title": "React components for interactive math",
-        "link": "https://mafs.dev/",
         "date": "2023-01-03"
     },
     {
@@ -215,11 +200,6 @@
         "date": "2022-12-12"
     },
     {
-        "title": "A framework for building fast, reusable, testable views in pure Ruby",
-        "link": "https://www.phlex.fun/",
-        "date": "2022-12-09"
-    },
-    {
         "title": "Historical analogies for large language models",
         "link": "https://dynomight.net/llms/",
         "date": "2022-12-09"
@@ -232,11 +212,6 @@
     {
         "title": "Tips for analyzing logs",
         "link": "https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/",
-        "date": "2022-12-08"
-    },
-    {
-        "title": "Hanukkah of Data ",
-        "link": "https://hanukkah.bluebird.sh/",
         "date": "2022-12-08"
     },
     {
@@ -430,11 +405,6 @@
         "date": "2022-11-09"
     },
     {
-        "title": "Tech layoffs tracker",
-        "link": "https://layoffs.fyi/",
-        "date": "2022-11-08"
-    },
-    {
         "title": "A timely TIME interview with Mastodon founder Eugen Rochko ",
         "link": "https://time.com/6229230/mastodon-eugen-rochko-interview/",
         "date": "2022-11-07"
@@ -447,11 +417,6 @@
     {
         "title": "Is there too much CSS now?",
         "link": "https://css-tricks.com/is-there-too-much-css-now/",
-        "date": "2022-11-04"
-    },
-    {
-        "title": "We've filed a lawsuit challenging GitHub Copilot",
-        "link": "https://githubcopilotlitigation.com/",
         "date": "2022-11-04"
     },
     {
@@ -525,11 +490,6 @@
         "date": "2022-10-25"
     },
     {
-        "title": "MiaoYan - A markdown Mac note-taking app for engineers",
-        "link": "https://miaoyan.app/",
-        "date": "2022-10-24"
-    },
-    {
         "title": "Making a change to SQLite source code",
         "link": "https://brunocalza.me/making-a-change-to-sqlite-source-code/",
         "date": "2022-10-24"
@@ -553,11 +513,6 @@
         "title": "How trying new programming languages helped me grow as a software engineer",
         "link": "https://cichocinski.dev/blog/trying-new-programming-languages-helped-grow-software-engineer",
         "date": "2022-10-20"
-    },
-    {
-        "title": "GitHub Copilot Investigation",
-        "link": "https://githubcopilotinvestigation.com/",
-        "date": "2022-10-19"
     },
     {
         "title": "Why three Availability Zones are better than two",
@@ -622,11 +577,6 @@
     {
         "title": "Lessons learned since posting my salary history publicly",
         "link": "https://www.jvt.me/posts/2022/09/21/year-later-salary-history/",
-        "date": "2022-10-11"
-    },
-    {
-        "title": "A React library for building dashboards fast",
-        "link": "https://www.tremor.so/",
         "date": "2022-10-11"
     },
     {
@@ -720,16 +670,6 @@
         "date": "2022-09-26"
     },
     {
-        "title": "Algorithms & data structures implemented in many programming languages",
-        "link": "https://the-algorithms.com/",
-        "date": "2022-09-23"
-    },
-    {
-        "title": "Create rich Python apps in the browser with HTML",
-        "link": "https://pyscript.net/",
-        "date": "2022-09-22"
-    },
-    {
         "title": "NATS: you need it now!",
         "link": "https://nabeel.dev/2022/09/17/nats",
         "date": "2022-09-22"
@@ -790,11 +730,6 @@
         "date": "2022-09-15"
     },
     {
-        "title": "Quickly browse the history of files in any git repo",
-        "link": "https://githistory.xyz/",
-        "date": "2022-09-14"
-    },
-    {
         "title": "What’s new with forms in 2022?",
         "link": "https://css-tricks.com/whats-new-with-forms-in-2022/",
         "date": "2022-09-13"
@@ -820,11 +755,6 @@
         "date": "2022-09-09"
     },
     {
-        "title": "Open source, modular, wood based, zero carbon housing",
-        "link": "https://www.wikihouse.cc/",
-        "date": "2022-09-08"
-    },
-    {
         "title": "\"React isn't great at anything except being popular\"",
         "link": "https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react",
         "date": "2022-09-08"
@@ -832,11 +762,6 @@
     {
         "title": "These new features will change how we write CSS",
         "link": "https://youtu.be/YHC8jEgpVfk",
-        "date": "2022-09-08"
-    },
-    {
-        "title": "Crawlee is a web scraping & browser automation library for Node.js",
-        "link": "https://crawlee.dev",
         "date": "2022-09-08"
     },
     {
@@ -905,11 +830,6 @@
         "date": "2022-08-31"
     },
     {
-        "title": "Open source maps for everyone 🗺",
-        "link": "https://about.maps.earth/",
-        "date": "2022-08-31"
-    },
-    {
         "title": "✨ 90's cursor effects ✨",
         "link": "https://tholman.com/cursor-effects/",
         "date": "2022-08-30"
@@ -923,11 +843,6 @@
         "title": "Turning SQLite into a distributed database",
         "link": "https://univalence.me/posts/mvsqlite",
         "date": "2022-08-30"
-    },
-    {
-        "title": "Heroicons 2.0",
-        "link": "https://heroicons.com/",
-        "date": "2022-08-29"
     },
     {
         "title": "How Segment found product-market fit",
@@ -970,11 +885,6 @@
         "date": "2022-08-19"
     },
     {
-        "title": "_why's Estate",
-        "link": "https://whytheluckystiff.net/",
-        "date": "2022-08-19"
-    },
-    {
         "title": "See what JS commands get injected through an in-app browser on iOS",
         "link": "https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser",
         "date": "2022-08-19"
@@ -1005,11 +915,6 @@
         "date": "2022-08-17"
     },
     {
-        "title": "Resoto is a meta layer on top of your cloud infra",
-        "link": "https://resoto.com/",
-        "date": "2022-08-16"
-    },
-    {
         "title": "SSH tips and tricks",
         "link": "https://carlosbecker.dev/posts/ssh-tips-and-tricks/",
         "date": "2022-08-16"
@@ -1018,11 +923,6 @@
         "title": "Learning a new language, or how I gained familiarity with Go",
         "link": "https://www.jvt.me/posts/2022/08/12/learning-new-language-go/",
         "date": "2022-08-16"
-    },
-    {
-        "title": "A native, extensible & fast file manager for macOS",
-        "link": "https://marta.sh/",
-        "date": "2022-08-15"
     },
     {
         "title": "GitLab’s the latest punching bag for entitled users",
@@ -1050,11 +950,6 @@
         "date": "2022-08-11"
     },
     {
-        "title": "Build + test + send emails with React",
-        "link": "https://www.mailing.run/",
-        "date": "2022-08-10"
-    },
-    {
         "title": "Announcing: MiniRust",
         "link": "https://www.ralfj.de/blog/2022/08/08/minirust.html",
         "date": "2022-08-09"
@@ -1072,11 +967,6 @@
     {
         "title": "Why we chose the Clojure programming language",
         "link": "https://blog.kaleidos.net/penpot-chose-clojure-as-its-language-and-here-is-why/",
-        "date": "2022-08-08"
-    },
-    {
-        "title": "A highly configurable terminal dashboard for developers and creators",
-        "link": "https://thedevdash.com/",
         "date": "2022-08-08"
     },
     {
@@ -1110,19 +1000,9 @@
         "date": "2022-08-03"
     },
     {
-        "title": "PiBox is your tiny personal server for self-hosting",
-        "link": "https://pibox.io/",
-        "date": "2022-08-02"
-    },
-    {
         "title": "Being swamped is normal and not impressive",
         "link": "https://www.gkogan.co/blog/swamped/",
         "date": "2022-08-01"
-    },
-    {
-        "title": "A drawing app to express, grasp, and organize your thoughts and ideas",
-        "link": "https://okso.app",
-        "date": "2022-07-29"
     },
     {
         "title": "It's time to say goodbye to these obsolete Python libraries",
@@ -1133,11 +1013,6 @@
         "title": "Shipping services more quickly with design-first OpenAPI contracts",
         "link": "https://deliveroo.engineering/2022/06/27/openapi-design-first.html",
         "date": "2022-07-29"
-    },
-    {
-        "title": "Partytown runs 3rd-party scripts from a web worker",
-        "link": "https://partytown.builder.io/",
-        "date": "2022-07-28"
     },
     {
         "title": "Upgrading from Debian Jessie i386 to Bullseye amd64 after ~30 years",
@@ -1235,11 +1110,6 @@
         "date": "2022-07-06"
     },
     {
-        "title": "Bun is a fast all-in-one JavaScript runtime",
-        "link": "https://bun.sh",
-        "date": "2022-07-06"
-    },
-    {
         "title": "I don't care how you web dev; I just need more better web apps",
         "link": "https://www.baldurbjarnason.com/2022/more-better-web-apps/",
         "date": "2022-07-06"
@@ -1275,11 +1145,6 @@
         "date": "2022-06-29"
     },
     {
-        "title": "PRQL is a modern language for transforming data",
-        "link": "https://prql-lang.org/",
-        "date": "2022-06-28"
-    },
-    {
         "title": "Things you should know about databases",
         "link": "https://architecturenotes.co/things-you-should-know-about-databases/",
         "date": "2022-06-28"
@@ -1302,11 +1167,6 @@
     {
         "title": "The problem is that your users hate MVPs",
         "link": "https://herman.bearblog.dev/mvp-vs-slc/",
-        "date": "2022-06-22"
-    },
-    {
-        "title": "Markwhen is like Markdown for timelines",
-        "link": "https://markwhen.com/",
         "date": "2022-06-22"
     },
     {
@@ -1365,11 +1225,6 @@
         "date": "2022-06-16"
     },
     {
-        "title": "A site for sharing your early-stage side projects with the world 🤘",
-        "link": "https://mysideproject.rocks/",
-        "date": "2022-06-15"
-    },
-    {
         "title": "Firefox rolls out Total Cookie Protection by default to all users",
         "link": "https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
         "date": "2022-06-14"
@@ -1378,16 +1233,6 @@
         "title": "Why we’re sticking with Ruby on Rails at GitLab",
         "link": "https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/",
         "date": "2022-06-14"
-    },
-    {
-        "title": "Fresh - a next-gen web framework for Deno",
-        "link": "https://fresh.deno.dev/",
-        "date": "2022-06-13"
-    },
-    {
-        "title": "Useful utilities and services over DNS",
-        "link": "https://www.dns.toys/",
-        "date": "2022-06-13"
     },
     {
         "title": "The collapse of complex software",
@@ -1415,16 +1260,6 @@
         "date": "2022-06-07"
     },
     {
-        "title": "Tools for better thinking",
-        "link": "https://untools.co/",
-        "date": "2022-06-07"
-    },
-    {
-        "title": "Planet – decentralized blogs & websites powered by IPFS & ENS",
-        "link": "https://www.planetable.xyz/",
-        "date": "2022-06-07"
-    },
-    {
         "title": "Filibuster – automating resilience testing of microservice applications",
         "link": "https://doordash.engineering/2022/04/25/using-fault-injection-testing-to-improve-doordash-reliability/",
         "date": "2022-06-06"
@@ -1445,18 +1280,8 @@
         "date": "2022-06-06"
     },
     {
-        "title": "Dashy is a self-hosted dashboard for your homelab",
-        "link": "https://dashy.to",
-        "date": "2022-06-06"
-    },
-    {
         "title": "A slim library for building browser and gRPC-compatible HTTP APIs",
         "link": "https://buf.build/blog/connect-a-better-grpc",
-        "date": "2022-06-03"
-    },
-    {
-        "title": "VSCodium – open source binaries of VS Code",
-        "link": "https://vscodium.com/",
         "date": "2022-06-03"
     },
     {
@@ -1520,11 +1345,6 @@
         "date": "2022-05-25"
     },
     {
-        "title": "A text-to-image diffusion model with an unprecedented degree of photorealism",
-        "link": "https://gweb-research-imagen.appspot.com/",
-        "date": "2022-05-24"
-    },
-    {
         "title": "The original Pong video game had no code",
         "link": "https://www.reddit.com/r/EngineeringPorn/comments/ul49zt/the_original_pong_video_game_had_no_code_and_was/",
         "date": "2022-05-24"
@@ -1545,11 +1365,6 @@
         "date": "2022-05-23"
     },
     {
-        "title": "HTTP Cats (this is exactly what you hope it's going to be)",
-        "link": "https://http.cat/",
-        "date": "2022-05-20"
-    },
-    {
         "title": "Automate all the boring Kubernetes operations with Python",
         "link": "https://martinheinz.dev/blog/73",
         "date": "2022-05-19"
@@ -1567,11 +1382,6 @@
     {
         "title": "CloudNativePG – a new Kubernetes operator for Postgres",
         "link": "https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kubernetes-operator-postgres",
-        "date": "2022-05-18"
-    },
-    {
-        "title": "Everything I know and learned about running and maintaining open source projects for three decades ",
-        "link": "https://un.curl.dev/",
         "date": "2022-05-18"
     },
     {
@@ -1597,11 +1407,6 @@
     {
         "title": "Meta is transferring Jest to the OpenJS Foundation",
         "link": "https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/",
-        "date": "2022-05-12"
-    },
-    {
-        "title": "Commands.dev - find commands at the speed of thought",
-        "link": "https://www.commands.dev/",
         "date": "2022-05-12"
     },
     {
@@ -1670,11 +1475,6 @@
         "date": "2022-05-05"
     },
     {
-        "title": "A guide for your daily \"professional\" interactions",
-        "link": "https://howtoprofessionallysay.akashrajpurohit.com/",
-        "date": "2022-05-04"
-    },
-    {
         "title": "Why Ruby has symbols",
         "link": "https://dmitrytsepelev.dev/why-has-ruby-symbols",
         "date": "2022-05-03"
@@ -1682,11 +1482,6 @@
     {
         "title": "Preventing burnout: a manager's toolkit",
         "link": "https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/",
-        "date": "2022-05-03"
-    },
-    {
-        "title": "An end-to-end machine learning solution for Postgres",
-        "link": "https://postgresml.org/",
         "date": "2022-05-03"
     },
     {
@@ -1700,11 +1495,6 @@
         "date": "2022-05-02"
     },
     {
-        "title": "Semantic Versioning for TypeScript Types",
-        "link": "https://www.semver-ts.org",
-        "date": "2022-05-02"
-    },
-    {
         "title": "Factors to consider when architecting systems that uses third-party systems",
         "link": "https://shekhargulati.com/2022/02/16/factors-to-consider-when-architecting-systems-on-top-of-third-party-systems/",
         "date": "2022-04-29"
@@ -1713,11 +1503,6 @@
         "title": "Let's talk about blockchains",
         "link": "https://cmdli.dev/blog/blockchain/",
         "date": "2022-04-29"
-    },
-    {
-        "title": "Felix Krause put his \"whole life\" into a single database",
-        "link": "https://howisfelix.today/",
-        "date": "2022-04-28"
     },
     {
         "title": "Introducing zq: an easier (and faster) alternative to jq",
@@ -1738,16 +1523,6 @@
         "title": "The machine learning job market in 2022",
         "link": "https://evjang.com/2022/04/25/rome.html",
         "date": "2022-04-26"
-    },
-    {
-        "title": "A collection of free Tailwind CSS components",
-        "link": "https://www.hyperui.dev/",
-        "date": "2022-04-26"
-    },
-    {
-        "title": "Visualize your JSON with interactive graphs",
-        "link": "https://jsonvisio.com/",
-        "date": "2022-04-25"
     },
     {
         "title": "Why and how you should leave Google Analytics",
@@ -1788,11 +1563,6 @@
         "title": "How to freaking find great developers by having them read code",
         "link": "https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/",
         "date": "2022-04-18"
-    },
-    {
-        "title": "Lexical – an extensible web text editor framework ",
-        "link": "https://lexical.dev/",
-        "date": "2022-04-15"
     },
     {
         "title": "How HTTPie lost 54k GitHub stars",
@@ -1880,29 +1650,9 @@
         "date": "2022-04-05"
     },
     {
-        "title": "The ultimate personal security checklist 🔐",
-        "link": "https://security-list.js.org/",
-        "date": "2022-04-05"
-    },
-    {
-        "title": "Linux on Apple Silicon",
-        "link": "https://asahilinux.org/",
-        "date": "2022-04-05"
-    },
-    {
-        "title": "A plaintext file format for todos and check lists",
-        "link": "https://xit.jotaen.net/",
-        "date": "2022-04-04"
-    },
-    {
         "title": "Why we don't use a staging environment",
         "link": "https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment",
         "date": "2022-04-04"
-    },
-    {
-        "title": "A library of data structures for building collaborative applications in JS",
-        "link": "https://automerge.org/",
-        "date": "2022-04-01"
     },
     {
         "title": "Can Grafana run Doom?",
@@ -1992,11 +1742,6 @@
     {
         "title": "Decrypting your own HTTPS traffic with Wireshark",
         "link": "https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/",
-        "date": "2022-03-21"
-    },
-    {
-        "title": "Plaintext productivity on Windows",
-        "link": "https://plaintext-productivity.net/",
         "date": "2022-03-21"
     },
     {
@@ -2285,11 +2030,6 @@
         "date": "2022-02-02"
     },
     {
-        "title": "CasaOS – a home cloud system based on the Docker ecosystem",
-        "link": "https://www.casaos.io/",
-        "date": "2022-02-02"
-    },
-    {
         "title": "The unreasonable effectiveness of one-on-ones",
         "link": "https://www.benkuhn.net/11/",
         "date": "2022-02-01"
@@ -2337,11 +2077,6 @@
     {
         "title": "The curse of NixOS",
         "link": "https://blog.wesleyac.com/posts/the-curse-of-nixos",
-        "date": "2022-01-24"
-    },
-    {
-        "title": "DevToys – an offline Swiss Army knife for developers",
-        "link": "https://devtoys.app/",
         "date": "2022-01-24"
     },
     {
@@ -2420,11 +2155,6 @@
         "date": "2022-01-14"
     },
     {
-        "title": "Brutalita is an experimental grid-based font & editor",
-        "link": "https://brutalita.com/",
-        "date": "2022-01-14"
-    },
-    {
         "title": "Exploring System76's new Rust based desktop environment",
         "link": "https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/",
         "date": "2022-01-14"
@@ -2438,11 +2168,6 @@
         "title": "The optional chaining operator, “modern” browsers, and my mom",
         "link": "https://blog.jim-nielsen.com/2022/a-web-for-all/",
         "date": "2022-01-12"
-    },
-    {
-        "title": "Browsix – Unix in a browser tab",
-        "link": "https://browsix.org/",
-        "date": "2022-01-11"
     },
     {
         "title": "The case for Rust as the future of JavaScript infrastructure",
@@ -2490,11 +2215,6 @@
         "date": "2022-01-04"
     },
     {
-        "title": "CSS fingerprinting",
-        "link": "https://csstracking.dev/",
-        "date": "2022-01-04"
-    },
-    {
         "title": "Trying out generics in Go",
         "link": "https://markphelps.me/posts/trying-out-generics-in-go/",
         "date": "2021-12-17"
@@ -2517,16 +2237,6 @@
     {
         "title": "Rails 7.0: fulfilling a vision",
         "link": "https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision",
-        "date": "2021-12-16"
-    },
-    {
-        "title": "Need a laugh? log4jmemes.com delivers exactly what you expect from it",
-        "link": "https://log4jmemes.com/",
-        "date": "2021-12-16"
-    },
-    {
-        "title": "Mess with DNS",
-        "link": "https://messwithdns.net/",
         "date": "2021-12-16"
     },
     {
@@ -2655,11 +2365,6 @@
         "date": "2021-11-30"
     },
     {
-        "title": "The best resource for launchd on macOS",
-        "link": "https://www.launchd.info/",
-        "date": "2021-11-30"
-    },
-    {
         "title": "5 signs it’s time to quit your job",
         "link": "https://cate.blog/2021/11/29/5-signs-its-time-to-quit-your-job/",
         "date": "2021-11-29"
@@ -2667,11 +2372,6 @@
     {
         "title": "PHP has survived for 26 years because it keeps evolving",
         "link": "https://thenewstack.io/php-has-survived-for-26-years-because-it-keeps-evolving/",
-        "date": "2021-11-29"
-    },
-    {
-        "title": "A cross-platform Markdown editor focused on speed and usability",
-        "link": "https://marktext.app/",
         "date": "2021-11-29"
     },
     {
@@ -2965,11 +2665,6 @@
         "date": "2021-10-13"
     },
     {
-        "title": "An alternative frontend to Medium",
-        "link": "https://scribe.rip/",
-        "date": "2021-10-12"
-    },
-    {
         "title": "Tricks I wish I knew when I learned TypeScript",
         "link": "https://www.cstrnt.dev/blog/three-typescript-tricks",
         "date": "2021-10-12"
@@ -3025,19 +2720,9 @@
         "date": "2021-10-05"
     },
     {
-        "title": "Kubegres is a K8s operator for deploying Postgres clusters",
-        "link": "https://www.kubegres.io",
-        "date": "2021-10-05"
-    },
-    {
         "title": "Designing low upkeep software",
         "link": "https://www.jefftk.com/p/designing-low-upkeep-software",
         "date": "2021-10-04"
-    },
-    {
-        "title": "A fully extensible command+k interface for your site",
-        "link": "https://kbar.vercel.app/",
-        "date": "2021-10-01"
     },
     {
         "title": "Todo or Die, now for Elixir too",
@@ -3047,11 +2732,6 @@
     {
         "title": "Explore your JS dependencies with Lighthouse Treemap",
         "link": "https://sia.codes/posts/lighthouse-treemap/",
-        "date": "2021-09-29"
-    },
-    {
-        "title": "Cryptomator – put a lock on your cloud files",
-        "link": "https://cryptomator.org/",
         "date": "2021-09-29"
     },
     {
@@ -3140,11 +2820,6 @@
         "date": "2021-09-17"
     },
     {
-        "title": "OpenMoji – open source emojis for the rest of us ",
-        "link": "https://openmoji.org/",
-        "date": "2021-09-17"
-    },
-    {
         "title": "I completely ignored the front end development scene for 6 months. It was fine",
         "link": "https://rachsmith.com/i-completely-ignored-the-front-end-development-scene-for-6-months-it-was-fine/",
         "date": "2021-09-16"
@@ -3168,11 +2843,6 @@
         "title": "An homage to Quake in 13kb of JS",
         "link": "https://js13kgames.com/entries/q1k3",
         "date": "2021-09-14"
-    },
-    {
-        "title": "The KDL document language",
-        "link": "https://kdl.dev/",
-        "date": "2021-09-13"
     },
     {
         "title": "“Just in Time” CSS",
@@ -3227,11 +2897,6 @@
     {
         "title": "Notion's journey to Next.js",
         "link": "https://www.notion.so/blog/migrating-notion-marketing-to-next-js",
-        "date": "2021-09-03"
-    },
-    {
-        "title": "Deno + React: No build, no bundle, all streaming",
-        "link": "https://ultrajs.dev/",
         "date": "2021-09-03"
     },
     {
@@ -3375,11 +3040,6 @@
         "date": "2021-08-13"
     },
     {
-        "title": "Indiepen – a  privacy-friendly solution to present your code to people",
-        "link": "https://indiepen.tech/",
-        "date": "2021-08-13"
-    },
-    {
         "title": "Building an open source marketplace for Kubernetes (2 years later)",
         "link": "https://blog.alexellis.io/kubernetes-marketplace-two-year-update/",
         "date": "2021-08-13"
@@ -3423,11 +3083,6 @@
         "title": "TODO apps are meant for robots",
         "link": "https://blog.frantic.im/all/todo-apps-are-meant-for-robots/",
         "date": "2021-08-10"
-    },
-    {
-        "title": "Wikipedia using only static assets & no backend",
-        "link": "http://static.wiki/",
-        "date": "2021-08-09"
     },
     {
         "title": " Protractor is dead, long live Cypress",
@@ -3550,11 +3205,6 @@
         "date": "2021-07-22"
     },
     {
-        "title": "Windows 11 in React ",
-        "link": "https://win11.blueedge.me",
-        "date": "2021-07-22"
-    },
-    {
         "title": "Vimming with Suz Hinton",
         "link": "https://www.youtube.com/watch?v=iJHnvGIj09A",
         "date": "2021-07-22"
@@ -3585,11 +3235,6 @@
         "date": "2021-07-20"
     },
     {
-        "title": "A modern load testing tool, using Go and JavaScript",
-        "link": "https://k6.io/",
-        "date": "2021-07-19"
-    },
-    {
         "title": "My trust in software, an all time low",
         "link": "https://underjord.io/trust-in-software-an-all-time-low.html",
         "date": "2021-07-16"
@@ -3607,11 +3252,6 @@
     {
         "title": "Reliable, deliverable, self-hosted email",
         "link": "https://zach.bloomqu.ist/blog/2021/07/reliable-self-hosted-email.html",
-        "date": "2021-07-15"
-    },
-    {
-        "title": "SQLBolt – quickly learn SQL right in your browser",
-        "link": "https://sqlbolt.com/",
         "date": "2021-07-15"
     },
     {
@@ -3640,24 +3280,9 @@
         "date": "2021-07-13"
     },
     {
-        "title": "Take your text pre-processing, representation, and visualization from zero to hero",
-        "link": "https://texthero.org/",
-        "date": "2021-07-13"
-    },
-    {
         "title": "How to review code as a junior developer",
         "link": "https://scribe.rip/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958",
         "date": "2021-07-13"
-    },
-    {
-        "title": "Monocle is a universal, personal search engine",
-        "link": "https://monocle.surge.sh/",
-        "date": "2021-07-12"
-    },
-    {
-        "title": "Earthly is a build automation tool for the container era",
-        "link": "https://earthly.dev/",
-        "date": "2021-07-12"
     },
     {
         "title": "The best regex trick",
@@ -3667,11 +3292,6 @@
     {
         "title": "npm audit: broken by design",
         "link": "https://overreacted.io/npm-audit-broken-by-design/",
-        "date": "2021-07-08"
-    },
-    {
-        "title": "Tenacity – a FLOSS fork of Audacity",
-        "link": "https://tenacityaudio.org",
         "date": "2021-07-08"
     },
     {
@@ -3698,11 +3318,6 @@
         "title": "Things I wish Git had: Commit groups",
         "link": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
         "date": "2021-07-05"
-    },
-    {
-        "title": "Cakebrew - macOS app for Homebrew",
-        "link": "https://www.cakebrew.com/",
-        "date": "2021-07-02"
     },
     {
         "title": "Write code that is easy to delete, not easy to extend",
@@ -3815,11 +3430,6 @@
         "date": "2021-06-21"
     },
     {
-        "title": "An illustrated guide to Apache Kafka",
-        "link": "https://www.gentlydownthe.stream/",
-        "date": "2021-06-18"
-    },
-    {
         "title": "How to become a bad developer",
         "link": "https://rafaelquintanilha.com/how-to-become-a-bad-developer/",
         "date": "2021-06-17"
@@ -3833,11 +3443,6 @@
         "title": "History of the web: part 1",
         "link": "https://www.matthewgerstman.com/tech/history-of-the-web/",
         "date": "2021-06-16"
-    },
-    {
-        "title": "A text-based HTTP client in your browser",
-        "link": "https://prestigemad.com/",
-        "date": "2021-06-15"
     },
     {
         "title": "An incomplete list of skills senior engineers need, beyond coding",
@@ -3870,11 +3475,6 @@
         "date": "2021-06-09"
     },
     {
-        "title": "DaisyUI – component classes for Tailwind",
-        "link": "https://daisyui.com/",
-        "date": "2021-06-09"
-    },
-    {
         "title": "What can \"Avengers: Endgame\" teach us about Git?",
         "link": "https://ljvmiranda921.github.io/notebook/2021/06/05/avengers-git/",
         "date": "2021-06-09"
@@ -3890,11 +3490,6 @@
         "date": "2021-06-08"
     },
     {
-        "title": "Add face, hand, and pose tracking to your projects in a snap ✨👌",
-        "link": "https://handsfree.dev",
-        "date": "2021-06-07"
-    },
-    {
         "title": "Go's fuzzing effort now in beta",
         "link": "https://blog.golang.org/fuzz-beta",
         "date": "2021-06-07"
@@ -3908,11 +3503,6 @@
         "title": "The GraphQL spec, simplified",
         "link": "https://blog.graphql.guide/the-graphql-spec-simplified-93005ce0671f",
         "date": "2021-06-04"
-    },
-    {
-        "title": "Google's experimental Open Source Insights project",
-        "link": "https://deps.dev/",
-        "date": "2021-06-03"
     },
     {
         "title": "Stack Overflow sold to tech giant Prosus for $1.8 billion",
@@ -4015,21 +3605,6 @@
         "date": "2021-05-14"
     },
     {
-        "title": "Zero-runtime stylesheets in TypeScript",
-        "link": "https://vanilla-extract.style/",
-        "date": "2021-05-13"
-    },
-    {
-        "title": "A weather forecast API to replace Dark Sky's",
-        "link": "https://pirateweather.net/",
-        "date": "2021-05-13"
-    },
-    {
-        "title": "An open source computer vision API",
-        "link": "https://openvisionapi.com/",
-        "date": "2021-05-12"
-    },
-    {
         "title": "Criticism pushes the web forward",
         "link": "https://hiddedevries.nl/en/blog/2021-05-08-criticism-pushes-the-web-forward/",
         "date": "2021-05-11"
@@ -4068,11 +3643,6 @@
         "title": "Crazy new ideas",
         "link": "http://paulgraham.com/newideas.html",
         "date": "2021-05-07"
-    },
-    {
-        "title": "Slidev – presentation slides for developers",
-        "link": "https://sli.dev/",
-        "date": "2021-05-06"
     },
     {
         "title": "Wormhole – Simple, fast, private file sharing ✨",
@@ -4210,11 +3780,6 @@
         "date": "2021-04-20"
     },
     {
-        "title": "A canvas for writing and manipulating JavaScript",
-        "link": "https://natto.dev/",
-        "date": "2021-04-20"
-    },
-    {
         "title": "Screw it, I'll host it myself",
         "link": "https://www.markozivanovic.com/screw-it-ill-host-it-myself/",
         "date": "2021-04-19"
@@ -4223,11 +3788,6 @@
         "title": "Idempotence now prevents pain later",
         "link": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
         "date": "2021-04-19"
-    },
-    {
-        "title": "A collection of open source, experimental, tiny tools",
-        "link": "https://tinytools.directory/",
-        "date": "2021-04-15"
     },
     {
         "title": "Tips to get faster code reviews",
@@ -4257,11 +3817,6 @@
     {
         "title": "Disadvantages of Pull Requests",
         "link": "https://blog.arkency.com/disadvantages-of-pull-requests/",
-        "date": "2021-04-12"
-    },
-    {
-        "title": "Am I FLoCed?",
-        "link": "https://amifloced.org/",
         "date": "2021-04-12"
     },
     {
@@ -4300,11 +3855,6 @@
         "date": "2021-04-05"
     },
     {
-        "title": "An open source design & prototyping platform for cross-domain teams",
-        "link": "https://penpot.app/",
-        "date": "2021-04-02"
-    },
-    {
         "title": "How to create a trading bot that buys Bitcoin when Elon Musk tweets about it",
         "link": "https://www.cryptomaton.org/2021/03/21/program-a-trading-bot-to-buy-bitcoin-when-musk-tweets-about-it/",
         "date": "2021-04-02"
@@ -4340,11 +3890,6 @@
         "date": "2021-03-30"
     },
     {
-        "title": "A local-first, markdown-based note taking tool for VS Code",
-        "link": "https://wiki.dendron.so/",
-        "date": "2021-03-29"
-    },
-    {
         "title": "PHP's git server was compromised (👋 GitHub)",
         "link": "https://news-web.php.net/php.internals/113838",
         "date": "2021-03-29"
@@ -4353,11 +3898,6 @@
         "title": "The Deno team takes funding and starts a company around the project",
         "link": "https://deno.com/blog/the-deno-company",
         "date": "2021-03-29"
-    },
-    {
-        "title": "Put anything in your macOS menu bar (BitBar rebooted)",
-        "link": "https://xbarapp.com/",
-        "date": "2021-03-26"
     },
     {
         "title": "The world's first video game in a font!",
@@ -4372,11 +3912,6 @@
     {
         "title": "GraphQL IDEs you should know about",
         "link": "https://hasura.io/blog/top-7-graphql-ides-you-should-know-about-in-2021/",
-        "date": "2021-03-25"
-    },
-    {
-        "title": "Sync bookmarks privately across browsers with a server of your choosing",
-        "link": "https://floccus.org",
         "date": "2021-03-25"
     },
     {
@@ -4410,11 +3945,6 @@
         "date": "2021-03-23"
     },
     {
-        "title": "A TypeScript toolkit for building end-to-end typesafe data layers",
-        "link": "https://tRPC.io",
-        "date": "2021-03-22"
-    },
-    {
         "title": "Ember.js in 2021 – a beacon of productivity",
         "link": "https://simplabs.com/blog/2021/03/12/Ember.js-in-2021---a-beacon-of-productivity/",
         "date": "2021-03-19"
@@ -4423,11 +3953,6 @@
         "title": "Let's dive deep into Docker's union file system",
         "link": "https://martinheinz.dev/blog/44",
         "date": "2021-03-19"
-    },
-    {
-        "title": "A utility-style CSS framework for data visualization",
-        "link": "https://chartscss.org/",
-        "date": "2021-03-18"
     },
     {
         "title": "Make tests a part of your app",
@@ -4455,11 +3980,6 @@
         "date": "2021-03-15"
     },
     {
-        "title": "security.txt – a proposed standard for defining security policies",
-        "link": "https://securitytxt.org/",
-        "date": "2021-03-15"
-    },
-    {
         "title": "How to send an 'E mail' (1984)",
         "link": "https://www.youtube.com/watch?v=szdbKz5CyhA",
         "date": "2021-03-12"
@@ -4483,11 +4003,6 @@
         "title": "The security scanner that cried wolf",
         "link": "https://pythonspeed.com/articles/docker-security-scanner/",
         "date": "2021-03-10"
-    },
-    {
-        "title": "Take ownership of your live streams with Owncast",
-        "link": "https://owncast.online",
-        "date": "2021-03-09"
     },
     {
         "title": "Debian running on Rust coreutils",
@@ -4545,11 +4060,6 @@
         "date": "2021-03-01"
     },
     {
-        "title": "Flameshot – powerful (yet simple) screenshot software",
-        "link": "https://flameshot.org/",
-        "date": "2021-03-01"
-    },
-    {
         "title": "A game to help you learn FP visually ",
         "link": "https://david-peter.de/cube-composer/",
         "date": "2021-02-26"
@@ -4597,11 +4107,6 @@
     {
         "title": "Automatic dark mode for terminal applications",
         "link": "https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/",
-        "date": "2021-02-22"
-    },
-    {
-        "title": "Jam is an OSS alternative to Clubhouse and Twitter Spaces",
-        "link": "https://jam.systems/",
         "date": "2021-02-22"
     },
     {
@@ -4760,11 +4265,6 @@
         "date": "2021-01-29"
     },
     {
-        "title": "108,210* free open source icons & illustrations",
-        "link": "https://iconduck.com/",
-        "date": "2021-01-29"
-    },
-    {
         "title": "Setting up a new machine",
         "link": "https://alabeduarte.com/new-env-setup/",
         "date": "2021-01-29"
@@ -4807,11 +4307,6 @@
     {
         "title": "Scaling Kubernetes to 7,500 nodes",
         "link": "https://openai.com/blog/scaling-kubernetes-to-7500-nodes/",
-        "date": "2021-01-26"
-    },
-    {
-        "title": "Try AskGit SQL in your browser",
-        "link": "https://try.askgit.com/",
         "date": "2021-01-26"
     },
     {
@@ -4912,11 +4407,6 @@
     {
         "title": "10 years(-ish) of Elixir",
         "link": "https://dashbit.co/blog/ten-years-ish-of-elixir",
-        "date": "2021-01-11"
-    },
-    {
-        "title": "Iconify – a quick-and-free web app for generating various app icons",
-        "link": "https://www.iconify.pro/",
         "date": "2021-01-11"
     },
     {
@@ -5035,11 +4525,6 @@
         "date": "2020-12-14"
     },
     {
-        "title": "Estimator.dev – the modern JavaScript savings calculator",
-        "link": "https://estimator.dev/",
-        "date": "2020-12-14"
-    },
-    {
         "title": "CI for performance: Reliable benchmarking in noisy environments",
         "link": "https://pythonspeed.com/articles/consistent-benchmarking-in-ci/",
         "date": "2020-12-11"
@@ -5065,11 +4550,6 @@
         "date": "2020-12-09"
     },
     {
-        "title": "A simple service to serve up Spotify podcasts as RSS feeds",
-        "link": "https://spotifeed.timdorr.com/",
-        "date": "2020-12-08"
-    },
-    {
         "title": "Gitter now speaks Matrix natively",
         "link": "https://matrix.org/blog/2020/12/07/gitter-now-speaks-matrix",
         "date": "2020-12-07"
@@ -5087,11 +4567,6 @@
     {
         "title": "8 ways to make money as a developer",
         "link": "https://www.youtube.com/watch?v=3d_EZqpgHKk",
-        "date": "2020-12-07"
-    },
-    {
-        "title": "A guide to help you write better CLIs",
-        "link": "https://clig.dev",
         "date": "2020-12-07"
     },
     {
@@ -5172,11 +4647,6 @@
     {
         "title": "What did I forget by working for the same company?",
         "link": "https://scribe.rip/what-did-i-forget-by-working-for-the-same-company-c51b52ce2f8c",
-        "date": "2020-11-25"
-    },
-    {
-        "title": "Are your favorite apps Apple silicon ready?",
-        "link": "https://isapplesiliconready.com/",
         "date": "2020-11-25"
     },
     {
@@ -5420,11 +4890,6 @@
         "date": "2020-10-23"
     },
     {
-        "title": "NsLookup.io – an online tool for exploring DNS records",
-        "link": "https://www.nslookup.io",
-        "date": "2020-10-22"
-    },
-    {
         "title": "Developer resume tweaks to land more interviews",
         "link": "https://relocate.me/blog/resume-interview-tips/10-data-driven-ways-to-use-your-developer-resume-to-get-interviews/#more-1398",
         "date": "2020-10-22"
@@ -5432,11 +4897,6 @@
     {
         "title": "Writing beautiful React code using a good old mate",
         "link": "https://blog.vicnicius.com/writing-beautiful-react-code-using-a-good-old-mate",
-        "date": "2020-10-22"
-    },
-    {
-        "title": "Keel is a tool for automating Kubernetes deployment updates",
-        "link": "https://keel.sh/",
         "date": "2020-10-22"
     },
     {
@@ -5462,11 +4922,6 @@
     {
         "title": "A command line note-taking, bookmarking, archiving, and knowledge base app",
         "link": "https://xwmx.github.io/nb/",
-        "date": "2020-10-16"
-    },
-    {
-        "title": "Doing serverless with Terraform",
-        "link": "http://serverless.tf/",
         "date": "2020-10-16"
     },
     {
@@ -5545,11 +5000,6 @@
         "date": "2020-10-08"
     },
     {
-        "title": "Screego is screen sharing for developers",
-        "link": "https://screego.net/",
-        "date": "2020-10-08"
-    },
-    {
         "title": "The widening responsibility for front-end developers",
         "link": "https://css-tricks.com/the-widening-responsibility-for-front-end-developers/",
         "date": "2020-10-07"
@@ -5565,11 +5015,6 @@
         "date": "2020-10-06"
     },
     {
-        "title": "Darling lets you run macOS software on Linux",
-        "link": "https://www.darlinghq.org/",
-        "date": "2020-10-06"
-    },
-    {
         "title": "A library to display an interactive editor for any graph-like data",
         "link": "https://awslabs.github.io/diagram-maker/",
         "date": "2020-10-06"
@@ -5578,11 +5023,6 @@
         "title": "The open source paradox",
         "link": "http://antirez.com/news/134",
         "date": "2020-10-05"
-    },
-    {
-        "title": "Developer utilities for macOS",
-        "link": "https://devutils.app/",
-        "date": "2020-10-02"
     },
     {
         "title": "Hacktoberfest responds with a commitment to reducing spam",
@@ -5730,11 +5170,6 @@
         "date": "2020-09-14"
     },
     {
-        "title": "The Winamp Skin Museum",
-        "link": "https://skins.webamp.org/",
-        "date": "2020-09-11"
-    },
-    {
         "title": "A 10-minute redesign of navalmanack.com",
         "link": "https://www.youtube.com/watch?v=v7NnSibhj7w",
         "date": "2020-09-11"
@@ -5742,11 +5177,6 @@
     {
         "title": "Go Modules have a v2+ problem",
         "link": "https://donatstudios.com/Go-v2-Modules",
-        "date": "2020-09-10"
-    },
-    {
-        "title": "Speakeasy JS – The \"Mad Science\" JavaScript Meetup",
-        "link": "https://speakeasyjs.com",
         "date": "2020-09-10"
     },
     {
@@ -5760,11 +5190,6 @@
         "date": "2020-09-10"
     },
     {
-        "title": "Moon – a purely functional user interface library that's fast, tiny, and intuitive",
-        "link": "https://moonjs.org/",
-        "date": "2020-09-09"
-    },
-    {
         "title": "Cognitive biases in software development",
         "link": "https://thevaluable.dev/cognitive-bias-software-development/",
         "date": "2020-09-09"
@@ -5773,11 +5198,6 @@
         "title": "What the history of HTTP status codes can tell us about the future of APIs",
         "link": "https://increment.com/apis/land-before-modern-apis/",
         "date": "2020-09-08"
-    },
-    {
-        "title": "A text-based desktop environment in your terminal",
-        "link": "https://vtm.netxs.online/",
-        "date": "2020-09-04"
     },
     {
         "title": "What I learned going through YC as a 17 year old",
@@ -5835,11 +5255,6 @@
         "date": "2020-08-31"
     },
     {
-        "title": "Vimac is like Vimium, but for all of macOS",
-        "link": "https://vimacapp.com/",
-        "date": "2020-08-31"
-    },
-    {
         "title": "PiSight brings back Apple iSight",
         "link": "https://scribe.rip/todays-webcams-are-boring-so-i-brought-back-a-classic-291cc7c94c76",
         "date": "2020-08-28"
@@ -5848,11 +5263,6 @@
         "title": "First hands on the new Twitter API",
         "link": "https://dev.to/bearer/first-hands-on-the-new-twitter-api-44e9",
         "date": "2020-08-28"
-    },
-    {
-        "title": "WebRTC for the Curious 📘",
-        "link": "https://webrtcforthecurious.com/",
-        "date": "2020-08-27"
     },
     {
         "title": "New case studies about Google’s use of Go",
@@ -5867,11 +5277,6 @@
     {
         "title": "Then he asked me, “Is Kubernetes right for us?”",
         "link": "https://scribe.rip/@alexellisuk/then-he-asked-me-is-kubernetes-right-for-us-78695ee35289",
-        "date": "2020-08-26"
-    },
-    {
-        "title": "A futuristic / cyberpunk GUI framework for web apps",
-        "link": "https://arwes.dev/",
         "date": "2020-08-26"
     },
     {
@@ -5955,11 +5360,6 @@
         "date": "2020-08-13"
     },
     {
-        "title": "Creating a better version of The Go Playground",
-        "link": "https://goplay.tools",
-        "date": "2020-08-12"
-    },
-    {
         "title": "How to read a code",
         "link": "https://www.iamjonas.me/2020/08/how-to-read-code.html",
         "date": "2020-08-12"
@@ -5972,11 +5372,6 @@
     {
         "title": "Significant changes at Mozilla Corporation",
         "link": "https://blog.mozilla.org/blog/2020/08/11/changing-world-changing-mozilla/",
-        "date": "2020-08-11"
-    },
-    {
-        "title": "AskGit - query your git repo with SQL",
-        "link": "https://askgit.com/",
         "date": "2020-08-11"
     },
     {
@@ -6053,11 +5448,6 @@
         "title": "Our remote work future is going to suck",
         "link": "https://www.seanblanda.com/our-remote-work-future-is-going-to-suck/",
         "date": "2020-07-30"
-    },
-    {
-        "title": "A style guide for SQL",
-        "link": "https://www.sqlstyle.guide/",
-        "date": "2020-07-29"
     },
     {
         "title": "Swinging on an AST branch",
@@ -6150,11 +5540,6 @@
         "date": "2020-07-16"
     },
     {
-        "title": "Hyperapp – the tiny framework for building web interfaces",
-        "link": "https://hyperapp.dev/",
-        "date": "2020-07-15"
-    },
-    {
         "title": "But you only added two lines of code...",
         "link": "https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html",
         "date": "2020-07-14"
@@ -6185,11 +5570,6 @@
         "date": "2020-07-13"
     },
     {
-        "title": "mailgo makes `mailto` and `tel` links more useful",
-        "link": "https://mailgo.dev",
-        "date": "2020-07-13"
-    },
-    {
         "title": "Hooked on Hooks! A late introduction to my favorite thing in React",
         "link": "https://dev.to/vtrpldn/hooked-on-hooks-a-late-introduction-to-my-favorite-thing-in-react-1nfe",
         "date": "2020-07-09"
@@ -6217,11 +5597,6 @@
     {
         "title": "Only 9% of visitors give GDPR consent to be tracked",
         "link": "https://markosaric.com/gdpr-consent/",
-        "date": "2020-07-07"
-    },
-    {
-        "title": "See how many other people are currently on the same page as you",
-        "link": "https://turven.xyz",
         "date": "2020-07-07"
     },
     {
@@ -6280,11 +5655,6 @@
         "date": "2020-06-29"
     },
     {
-        "title": "On unintended consequences",
-        "link": "https://unintendedconsequenc.es/",
-        "date": "2020-06-29"
-    },
-    {
         "title": "Failing (and winning) at planning software projects",
         "link": "https://simplabs.com/blog/2020/06/17/failing-and-winning-at-planning-software-projects",
         "date": "2020-06-29"
@@ -6298,11 +5668,6 @@
         "title": "A personal knowledge management and sharing system for VS Code",
         "link": "https://foambubble.github.io/foam/",
         "date": "2020-06-29"
-    },
-    {
-        "title": "Learn regular expressions with simple interactive exercises",
-        "link": "https://regexone.com/",
-        "date": "2020-06-26"
     },
     {
         "title": "Video games are the future of education",
@@ -6347,11 +5712,6 @@
     {
         "title": "Time to upgrade your monitor",
         "link": "https://tonsky.me/blog/monitors/",
-        "date": "2020-06-24"
-    },
-    {
-        "title": "High powered tools for HTML",
-        "link": "https://htmx.org",
         "date": "2020-06-24"
     },
     {
@@ -6460,11 +5820,6 @@
         "date": "2020-06-12"
     },
     {
-        "title": "OpenAI now has an API",
-        "link": "https://beta.openai.com/",
-        "date": "2020-06-12"
-    },
-    {
         "title": "Lawsuits threaten to bankrupt The Internet Archive",
         "link": "https://decrypt.co/31906/activists-rally-save-internet-archive-lawsuit-threatens",
         "date": "2020-06-11"
@@ -6525,33 +5880,13 @@
         "date": "2020-06-05"
     },
     {
-        "title": "Virus Cafe: Make a friend in 2 minutes",
-        "link": "https://virus.cafe",
-        "date": "2020-06-04"
-    },
-    {
-        "title": "Create and animate hand-drawn annotations on a web page",
-        "link": "https://roughnotation.com/",
-        "date": "2020-06-02"
-    },
-    {
         "title": "Diving into Go by building a CLI",
         "link": "https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html",
         "date": "2020-05-29"
     },
     {
-        "title": "Bonsai CSS - an ultralight utility-first CSS framework",
-        "link": "https://www.bonsaicss.com/",
-        "date": "2020-05-29"
-    },
-    {
         "title": "Software will eat software in a remote-first world",
         "link": "https://themargins.substack.com/p/software-will-eat-software-in-a-remote",
-        "date": "2020-05-29"
-    },
-    {
-        "title": "KISS – a Linux distro focused on simplicity",
-        "link": "https://k1ss.org/",
         "date": "2020-05-29"
     },
     {
@@ -6562,11 +5897,6 @@
     {
         "title": "Making Vue 3",
         "link": "https://increment.com/frontend/making-vue-3/",
-        "date": "2020-05-28"
-    },
-    {
-        "title": "Join me at Distributed Camp 2020",
-        "link": "https://distributed.camp/",
         "date": "2020-05-28"
     },
     {
@@ -6593,11 +5923,6 @@
         "title": "On distributed work: gradually, then suddenly",
         "link": "https://ma.tt/2020/05/gradually-then-suddenly/",
         "date": "2020-05-22"
-    },
-    {
-        "title": "Quickref — a search engine for developers",
-        "link": "https://quickref.dev/",
-        "date": "2020-05-21"
     },
     {
         "title": "\"Office centricity is over.\"",
@@ -6800,11 +6125,6 @@
         "date": "2020-04-27"
     },
     {
-        "title": "What I learned working with a cheap Kubernetes cluster",
-        "link": "https://port8080.sh/",
-        "date": "2020-04-27"
-    },
-    {
         "title": "Stop apologizing for bugs",
         "link": "https://blog.danslimmon.com/2019/08/02/stop-apologizing-for-bugs/",
         "date": "2020-04-27"
@@ -6903,11 +6223,6 @@
         "title": "Build your own open source virtual background",
         "link": "https://elder.dev/posts/open-source-virtual-background/",
         "date": "2020-04-17"
-    },
-    {
-        "title": "A p2p video chat platform powered by WebRTC",
-        "link": "https://zipcall.io/",
-        "date": "2020-04-16"
     },
     {
         "title": "The third wave of open source migration",
@@ -7010,11 +6325,6 @@
         "date": "2020-04-07"
     },
     {
-        "title": "A rich set of dataviz components built on top of d3 and React",
-        "link": "https://nivo.rocks/",
-        "date": "2020-04-07"
-    },
-    {
         "title": "Drew Devault's unorthodox, branchless git workflow",
         "link": "https://drewdevault.com/2020/04/05/My-weird-branchless-git-workflow.html",
         "date": "2020-04-06"
@@ -7025,18 +6335,8 @@
         "date": "2020-04-03"
     },
     {
-        "title": "Overly descriptive color palettes ",
-        "link": "http://colors.lol/",
-        "date": "2020-04-03"
-    },
-    {
         "title": "How to SSH properly",
         "link": "https://gravitational.com/blog/how-to-ssh-properly/",
-        "date": "2020-04-02"
-    },
-    {
-        "title": "CSS Layout — a collection of popular layouts and patterns made with CSS",
-        "link": "https://csslayout.io/",
         "date": "2020-04-02"
     },
     {
@@ -7055,18 +6355,8 @@
         "date": "2020-04-01"
     },
     {
-        "title": "Lens — the Kubernetes IDE",
-        "link": "https://k8slens.dev/",
-        "date": "2020-04-01"
-    },
-    {
         "title": "How open source software is fighting COVID-19",
         "link": "https://opensource.com/article/20/3/open-source-software-covid19",
-        "date": "2020-04-01"
-    },
-    {
-        "title": "A GraphQL client without queries ✨",
-        "link": "https://gqless.dev/",
         "date": "2020-04-01"
     },
     {
@@ -7085,11 +6375,6 @@
         "date": "2020-03-30"
     },
     {
-        "title": "An open source initiative to create a JSON-based standard for resumes",
-        "link": "https://jsonresume.org/",
-        "date": "2020-03-30"
-    },
-    {
         "title": "It’s time to get static",
         "link": "https://meyerweb.com/eric/thoughts/2020/03/22/get-static/",
         "date": "2020-03-27"
@@ -7097,11 +6382,6 @@
     {
         "title": "Clearview AI has a profile on me and 'it freaked me out'",
         "link": "https://scribe.rip/i-got-my-file-from-clearview-ai-and-it-freaked-me-out-33ca28b5d6d4",
-        "date": "2020-03-27"
-    },
-    {
-        "title": "COVID-19 projects looking for volunteers",
-        "link": "https://helpwithcovid.com/",
         "date": "2020-03-27"
     },
     {
@@ -7113,11 +6393,6 @@
         "title": "Go and the Go community during this pandemic",
         "link": "https://blog.golang.org/pandemic",
         "date": "2020-03-26"
-    },
-    {
-        "title": "A free API for data on the Coronavirus",
-        "link": "https://covid19api.com/",
-        "date": "2020-03-25"
     },
     {
         "title": "Comprehensive Python cheatsheet",
@@ -7132,11 +6407,6 @@
     {
         "title": "Using AI to translate \"wash your hands\" into 500+ languages",
         "link": "https://datadan.io/blog/wash-your-hands",
-        "date": "2020-03-24"
-    },
-    {
-        "title": "Stanford CS253: Web Security",
-        "link": "https://cs253.stanford.edu",
         "date": "2020-03-24"
     },
     {
@@ -7167,11 +6437,6 @@
     {
         "title": "Remote, but not alone",
         "link": "https://blog.testdouble.com/posts/2020-03-19-remote-but-not-alone/",
-        "date": "2020-03-19"
-    },
-    {
-        "title": "Spotify's open platform for building developer portals",
-        "link": "https://backstage.io/",
         "date": "2020-03-19"
     },
     {
@@ -7240,16 +6505,6 @@
         "date": "2020-03-11"
     },
     {
-        "title": "Never forget a #TODO comment",
-        "link": "https://www.tickgit.com/",
-        "date": "2020-03-11"
-    },
-    {
-        "title": "Bringing full-stack to the JAMstack",
-        "link": "https://redwoodjs.com/",
-        "date": "2020-03-11"
-    },
-    {
         "title": "Redesigning the SpendWeek iOS app in 10 minutes",
         "link": "https://www.youtube.com/watch?v=LHs6vx4QEE4",
         "date": "2020-03-10"
@@ -7285,11 +6540,6 @@
         "date": "2020-03-06"
     },
     {
-        "title": "Profit Hunt - find inspiration by finding profitable online projects",
-        "link": "http://profithunt.co/",
-        "date": "2020-03-06"
-    },
-    {
         "title": "How to make yourself into a learning machine",
         "link": "https://superorganizers.substack.com/p/how-to-build-a-learning-machine",
         "date": "2020-03-06"
@@ -7310,11 +6560,6 @@
         "date": "2020-03-06"
     },
     {
-        "title": "A minimalistic CSS icon library designed by code (500+ icons)",
-        "link": "https://css.gg/",
-        "date": "2020-03-05"
-    },
-    {
         "title": "Linkalot is a web-based inbox for your links",
         "link": "https://gitlab.com/dmpop/linkalot",
         "date": "2020-03-04"
@@ -7327,11 +6572,6 @@
     {
         "title": "To get good, go after the metagame",
         "link": "https://commoncog.com/blog/to-get-good-go-after-the-metagame/",
-        "date": "2020-03-03"
-    },
-    {
-        "title": "Search across a half million git repos (with regex!)",
-        "link": "https://grep.app/",
         "date": "2020-03-03"
     },
     {
@@ -7390,11 +6630,6 @@
         "date": "2020-02-25"
     },
     {
-        "title": "Enjoy an infinite stream of AI generated art",
-        "link": "https://art42.net/",
-        "date": "2020-02-24"
-    },
-    {
         "title": "How I created an Engineering Roadmap",
         "link": "https://johngrahamdev.com/Building-An-Engineering-Roadmap/",
         "date": "2020-02-24"
@@ -7435,11 +6670,6 @@
         "date": "2020-02-13"
     },
     {
-        "title": "An unobstructive approach to large scale software license analysis",
-        "link": "https://drat.apache.org/",
-        "date": "2020-02-11"
-    },
-    {
         "title": "Templating YAML in Kubernetes with real code",
         "link": "https://learnk8s.io/templating-yaml-with-code",
         "date": "2020-02-11"
@@ -7470,11 +6700,6 @@
         "date": "2020-02-10"
     },
     {
-        "title": "The Zen of Go",
-        "link": "https://the-zen-of-go.netlify.com/",
-        "date": "2020-02-07"
-    },
-    {
         "title": "React Native is the future of mobile at Shopify",
         "link": "https://engineering.shopify.com/blogs/engineering/react-native-future-mobile-shopify",
         "date": "2020-02-07"
@@ -7487,11 +6712,6 @@
     {
         "title": "Announcing Fedora CoreOS general availability",
         "link": "https://fedoramagazine.org/fedora-coreos-out-of-preview/",
-        "date": "2020-02-06"
-    },
-    {
-        "title": "Mint – a programming language for writing single page apps",
-        "link": "https://www.mint-lang.com/",
         "date": "2020-02-06"
     },
     {
@@ -7670,11 +6890,6 @@
         "date": "2020-01-20"
     },
     {
-        "title": "Shopify's Dev Degree",
-        "link": "https://devdegree.ca/",
-        "date": "2020-01-17"
-    },
-    {
         "title": "The \"no code\" delusion",
         "link": "https://www.alexhudson.com/2020/01/13/the-no-code-delusion/",
         "date": "2020-01-17"
@@ -7690,11 +6905,6 @@
         "date": "2020-01-14"
     },
     {
-        "title": "Pendulum - Python datetimes made easy",
-        "link": "https://pendulum.eustace.io/",
-        "date": "2020-01-14"
-    },
-    {
         "title": "The status of HTTP/3",
         "link": "https://www.infoq.com/news/2020/01/http-3-status/",
         "date": "2020-01-13"
@@ -7702,16 +6912,6 @@
     {
         "title": "Broot – a new way to see and navigate directory trees",
         "link": "https://dystroy.org/broot/",
-        "date": "2020-01-13"
-    },
-    {
-        "title": "Sscaffold – lightweight css for people who build things",
-        "link": "https://sscaffold-css.com/",
-        "date": "2020-01-13"
-    },
-    {
-        "title": "With Snowpack you can build modern web apps without a bundler",
-        "link": "https://www.snowpack.dev/",
         "date": "2020-01-13"
     },
     {
@@ -7770,11 +6970,6 @@
         "date": "2019-12-24"
     },
     {
-        "title": "Open source illustrations for every project you can imagine",
-        "link": "https://undraw.co/",
-        "date": "2019-12-24"
-    },
-    {
         "title": "Debug Rails issues effectively with tapping_device",
         "link": "https://dev.to/st0012/debug-rails-issues-effectively-with-tappingdevice-c7c",
         "date": "2019-12-23"
@@ -7783,11 +6978,6 @@
         "title": "Ember Octane is here",
         "link": "https://blog.emberjs.com/2019/12/20/octane-is-here.html",
         "date": "2019-12-23"
-    },
-    {
-        "title": "Krabby – control your browser with your keyboard",
-        "link": "https://krabby.netlify.com/",
-        "date": "2019-12-20"
     },
     {
         "title": "Best practices for designing a pragmatic restful API",
@@ -7820,11 +7010,6 @@
         "date": "2019-12-17"
     },
     {
-        "title": "Lucid Index – find the best self-hosted software",
-        "link": "https://selfhostedsource.tech/",
-        "date": "2019-12-16"
-    },
-    {
         "title": "Challenging projects every programmer should try",
         "link": "http://web.eecs.utk.edu/~azh/blog/challengingprojects.html",
         "date": "2019-12-16"
@@ -7850,11 +7035,6 @@
         "date": "2019-12-11"
     },
     {
-        "title": "A web-based SQL database playground",
-        "link": "https://www.db-fiddle.com/",
-        "date": "2019-12-11"
-    },
-    {
         "title": "The exact same app built in React and Svelte",
         "link": "https://scribe.rip/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-svelte-here-are-the-differences-c0bd2cc9b3f8",
         "date": "2019-12-11"
@@ -7870,18 +7050,8 @@
         "date": "2019-12-10"
     },
     {
-        "title": "Welcome to AI Dungeon 2",
-        "link": "http://www.aidungeon.io/",
-        "date": "2019-12-10"
-    },
-    {
         "title": "Why choose Xfce for your lightweight Linux desktop",
         "link": "https://opensource.com/article/19/12/xfce-linux-desktop",
-        "date": "2019-12-09"
-    },
-    {
-        "title": "Rapidly create interactive UIs in pure Ruby",
-        "link": "https://www.matestack.org/",
         "date": "2019-12-09"
     },
     {
@@ -7892,11 +7062,6 @@
     {
         "title": "Fighting back against Google AMP",
         "link": "https://markosaric.com/google-amp/",
-        "date": "2019-12-06"
-    },
-    {
-        "title": "Open source home automation that puts local control and privacy first",
-        "link": "https://www.home-assistant.io/",
         "date": "2019-12-06"
     },
     {
@@ -7922,16 +7087,6 @@
     {
         "title": "The why and what of Go modules",
         "link": "https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html",
-        "date": "2019-12-04"
-    },
-    {
-        "title": "Extract the structure of a Postgres database into JavaScript",
-        "link": "https://www.pg-structure.com/",
-        "date": "2019-12-04"
-    },
-    {
-        "title": "A framework for real-life data science",
-        "link": "https://metaflow.org/",
         "date": "2019-12-04"
     },
     {
@@ -7963,11 +7118,6 @@
         "title": "Common mistakes and missed optimization opportunities in SQL",
         "link": "https://hakibenita.com/sql-dos-and-donts",
         "date": "2019-11-29"
-    },
-    {
-        "title": "A JSX-based page builder for creating beautiful websites without writing code",
-        "link": "https://blocks-ui.com/",
-        "date": "2019-11-27"
     },
     {
         "title": "WebSockets vs Server-Sent Events",
@@ -8008,11 +7158,6 @@
         "title": "Build your own React",
         "link": "https://pomb.us/build-your-own-react/",
         "date": "2019-11-22"
-    },
-    {
-        "title": "A complete invoicing solution for freelancers & small businesses",
-        "link": "https://craterapp.com/",
-        "date": "2019-11-21"
     },
     {
         "title": "Lots of folks hiring at RubyConf 2019",
@@ -8060,11 +7205,6 @@
         "date": "2019-11-13"
     },
     {
-        "title": "Sketchviz - Graphviz graphs in a hand-drawn style",
-        "link": "https://sketchviz.com",
-        "date": "2019-11-12"
-    },
-    {
         "title": "Building a secure by default, composable future for WebAssembly",
         "link": "https://bytecodealliance.org/articles/announcing-the-bytecode-alliance",
         "date": "2019-11-12"
@@ -8072,11 +7212,6 @@
     {
         "title": "Designing for iOS and Android",
         "link": "https://learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html",
-        "date": "2019-11-11"
-    },
-    {
-        "title": "SandDance – visually explore, understand, and present your data",
-        "link": "https://sanddance.js.org/",
         "date": "2019-11-11"
     },
     {
@@ -8210,11 +7345,6 @@
         "date": "2019-10-23"
     },
     {
-        "title": "Query your OS like a database",
-        "link": "https://osquery.io/",
-        "date": "2019-10-23"
-    },
-    {
         "title": "The career advice I wish I had",
         "link": "https://welearncode.com/career-advice/",
         "date": "2019-10-22"
@@ -8310,11 +7440,6 @@
         "date": "2019-10-10"
     },
     {
-        "title": "An \"open source\" alternative to Zapier",
-        "link": "https://n8n.io/",
-        "date": "2019-10-09"
-    },
-    {
         "title": "How to write fast code in Ruby on Rails",
         "link": "https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails",
         "date": "2019-10-08"
@@ -8335,28 +7460,13 @@
         "date": "2019-10-07"
     },
     {
-        "title": "A framework for elegantly configuring complex applications",
-        "link": "https://cli.dev/",
-        "date": "2019-10-07"
-    },
-    {
         "title": "Debating OSS with DHH",
         "link": "https://ma.tt/2019/10/debating-oss-with-dhh/",
         "date": "2019-10-07"
     },
     {
-        "title": "Bot Land – a game where you fight others with code",
-        "link": "https://bot.land/",
-        "date": "2019-10-04"
-    },
-    {
         "title": "Entrepreneurs who sleep more are better at spotting good ideas",
         "link": "https://hbr.org/2019/10/entrepreneurs-who-sleep-more-are-better-at-spotting-good-ideas",
-        "date": "2019-10-04"
-    },
-    {
-        "title": "Speak. Write. Listen.",
-        "link": "https://www.speakwritelisten.com/",
         "date": "2019-10-04"
     },
     {
@@ -8425,11 +7535,6 @@
         "date": "2019-09-26"
     },
     {
-        "title": "Watermill – a Go library for working efficiently with message streams",
-        "link": "https://watermill.io",
-        "date": "2019-09-26"
-    },
-    {
         "title": "Performance metrics for blazingly fast web apps",
         "link": "https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb",
         "date": "2019-09-25"
@@ -8493,11 +7598,6 @@
         "title": "Sequelize ORM found vulnerable to SQL injection",
         "link": "https://snyk.io/blog/sequelize-orm-npm-library-found-vulnerable-to-sql-injection-attacks/",
         "date": "2019-09-14"
-    },
-    {
-        "title": "Can I email…?",
-        "link": "https://www.caniemail.com/",
-        "date": "2019-09-13"
     },
     {
         "title": "Sunsetting Python 2",
@@ -8570,11 +7670,6 @@
         "date": "2019-09-05"
     },
     {
-        "title": "Regex crossword puzzles!",
-        "link": "https://regexcrossword.com/",
-        "date": "2019-09-03"
-    },
-    {
         "title": "npm announced plans to launch an open source funding platform",
         "link": "https://blog.npmjs.org/post/187382017885/supporting-open-source-maintainers",
         "date": "2019-09-03"
@@ -8598,11 +7693,6 @@
         "title": "Play with fluids in your browser (via WebGL)",
         "link": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
         "date": "2019-08-29"
-    },
-    {
-        "title": "WTF is a personal information dashboard for your terminal",
-        "link": "https://wtfutil.com/",
-        "date": "2019-08-28"
     },
     {
         "title": "8 productivity principles for any developer",
@@ -8695,16 +7785,6 @@
         "date": "2019-08-19"
     },
     {
-        "title": "An online playground for Tailwind CSS",
-        "link": "https://tailwind.run",
-        "date": "2019-08-16"
-    },
-    {
-        "title": "A visual history of your favorite tech",
-        "link": "https://www.versionmuseum.com/",
-        "date": "2019-08-16"
-    },
-    {
         "title": "CloudFlare files its S-1 to the SEC as it prepares to IPO",
         "link": "https://www.sec.gov/Archives/edgar/data/1477333/000119312519222176/d735023ds1.htm",
         "date": "2019-08-15"
@@ -8738,11 +7818,6 @@
         "title": "All the best engineering advice I stole from non-technical people",
         "link": "https://scribe.rip/@bellmar/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f",
         "date": "2019-08-14"
-    },
-    {
-        "title": "Here, try some JSON.pizza (yes you read that correctly) 🍕",
-        "link": "https://json.pizza/",
-        "date": "2019-08-13"
     },
     {
         "title": "GitHub stars won’t pay your rent",
@@ -8800,11 +7875,6 @@
         "date": "2019-08-06"
     },
     {
-        "title": "The Rust language cheat sheet ",
-        "link": "https://cheats.rs",
-        "date": "2019-08-06"
-    },
-    {
         "title": "Fast software, the best software",
         "link": "https://craigmod.com/essays/fast_software/",
         "date": "2019-08-05"
@@ -8827,11 +7897,6 @@
     {
         "title": "Announcing PartiQL: one query language for all your data",
         "link": "https://aws.amazon.com/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/",
-        "date": "2019-08-02"
-    },
-    {
-        "title": "The web we want",
-        "link": "https://webwewant.fyi/",
         "date": "2019-08-02"
     },
     {
@@ -8872,11 +7937,6 @@
     {
         "title": "Super Mario 64 decompiled",
         "link": "https://warosu.org/vr/thread/5644072",
-        "date": "2019-07-30"
-    },
-    {
-        "title": "Preview and convert Sketch design files into any framework and library",
-        "link": "https://xlayers.dev",
         "date": "2019-07-30"
     },
     {
@@ -8960,11 +8020,6 @@
         "date": "2019-07-22"
     },
     {
-        "title": "Use Google Sheets as your no-setup database",
-        "link": "https://steinhq.com/",
-        "date": "2019-07-22"
-    },
-    {
         "title": "Why you only need to test with 5 users",
         "link": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
         "date": "2019-07-22"
@@ -8987,11 +8042,6 @@
     {
         "title": "What is POSIX? Richard Stallman explains",
         "link": "https://opensource.com/article/19/7/what-posix-richard-stallman-explains",
-        "date": "2019-07-16"
-    },
-    {
-        "title": "What is a 1x Engineer?",
-        "link": "https://1x.engineer/",
         "date": "2019-07-16"
     },
     {
@@ -9050,11 +8100,6 @@
         "date": "2019-07-09"
     },
     {
-        "title": "How to run a small social network site for your friends",
-        "link": "https://runyourown.social/",
-        "date": "2019-07-09"
-    },
-    {
         "title": "Really typing Vue",
         "link": "https://sobolevn.me/2019/06/really-typing-vue",
         "date": "2019-07-09"
@@ -9065,11 +8110,6 @@
         "date": "2019-07-08"
     },
     {
-        "title": "Hypothesis seeks to automate your test process",
-        "link": "https://hypothesis.works/",
-        "date": "2019-07-08"
-    },
-    {
         "title": "I’ve spent 5 years writing a JavaScript framework on my own",
         "link": "https://scribe.rip/@jcormont/ive-spent-5-years-writing-a-javascript-framework-on-my-own-af1201f4075c",
         "date": "2019-07-08"
@@ -9077,11 +8117,6 @@
     {
         "title": "One program written in Python, Go, and Rust",
         "link": "http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/",
-        "date": "2019-07-05"
-    },
-    {
-        "title": "Proudly wear your contribution map",
-        "link": "https://gitmerch.com/",
         "date": "2019-07-05"
     },
     {
@@ -9120,11 +8155,6 @@
         "date": "2019-07-03"
     },
     {
-        "title": "Vector – a high-performance logs, events, & metrics router",
-        "link": "https://vector.dev/",
-        "date": "2019-07-03"
-    },
-    {
         "title": "npm, Inc settled its labor rights union-busting battle",
         "link": "https://www.theregister.co.uk/2019/07/02/npm_abandons_settlement_talks/",
         "date": "2019-07-02"
@@ -9153,11 +8183,6 @@
         "title": "The cost of JavaScript in 2019",
         "link": "https://v8.dev/blog/cost-of-javascript-2019",
         "date": "2019-06-29"
-    },
-    {
-        "title": "Hey advertisers, track THIS!",
-        "link": "https://trackthis.link/",
-        "date": "2019-06-28"
     },
     {
         "title": "HTML is the web",
@@ -9265,24 +8290,9 @@
         "date": "2019-06-18"
     },
     {
-        "title": "Meet Olivia – a contextual chatbot built with an artificial neural network",
-        "link": "https://olivia-ai.org/",
-        "date": "2019-06-18"
-    },
-    {
         "title": "Making monkey patches sane again",
         "link": "https://joel.am/blog/introducing-sane-patch",
         "date": "2019-06-18"
-    },
-    {
-        "title": "Welcome to Libra?",
-        "link": "https://libra.org",
-        "date": "2019-06-18"
-    },
-    {
-        "title": "Generate a GitHub repo card for use around the web",
-        "link": "https://gh-card.dev/",
-        "date": "2019-06-17"
     },
     {
         "title": "The 'why' and 'how' of corporations and open source",
@@ -9292,11 +8302,6 @@
     {
         "title": "The future of Have I Been Pwned",
         "link": "https://www.troyhunt.com/project-svalbard-the-future-of-have-i-been-pwned/",
-        "date": "2019-06-17"
-    },
-    {
-        "title": "Quickly check the EoL dates for various tools and tech",
-        "link": "https://endoflife.date/",
         "date": "2019-06-17"
     },
     {
@@ -9345,11 +8350,6 @@
         "date": "2019-06-11"
     },
     {
-        "title": "Navigate through GitHub repositories faster than ever",
-        "link": "https://octolinker.now.sh",
-        "date": "2019-06-11"
-    },
-    {
         "title": "Micro frontends",
         "link": "https://martinfowler.com/articles/micro-frontends.html",
         "date": "2019-06-10"
@@ -9395,11 +8395,6 @@
         "date": "2019-06-07"
     },
     {
-        "title": "Hundreds of open source remakes of great old games in one place",
-        "link": "https://osgameclones.com/",
-        "date": "2019-06-07"
-    },
-    {
         "title": "Render snarky comments in Comic Sans 🤣",
         "link": "https://www.zachleat.com/web/snarky/",
         "date": "2019-06-07"
@@ -9427,11 +8422,6 @@
     {
         "title": "Why we're relicensing CockroachDB",
         "link": "https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/",
-        "date": "2019-06-05"
-    },
-    {
-        "title": "Firefox Monitor now available to keep track of security breaches",
-        "link": "https://monitor.firefox.com/",
         "date": "2019-06-05"
     },
     {
@@ -9515,11 +8505,6 @@
         "date": "2019-05-30"
     },
     {
-        "title": "Zdog – round, flat, designer-friendly pseudo-3D engine for canvas & SVG",
-        "link": "https://zzz.dog/",
-        "date": "2019-05-30"
-    },
-    {
         "title": "The #1 way to spice up your designs (and create a more cohesive brand)",
         "link": "https://learnui.design/blog/spice-up-designs-create-cohesive-brand.html",
         "date": "2019-05-30"
@@ -9562,11 +8547,6 @@
     {
         "title": "Demystifying JAMstack: an interview with Phil Hawskworth",
         "link": "https://www.smashingmagazine.com/2019/05/demystifying-jamstack-interview-phil-hawskworth/",
-        "date": "2019-05-28"
-    },
-    {
-        "title": "CSS Grid generator",
-        "link": "https://cssgrid-generator.netlify.com/",
         "date": "2019-05-28"
     },
     {
@@ -9645,11 +8625,6 @@
         "date": "2019-05-23"
     },
     {
-        "title": "A toolkit for building accessible, rich web apps with React",
-        "link": "https://reakit.io/",
-        "date": "2019-05-23"
-    },
-    {
         "title": "Sponsor your favorite open source contributors directly on GitHub",
         "link": "https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/",
         "date": "2019-05-23"
@@ -9703,11 +8678,6 @@
         "title": "The skills JS developers need in 2019",
         "link": "https://cvcompiler.com/blog/game-of-frameworks-javascript-trends-of-2019/?ref=changelog",
         "date": "2019-05-16"
-    },
-    {
-        "title": "Beautifully simple click-to-copy CSS effects",
-        "link": "https://cssfx.dev/",
-        "date": "2019-05-15"
     },
     {
         "title": "Learning a new and unfamiliar code base",
@@ -9820,11 +8790,6 @@
         "date": "2019-05-04"
     },
     {
-        "title": "Go by example",
-        "link": "https://gobyexample.com/",
-        "date": "2019-05-03"
-    },
-    {
         "title": "You should have a personal web site",
         "link": "https://writing.markchristian.org/2019/04/29/personal-web-sites/",
         "date": "2019-05-03"
@@ -9880,11 +8845,6 @@
         "date": "2019-04-27"
     },
     {
-        "title": "A terminal UI for tshark, inspired by Wireshark",
-        "link": "https://termshark.io/",
-        "date": "2019-04-26"
-    },
-    {
         "title": "Why people use curl",
         "link": "https://daniel.haxx.se/blog/2019/04/24/why-they-use-curl/",
         "date": "2019-04-26"
@@ -9912,11 +8872,6 @@
     {
         "title": "What do companies expect from Python devs in 2019?",
         "link": "https://cvcompiler.com/blog/what-do-companies-expect-from-python-devs-in-2019/",
-        "date": "2019-04-24"
-    },
-    {
-        "title": "Sorbet – a static type checker for Ruby",
-        "link": "https://sorbet.org/",
         "date": "2019-04-24"
     },
     {
@@ -9948,11 +8903,6 @@
         "title": "A geometric Rust adventure",
         "link": "https://eev.ee/blog/2018/03/30/a-geometric-rust-adventure/",
         "date": "2019-04-23"
-    },
-    {
-        "title": "A tool to quickly mock out end points, setup delays, and more...",
-        "link": "https://mockit.netlify.com/",
-        "date": "2019-04-22"
     },
     {
         "title": "Svelte 3: rethinking reactivity",
@@ -10000,11 +8950,6 @@
         "date": "2019-04-16"
     },
     {
-        "title": "Themer - personalized matching themes for all of your development tools",
-        "link": "https://themer.dev",
-        "date": "2019-04-16"
-    },
-    {
         "title": "“Privacy. That’s iPhone” — made us raise our eyebrows",
         "link": "https://blog.mozilla.org/blog/2019/04/15/the-bug-in-apples-latest-marketing-campaign/",
         "date": "2019-04-15"
@@ -10033,21 +8978,6 @@
         "title": "Short circuiting in Bash",
         "link": "https://www.assertnotmagic.com/2019/04/09/bash-short-circuiting/",
         "date": "2019-04-12"
-    },
-    {
-        "title": "CSS code golf? CSS code golf!",
-        "link": "https://cssbattle.dev",
-        "date": "2019-04-12"
-    },
-    {
-        "title": "Maintainers Anonymous 🎧",
-        "link": "https://www.maintainersanonymous.com/",
-        "date": "2019-04-12"
-    },
-    {
-        "title": "Discover awesome tech stacks for building different apps and features",
-        "link": "https://awesomestacks.dev/",
-        "date": "2019-04-11"
     },
     {
         "title": "Learn more programming languages, even if you won't use them",
@@ -10090,11 +9020,6 @@
         "date": "2019-04-09"
     },
     {
-        "title": "Public Sans",
-        "link": "https://public-sans.digital.gov/",
-        "date": "2019-04-09"
-    },
-    {
         "title": "How decision trees are trained 🌲",
         "link": "https://victorzhou.com/blog/gini-impurity/",
         "date": "2019-04-08"
@@ -10125,11 +9050,6 @@
         "date": "2019-04-05"
     },
     {
-        "title": "Deskgap — build cross-platform desktop apps with web technologies",
-        "link": "https://deskgap.com/",
-        "date": "2019-04-05"
-    },
-    {
         "title": "Product-building articles by PMs at major tech companies",
         "link": "https://find.xyz/map/product-management-search-engine",
         "date": "2019-04-05"
@@ -10145,11 +9065,6 @@
         "date": "2019-04-04"
     },
     {
-        "title": "Display your macOS Dock in the Touch Bar",
-        "link": "https://pock.pigigaldi.com/",
-        "date": "2019-04-04"
-    },
-    {
         "title": "Practical Go — Real world advice for writing maintainable Go programs",
         "link": "https://dave.cheney.net/practical-go/presentations/qcon-china.html",
         "date": "2019-04-04"
@@ -10158,11 +9073,6 @@
         "title": "15 Git commands you may not know",
         "link": "https://dev.to/zaiste/15-git-commands-you-may-not-know-4a8j",
         "date": "2019-04-04"
-    },
-    {
-        "title": "Editor.js — next generation block-style text editor",
-        "link": "https://editorjs.io/",
-        "date": "2019-04-03"
     },
     {
         "title": "Why I miss Rails",
@@ -10187,11 +9097,6 @@
     {
         "title": "On learning new technologies: why breadth beats depth",
         "link": "https://codewithoutrules.com/2019/03/29/learn-new-technologies/",
-        "date": "2019-03-29"
-    },
-    {
-        "title": "Interviews with developers who became managers",
-        "link": "https://devtomanager.com/",
         "date": "2019-03-29"
     },
     {
@@ -10305,28 +9210,8 @@
         "date": "2019-03-20"
     },
     {
-        "title": "Datasets for machine learning",
-        "link": "https://www.datasetlist.com/",
-        "date": "2019-03-20"
-    },
-    {
-        "title": "QuickChart is here to replace Google's defunct Image Charts API",
-        "link": "https://quickchart.io/",
-        "date": "2019-03-20"
-    },
-    {
-        "title": "A collection of useful JS snippets that you can understand in t-minus 30 seconds",
-        "link": "https://30secondsofcode.org/",
-        "date": "2019-03-20"
-    },
-    {
         "title": "Open source has a working-for-free problem",
         "link": "https://blog.tidelift.com/open-source-has-a-working-for-free-problem",
-        "date": "2019-03-19"
-    },
-    {
-        "title": "A new GraphQL Server implementation built for Python 3.6+",
-        "link": "https://tartiflette.io/",
         "date": "2019-03-19"
     },
     {
@@ -10380,11 +9265,6 @@
         "date": "2019-03-14"
     },
     {
-        "title": "Connect all your Kubernetes clusters, wherever they are in the world",
-        "link": "https://submariner.io/",
-        "date": "2019-03-14"
-    },
-    {
         "title": "Templating tmux with tmuxinator",
         "link": "https://thoughtbot.com/blog/templating-tmux-with-tmuxinator",
         "date": "2019-03-13"
@@ -10403,11 +9283,6 @@
         "title": "Run the Singularity container runtime on a Mac",
         "link": "https://www.sylabs.io/2019/03/introducing-singularity-desktop-mobile-and-reproducible-linux-containers-for-compute-driven-workloads-on-macos/",
         "date": "2019-03-13"
-    },
-    {
-        "title": "Ghidra – The NSA's suite of reverse engineering tools",
-        "link": "https://ghidra-sre.org/",
-        "date": "2019-03-12"
     },
     {
         "title": "NGINX has been acquired by F5",
@@ -10510,16 +9385,6 @@
         "date": "2019-02-28"
     },
     {
-        "title": "GPU.js — GPU accelerated JavaScript",
-        "link": "http://gpu.rocks/",
-        "date": "2019-02-27"
-    },
-    {
-        "title": "K3s — Lightweight Kubernetes",
-        "link": "https://k3s.io/",
-        "date": "2019-02-27"
-    },
-    {
         "title": "We need Chrome no more",
         "link": "https://redalemeden.com/blog/2019/we-need-chrome-no-more",
         "date": "2019-02-27"
@@ -10532,11 +9397,6 @@
     {
         "title": "Should I use Apollo for GraphQL?",
         "link": "https://blog.bitsrc.io/should-i-use-apollo-for-graphql-936129de72fe",
-        "date": "2019-02-27"
-    },
-    {
-        "title": "Zero Server– a  zero config web framework",
-        "link": "https://zeroserver.io/",
         "date": "2019-02-27"
     },
     {
@@ -10700,11 +9560,6 @@
         "date": "2019-02-11"
     },
     {
-        "title": "Linaria – write CSS in JS and get real CSS files during build",
-        "link": "https://linaria.now.sh/",
-        "date": "2019-02-11"
-    },
-    {
         "title": "The Story of Ember.js",
         "link": "https://www.youtube.com/watch?v=Cvz-9ccflKQ",
         "date": "2019-02-11"
@@ -10750,11 +9605,6 @@
         "date": "2019-02-08"
     },
     {
-        "title": "JAMstack cheatsheet",
-        "link": "https://jamstack.wtf/",
-        "date": "2019-02-07"
-    },
-    {
         "title": "The world’s easiest introduction to WebAssembly with Golang for JS developers",
         "link": "https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02",
         "date": "2019-02-07"
@@ -10772,11 +9622,6 @@
     {
         "title": "Commercial support for curl",
         "link": "https://daniel.haxx.se/blog/2019/02/02/im-on-team-wolfssl/",
-        "date": "2019-02-05"
-    },
-    {
-        "title": "Wasmer — Universal binaries powered by WebAssembly (Wasm)",
-        "link": "https://wasmer.io/",
         "date": "2019-02-05"
     },
     {
@@ -10875,16 +9720,6 @@
         "date": "2019-01-29"
     },
     {
-        "title": "A fantasy computer for making, sharing, and playing tiny retro-looking games",
-        "link": "https://script-8.github.io/",
-        "date": "2019-01-28"
-    },
-    {
-        "title": "A podcast for the Swift community, by the Swift community",
-        "link": "https://www.swiftcommunitypodcast.org",
-        "date": "2019-01-28"
-    },
-    {
         "title": "Houston, we have a software dependency problem",
         "link": "https://research.swtch.com/deps",
         "date": "2019-01-28"
@@ -10935,11 +9770,6 @@
         "date": "2019-01-22"
     },
     {
-        "title": "Test drive 42 programming fonts",
-        "link": "http://app.programmingfonts.org/",
-        "date": "2019-01-22"
-    },
-    {
         "title": "Every new web app at PayPal begins with TypeScript (here's why)",
         "link": "https://scribe.rip/paypal-engineering/why-every-new-web-app-at-paypal-starts-with-typescript-9d1acc07c839",
         "date": "2019-01-22"
@@ -10973,11 +9803,6 @@
         "title": "One-click debugging for HTTP(S)",
         "link": "https://httptoolkit.tech/view",
         "date": "2019-01-17"
-    },
-    {
-        "title": "Now you can listen to Startup Playbook by Sam Altman (for free)",
-        "link": "https://playbook.samaltman.com/",
-        "date": "2019-01-16"
     },
     {
         "title": "I’m going to work full-time on free software",
@@ -11080,11 +9905,6 @@
         "date": "2019-01-09"
     },
     {
-        "title": "This slick new site by Google teaches you all about open source",
-        "link": "https://opensource.dev/",
-        "date": "2019-01-09"
-    },
-    {
         "title": "Stepping away from Sass",
         "link": "https://cathydutton.co.uk/posts/why-i-stopped-using-sass/",
         "date": "2019-01-09"
@@ -11093,16 +9913,6 @@
         "title": "The melting pot of JavaScript",
         "link": "https://increment.com/development/the-melting-pot-of-javascript/",
         "date": "2019-01-09"
-    },
-    {
-        "title": "A CLI for SQLite with auto-completion and syntax highlighting",
-        "link": "https://litecli.com",
-        "date": "2019-01-08"
-    },
-    {
-        "title": "Local Kubernetes development without the stress",
-        "link": "https://tilt.build",
-        "date": "2019-01-08"
     },
     {
         "title": "Reader mode: the button to beat",
@@ -11127,11 +9937,6 @@
     {
         "title": "Lessons learned from a year of fighting with Webpack and Babel",
         "link": "https://scribe.rip/@obahareth/lessons-learned-from-a-year-of-fighting-with-webpack-and-babel-ce3b4b634c46",
-        "date": "2019-01-04"
-    },
-    {
-        "title": "Find your next tech conference on this crowd-sourced website",
-        "link": "https://confs.tech/",
         "date": "2019-01-04"
     },
     {
@@ -11172,11 +9977,6 @@
     {
         "title": "Rallax.js – dead simple parallax scrolling",
         "link": "https://chriscavs.github.io/rallax-demo/",
-        "date": "2018-12-20"
-    },
-    {
-        "title": "Interviews with experienced software developers on moving to management",
-        "link": "https://devtomanager.com",
         "date": "2018-12-20"
     },
     {
@@ -11235,11 +10035,6 @@
         "date": "2018-12-17"
     },
     {
-        "title": "An NLP tool for improving dev resumes",
-        "link": "https://cvcompiler.com/",
-        "date": "2018-12-17"
-    },
-    {
         "title": "Open source confronts its midlife crisis",
         "link": "http://dtrace.org/blogs/bmc/2018/12/14/open-source-confronts-its-midlife-crisis/",
         "date": "2018-12-17"
@@ -11292,16 +10087,6 @@
     {
         "title": "Mistletoe offline",
         "link": "https://24ways.org/2018/mistletoe-offline/",
-        "date": "2018-12-11"
-    },
-    {
-        "title": "Crossplane – the open source multicloud control plane",
-        "link": "https://crossplane.io/",
-        "date": "2018-12-11"
-    },
-    {
-        "title": "A fake online REST API for testing and prototyping",
-        "link": "http://jsonplaceholder.typicode.com/",
         "date": "2018-12-11"
     },
     {
@@ -11405,11 +10190,6 @@
         "date": "2018-11-30"
     },
     {
-        "title": "Simple app development & deployment into any K8S cluster",
-        "link": "https://draft.sh/",
-        "date": "2018-11-30"
-    },
-    {
         "title": "Dig in to Rust's 2018 survey results",
         "link": "https://blog.rust-lang.org/2018/11/27/Rust-survey-2018.html",
         "date": "2018-11-29"
@@ -11452,11 +10232,6 @@
     {
         "title": "Pentagram designed the prettiest computer chip you’ve ever seen",
         "link": "https://www.fastcompany.com/90270782/pentagram-designed-the-prettiest-computer-chip-youve-ever-seen",
-        "date": "2018-11-28"
-    },
-    {
-        "title": "Typetura – a fluid typesetting tool ",
-        "link": "https://typetura.com/",
         "date": "2018-11-28"
     },
     {
@@ -11530,18 +10305,8 @@
         "date": "2018-11-19"
     },
     {
-        "title": "The 2018 State of JS results are in! 🔥",
-        "link": "https://2018.stateofjs.com/",
-        "date": "2018-11-19"
-    },
-    {
         "title": "Kubernetes port forwarding for local development",
         "link": "https://imti.co/kubernetes-port-forwarding/",
-        "date": "2018-11-19"
-    },
-    {
-        "title": "Generate your Nginx config with this nifty website",
-        "link": "https://nginxconfig.io/",
         "date": "2018-11-19"
     },
     {
@@ -11675,11 +10440,6 @@
         "date": "2018-11-06"
     },
     {
-        "title": "The home of your next big idea (under 1 megabyte)",
-        "link": "https://1mb.site/",
-        "date": "2018-11-06"
-    },
-    {
         "title": "A multi-platform Nintendo Game Boy Color emulator written in Go",
         "link": "https://humpheh.github.io/goboy/",
         "date": "2018-11-06"
@@ -11687,11 +10447,6 @@
     {
         "title": "Apple's new anti-tracking feature in Safari takes toll",
         "link": "https://adage.com/article/digital/apple-s-itp-2-starting-a-huge-impact-advertisers/315476/",
-        "date": "2018-11-05"
-    },
-    {
-        "title": "The open source password manager you deserve",
-        "link": "https://buttercup.pw/",
         "date": "2018-11-05"
     },
     {
@@ -11713,11 +10468,6 @@
         "title": "Google Chrome’s users take a back seat to its bottom line",
         "link": "https://www.eff.org/deeplinks/2018/11/google-chromes-users-take-back-seat-its-bottom-line",
         "date": "2018-11-03"
-    },
-    {
-        "title": "City Lights — a suite of beautiful matte-dark-themed goodies",
-        "link": "http://citylights.xyz/",
-        "date": "2018-11-02"
     },
     {
         "title": "Ervy – bring charts to terminal",
@@ -11785,11 +10535,6 @@
         "date": "2018-10-24"
     },
     {
-        "title": "Every byte of a TLS connection explained and reproduced",
-        "link": "https://tls.ulfheim.net/",
-        "date": "2018-10-23"
-    },
-    {
         "title": "5 tips for choosing the right open source database",
         "link": "https://opensource.com/article/18/10/tips-choosing-right-open-source-database",
         "date": "2018-10-23"
@@ -11840,11 +10585,6 @@
         "date": "2018-10-17"
     },
     {
-        "title": "A nice collection of free Ghost themes",
-        "link": "https://ghost.franktheme.com/",
-        "date": "2018-10-17"
-    },
-    {
         "title": "Find CloudFormation difficult to work with? Ditch YAML/JSON with AWS Cloud Development Kit (CDK)",
         "link": "https://awslabs.github.io/aws-cdk/",
         "date": "2018-10-16"
@@ -11867,11 +10607,6 @@
     {
         "title": "How to get things done when you don't feel like it",
         "link": "https://queue.acm.org/detail.cfm?id=3280677",
-        "date": "2018-10-12"
-    },
-    {
-        "title": "A nice collection of React.js examples",
-        "link": "https://reactjsexample.com/",
         "date": "2018-10-12"
     },
     {
@@ -11970,11 +10705,6 @@
         "date": "2018-10-02"
     },
     {
-        "title": "Swag opportunities for developers 😎",
-        "link": "https://devswag.io/",
-        "date": "2018-10-02"
-    },
-    {
         "title": "Crypto’s 80% plunge is now worse than stocks' dot-com crash",
         "link": "https://www.bloomberg.com/news/articles/2018-09-12/crypto-s-crash-just-surpassed-dot-com-levels-as-losses-reach-80",
         "date": "2018-10-02"
@@ -12007,11 +10737,6 @@
     {
         "title": "CodeSandbox Containers is in beta",
         "link": "https://hackernoon.com/codesandbox-containers-5864a8f26715",
-        "date": "2018-09-28"
-    },
-    {
-        "title": "Visual cheatsheet for CSS Grid layout",
-        "link": "http://grid.malven.co/",
         "date": "2018-09-28"
     },
     {
@@ -12058,11 +10783,6 @@
         "title": "How to fail as a new engineering manager",
         "link": "https://scribe.rip/how-to-fail-as-a-new-engineering-manager-30b5fb617a",
         "date": "2018-09-21"
-    },
-    {
-        "title": "An encyclopedia of friendly online bots and resources for making them",
-        "link": "https://botwiki.org/",
-        "date": "2018-09-20"
     },
     {
         "title": "Should we stop listening to podcasts?",
@@ -12125,11 +10845,6 @@
         "date": "2018-09-14"
     },
     {
-        "title": "UmiJS – a pluggable, enterprise-level React app framework",
-        "link": "https://umijs.org/",
-        "date": "2018-09-14"
-    },
-    {
         "title": "Product vision, agile, and going to the moon",
         "link": "https://www.coderhood.com/product-vision-agile-going-to-the-moon/",
         "date": "2018-09-14"
@@ -12157,11 +10872,6 @@
     {
         "title": "What is Kubernetes?",
         "link": "https://learnk8s.io/blog/what-is-kubernetes",
-        "date": "2018-09-11"
-    },
-    {
-        "title": "Refract – master your component's effects through reactive programming",
-        "link": "https://refract.js.org/",
         "date": "2018-09-11"
     },
     {
@@ -12285,11 +10995,6 @@
         "date": "2018-08-28"
     },
     {
-        "title": "VueToolbox",
-        "link": "http://www.vuetoolbox.com/",
-        "date": "2018-08-28"
-    },
-    {
         "title": "Making Slack better with BetterSlack",
         "link": "https://g3rv4.com/2018/08/betterslack",
         "date": "2018-08-27"
@@ -12308,11 +11013,6 @@
         "title": "HashWick V8 vulnerability",
         "link": "https://darksi.de/12.hashwick-v8-vulnerability/",
         "date": "2018-08-24"
-    },
-    {
-        "title": "Publii - Open source CMS for static websites",
-        "link": "https://getpublii.com/",
-        "date": "2018-08-23"
     },
     {
         "title": "Windows 2000 emulated in WebAssembly",
@@ -12510,11 +11210,6 @@
         "date": "2018-08-07"
     },
     {
-        "title": "Tom creates customers, subscriptions plans, and send notifications",
-        "link": "https://tom.js.org",
-        "date": "2018-08-07"
-    },
-    {
         "title": "VS Code extensions for the discerning developer palate",
         "link": "https://css-tricks.com/vs-code-extensions-for-the-discerning-developer-palette/",
         "date": "2018-08-06"
@@ -12655,19 +11350,9 @@
         "date": "2018-07-19"
     },
     {
-        "title": "Get a random item you've liked/bookmarked when you open a new browser tab",
-        "link": "https://waytab.io",
-        "date": "2018-07-18"
-    },
-    {
         "title": "A word cloud made from the top 2000 READMEs on GitHub ",
         "link": "https://medium.com/@tbarrasso/open-source-words-part-2-ce1077305a32",
         "date": "2018-07-18"
-    },
-    {
-        "title": "Webamp now includes MilkDrop 🤘",
-        "link": "https://webamp.org",
-        "date": "2018-07-17"
     },
     {
         "title": "UIengine 1.0 – a workbench for UI-driven development",
@@ -12710,11 +11395,6 @@
         "date": "2018-07-11"
     },
     {
-        "title": "Browsh – a fully-modern text-based browser",
-        "link": "https://www.brow.sh/",
-        "date": "2018-07-10"
-    },
-    {
         "title": "VS Code now with grid editor layout",
         "link": "https://code.visualstudio.com/updates/v1_25",
         "date": "2018-07-09"
@@ -12750,11 +11430,6 @@
         "date": "2018-07-03"
     },
     {
-        "title": "The Vue Handbook",
-        "link": "https://vuehandbook.com",
-        "date": "2018-07-03"
-    },
-    {
         "title": "Rules of optimization",
         "link": "http://www.humus.name/index.php?page=News&ID=383",
         "date": "2018-07-03"
@@ -12772,11 +11447,6 @@
     {
         "title": "Add React to any website",
         "link": "https://reactjs.org/docs/add-react-to-a-website.html",
-        "date": "2018-06-28"
-    },
-    {
-        "title": "Bit works with Git and NPM to easily share and sync code between projects",
-        "link": "https://bitsrc.io/",
         "date": "2018-06-28"
     },
     {
@@ -12800,21 +11470,6 @@
         "date": "2018-06-25"
     },
     {
-        "title": "molten  – a modern API framework for Python",
-        "link": "https://moltenframework.com",
-        "date": "2018-06-25"
-    },
-    {
-        "title": "Strapdown.js - instant and elegant markdown documents",
-        "link": "http://strapdownjs.com/",
-        "date": "2018-06-23"
-    },
-    {
-        "title": "transfer.sh – easy and fast file sharing from the command line",
-        "link": "https://transfer.sh/",
-        "date": "2018-06-22"
-    },
-    {
         "title": "Meet the GitLab web IDE",
         "link": "https://about.gitlab.com/2018/06/15/introducing-gitlab-s-integrated-development-environment/",
         "date": "2018-06-22"
@@ -12833,11 +11488,6 @@
         "title": "Video.js 7 is here! 🎉",
         "link": "http://blog.videojs.com/video-js-7-is-here/",
         "date": "2018-06-21"
-    },
-    {
-        "title": "Free logos for your open source projects",
-        "link": "http://openlogos.org/",
-        "date": "2018-06-20"
     },
     {
         "title": "Postgres features you may not have tried but should",
@@ -12867,11 +11517,6 @@
     {
         "title": "Stick with security: YubiKey, SSH, GnuPG, macOS",
         "link": "https://evilmartians.com/chronicles/stick-with-security-yubikey-ssh-gnupg-macos",
-        "date": "2018-06-12"
-    },
-    {
-        "title": "Docz – it has never been so easy to document your things!",
-        "link": "https://www.docz.site/",
         "date": "2018-06-12"
     },
     {
@@ -12912,11 +11557,6 @@
     {
         "title": "10 things Ryan Dahl regrets about Node.js [26:41]",
         "link": "https://www.youtube.com/watch?v=M3BM9TB-8yA",
-        "date": "2018-06-06"
-    },
-    {
-        "title": "freeCodeCamp's new curriculum - 1,000+ new interactive coding challenges",
-        "link": "https://learn.freecodecamp.org",
         "date": "2018-06-06"
     },
     {
@@ -12980,11 +11620,6 @@
         "date": "2018-05-29"
     },
     {
-        "title": "Healthchecks – a watchdog for your cron jobs",
-        "link": "https://healthchecks.io",
-        "date": "2018-05-29"
-    },
-    {
         "title": "Will Kubernetes collapse under the weight of its complexity?",
         "link": "http://www.influxdata.com/blog/will-kubernetes-collapse-under-the-weight-of-its-complexity/",
         "date": "2018-05-25"
@@ -12992,11 +11627,6 @@
     {
         "title": "Ten years of Vim",
         "link": "https://matthias-endler.de/2018/ten-years-of-Vim/",
-        "date": "2018-05-25"
-    },
-    {
-        "title": "Wired Elements – web components for wire framing",
-        "link": "https://wiredjs.com/",
         "date": "2018-05-25"
     },
     {
@@ -13030,19 +11660,9 @@
         "date": "2018-05-23"
     },
     {
-        "title": "The Service Worker Cookbook",
-        "link": "https://serviceworke.rs/",
-        "date": "2018-05-22"
-    },
-    {
         "title": "An Efail postmortem ",
         "link": "https://scribe.rip/@cipherpunk/efail-a-postmortem-4bef2cea4c08",
         "date": "2018-05-21"
-    },
-    {
-        "title": "The Developers Union - a ‘non-union union’ advocating for sustainability in the App Store",
-        "link": "http://www.thedevelopersunion.org/",
-        "date": "2018-05-18"
     },
     {
         "title": "DevOps security checklist",
@@ -13100,11 +11720,6 @@
         "date": "2018-05-14"
     },
     {
-        "title": "WarriorJS – an exciting game of programming and Artificial Intelligence",
-        "link": "https://warrior.js.org",
-        "date": "2018-05-14"
-    },
-    {
         "title": "My struggle to learn React",
         "link": "http://bradfrost.com/blog/post/my-struggle-to-learn-react/",
         "date": "2018-05-11"
@@ -13125,18 +11740,8 @@
         "date": "2018-05-10"
     },
     {
-        "title": "Gitea – a painless self-hosted Git service",
-        "link": "https://gitea.io",
-        "date": "2018-05-08"
-    },
-    {
         "title": "Ember 2018 roadmap call for posts",
         "link": "https://emberjs.com/blog/2018/05/02/ember-2018-roadmap-call-for-posts.html",
-        "date": "2018-05-07"
-    },
-    {
-        "title": "Bettercap – the Swiss army knife for network attacks and monitoring",
-        "link": "https://www.bettercap.org/",
         "date": "2018-05-07"
     },
     {
@@ -13205,29 +11810,9 @@
         "date": "2018-04-26"
     },
     {
-        "title": "Are we decentralized yet?",
-        "link": "https://arewedecentralizedyet.com/",
-        "date": "2018-04-26"
-    },
-    {
-        "title": "Accent — a developer-oriented translation tool",
-        "link": "https://www.accent.reviews",
-        "date": "2018-04-26"
-    },
-    {
         "title": "Chrome DevTools tips and tricks you wish you knew already",
         "link": "https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2",
         "date": "2018-04-25"
-    },
-    {
-        "title": "Blazing fast CSS for your design systems and app components",
-        "link": "https://css-blocks.com/",
-        "date": "2018-04-25"
-    },
-    {
-        "title": "Learn, teach, work, and play in the WebAssembly Studio",
-        "link": "https://webassembly.studio/",
-        "date": "2018-04-24"
     },
     {
         "title": "Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)",
@@ -13242,11 +11827,6 @@
     {
         "title": "Use `onappinstalled` to know when your PWA gets installed",
         "link": "https://paul.kinlan.me/onappinstalled/",
-        "date": "2018-04-20"
-    },
-    {
-        "title": "FoundationDB – Apple's open source distributed database",
-        "link": "https://www.foundationdb.org/",
         "date": "2018-04-20"
     },
     {
@@ -13325,11 +11905,6 @@
         "date": "2018-04-16"
     },
     {
-        "title": "VuePress – a Vue-powered static site generator",
-        "link": "https://vuepress.vuejs.org/",
-        "date": "2018-04-16"
-    },
-    {
         "title": "I wasn't ready to become the maintainer of Babel",
         "link": "https://dev.to/hzoo/i-was-not-ready-to-become-the-maintainer-of-babel-2j6",
         "date": "2018-04-13"
@@ -13337,11 +11912,6 @@
     {
         "title": "Friendly Command Line Intro [book]",
         "link": "https://hellowebbooks.com/learn-command-line/",
-        "date": "2018-04-12"
-    },
-    {
-        "title": "LambStatus – a serverless status page system",
-        "link": "https://lambstatus.github.io",
         "date": "2018-04-12"
     },
     {
@@ -13390,11 +11960,6 @@
         "date": "2018-04-07"
     },
     {
-        "title": "Open source web app to publish documentation or books",
-        "link": "https://builderbook.org/",
-        "date": "2018-04-05"
-    },
-    {
         "title": "CockroachDB 2.0 has arrived!",
         "link": "https://www.cockroachlabs.com/blog/cockroachdb-2-0-release/",
         "date": "2018-04-04"
@@ -13402,11 +11967,6 @@
     {
         "title": "Cloudflare announces 1.1.1.1 - the fastest, privacy-first consumer DNS service",
         "link": "https://blog.cloudflare.com/announcing-1111/",
-        "date": "2018-04-02"
-    },
-    {
-        "title": "Tabler – a full-featured dashboard UI theme built on Bootstrap 4",
-        "link": "https://tabler.github.io",
         "date": "2018-04-02"
     },
     {
@@ -13455,11 +12015,6 @@
         "date": "2018-03-29"
     },
     {
-        "title": "CoderYouth - a code community for teenagers by teenagers",
-        "link": "https://coderyouth.club",
-        "date": "2018-03-29"
-    },
-    {
         "title": "Solomon Hykes says au revoir to Docker",
         "link": "https://blog.docker.com/2018/03/au-revoir/",
         "date": "2018-03-29"
@@ -13472,11 +12027,6 @@
     {
         "title": "The new PyPI is finally in beta",
         "link": "https://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html",
-        "date": "2018-03-28"
-    },
-    {
-        "title": "Orchestrate your web project with Webdash",
-        "link": "https://webdash.xyz/",
         "date": "2018-03-28"
     },
     {
@@ -13575,11 +12125,6 @@
         "date": "2018-03-15"
     },
     {
-        "title": "Gitkube – build and deploy Docker images to Kubernetes using git push",
-        "link": "https://gitkube.sh",
-        "date": "2018-03-15"
-    },
-    {
         "title": "I am a mediocre developer",
         "link": "https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn",
         "date": "2018-03-15"
@@ -13610,11 +12155,6 @@
         "date": "2018-03-13"
     },
     {
-        "title": "An XKCD excuse generator",
-        "link": "https://xkcd-excuse.com/",
-        "date": "2018-03-13"
-    },
-    {
         "title": "Staticli - A CLI tool for working with static site generator tooling",
         "link": "https://staticli.tech/staticli/",
         "date": "2018-03-13"
@@ -13627,16 +12167,6 @@
     {
         "title": "Things to keep in mind when building an engineering blog",
         "link": "https://www.stephaniemorillo.co/single-post/2018/03/05/Building-Up-A-Company-Engineering-Blog",
-        "date": "2018-03-09"
-    },
-    {
-        "title": "Pixel Synth",
-        "link": "https://pixelsynth.com/",
-        "date": "2018-03-09"
-    },
-    {
-        "title": "Hearth – publish personal websites with the power of IPFS",
-        "link": "https://hearth.eternum.io/",
         "date": "2018-03-09"
     },
     {
@@ -13658,16 +12188,6 @@
         "title": "Thoughts on Hanami",
         "link": "https://ryanbigg.com/2018/03/my-thoughts-on-hanami",
         "date": "2018-03-08"
-    },
-    {
-        "title": "Make memes anywhere you can type a URL",
-        "link": "https://urlme.me/",
-        "date": "2018-03-06"
-    },
-    {
-        "title": "Broad Band: The untold story of the women who made the internet",
-        "link": "https://clairelevans.com/",
-        "date": "2018-03-06"
     },
     {
         "title": "3D face tracking UI experiment with iPhone X",
@@ -13710,11 +12230,6 @@
         "date": "2018-03-02"
     },
     {
-        "title": "Winamp 2.9 in HTML/JS 👏",
-        "link": "https://webamp.org/",
-        "date": "2018-02-28"
-    },
-    {
         "title": "How your web application makes it through the framework wars",
         "link": "https://twitter.com/dandean/status/960044460137635847",
         "date": "2018-02-28"
@@ -13750,18 +12265,8 @@
         "date": "2018-02-27"
     },
     {
-        "title": "Graphile –  tools for building performant, pluggable GraphQL APIs",
-        "link": "https://www.graphile.org/",
-        "date": "2018-02-27"
-    },
-    {
         "title": "Design Decisions",
         "link": "https://www.youtube.com/watch?v=Kw7qBF5ZXIs",
-        "date": "2018-02-26"
-    },
-    {
-        "title": "Cockpit – a web-based Linux server manager",
-        "link": "http://cockpit-project.org/",
         "date": "2018-02-26"
     },
     {
@@ -13815,11 +12320,6 @@
         "date": "2018-02-16"
     },
     {
-        "title": "quicktype – generate types and converters from JSON and GraphQL",
-        "link": "https://quicktype.io/",
-        "date": "2018-02-16"
-    },
-    {
         "title": "Ember team releases version 3.0 of their ambitious web framework",
         "link": "https://emberjs.com/blog/2018/02/14/ember-3-0-released.html",
         "date": "2018-02-15"
@@ -13840,18 +12340,8 @@
         "date": "2018-02-15"
     },
     {
-        "title": "basicScroll – parallax scrolling with CSS variables",
-        "link": "https://basicscroll.electerious.com/",
-        "date": "2018-02-15"
-    },
-    {
         "title": "Replace jQuery with Vue.js without requiring a build step",
         "link": "https://www.smashingmagazine.com/2018/02/jquery-vue-javascript/",
-        "date": "2018-02-14"
-    },
-    {
-        "title": "CSS Grid Garden",
-        "link": "http://cssgridgarden.com/",
         "date": "2018-02-14"
     },
     {
@@ -13900,11 +12390,6 @@
         "date": "2018-02-12"
     },
     {
-        "title": "VS Code can do that?",
-        "link": "http://vscodecandothat.com/",
-        "date": "2018-02-12"
-    },
-    {
         "title": "The mechanics of Maybe",
         "link": "https://robots.thoughtbot.com/maybe-mechanics",
         "date": "2018-02-12"
@@ -13913,16 +12398,6 @@
         "title": "Everything easy is hard again",
         "link": "https://frankchimero.com/writing/everything-easy-is-hard-again/",
         "date": "2018-02-12"
-    },
-    {
-        "title": "Onym – tools and resources for naming things",
-        "link": "https://onym.co/",
-        "date": "2018-02-11"
-    },
-    {
-        "title": "A decentralized StatusPage with no single point of failure published to IPFS",
-        "link": "https://www.dstatuspage.net",
-        "date": "2018-02-09"
     },
     {
         "title": "PWAs on Safari?!",
@@ -13975,11 +12450,6 @@
         "date": "2018-02-06"
     },
     {
-        "title": "GemCheck – the checklist for Ruby gem authors",
-        "link": "http://gemcheck.evilmartians.io",
-        "date": "2018-02-06"
-    },
-    {
         "title": "Automatic visual diffing with Puppeteer",
         "link": "https://meowni.ca/posts/2017-puppeteer-tests/",
         "date": "2018-02-05"
@@ -14015,11 +12485,6 @@
         "date": "2018-02-01"
     },
     {
-        "title": "The power of Serverless for front-end developers",
-        "link": "https://thepowerofserverless.info/",
-        "date": "2018-02-01"
-    },
-    {
         "title": "Why write postmortems?",
         "link": "https://www.pagerduty.com/blog/postmortem-understand-service-reliability/",
         "date": "2018-01-31"
@@ -14037,11 +12502,6 @@
     {
         "title": "Announcing AI Fund",
         "link": "https://scribe.rip/@andrewng/announcing-the-ai-fund-building-transformative-ai-companies-55c008663072",
-        "date": "2018-01-30"
-    },
-    {
-        "title": "Backpack for Laravel",
-        "link": "https://backpackforlaravel.com/",
         "date": "2018-01-30"
     },
     {
@@ -14065,11 +12525,6 @@
         "date": "2018-01-29"
     },
     {
-        "title": "Datacol",
-        "link": "https://www.datacol.io/",
-        "date": "2018-01-29"
-    },
-    {
         "title": "How do you spy on a program running in a container?",
         "link": "https://jvns.ca/blog/2018/01/26/spy-container/",
         "date": "2018-01-29"
@@ -14078,11 +12533,6 @@
         "title": "Popularity",
         "link": "http://soveran.com/popularity.html",
         "date": "2018-01-29"
-    },
-    {
-        "title": "Amp - a complete text editor for your terminal",
-        "link": "https://amp.rs/",
-        "date": "2018-01-28"
     },
     {
         "title": "Please stop using Local Storage",
@@ -14110,28 +12560,13 @@
         "date": "2018-01-26"
     },
     {
-        "title": "A JavaScript NES emulator",
-        "link": "https://jsnes.fir.sh",
-        "date": "2018-01-26"
-    },
-    {
         "title": "How can you use CSS Grid today? (Internet Explorer exists)",
         "link": "https://www.youtube.com/watch?v=7msERxu7ivg",
         "date": "2018-01-25"
     },
     {
-        "title": "Dan's Tools",
-        "link": "https://www.danstools.com",
-        "date": "2018-01-25"
-    },
-    {
         "title": "The Evolution of <img>: Gif without the GIF",
         "link": "https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/",
-        "date": "2018-01-25"
-    },
-    {
-        "title": "Matomo Analytics (Previously Piwik)",
-        "link": "https://matomo.org/",
         "date": "2018-01-25"
     },
     {
@@ -14215,11 +12650,6 @@
         "date": "2018-01-20"
     },
     {
-        "title": "The Luna Programming Language",
-        "link": "http://www.luna-lang.org",
-        "date": "2018-01-19"
-    },
-    {
         "title": "Meltdown and Spectre Explained",
         "link": "https://scribe.rip/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2",
         "date": "2018-01-18"
@@ -14243,11 +12673,6 @@
         "title": "Bad design in action: the false Hawaiian ballistic missile alert",
         "link": "https://kottke.org/18/01/bad-design-in-action-the-false-hawaiian-ballistic-missile-alert",
         "date": "2018-01-16"
-    },
-    {
-        "title": "yuzu emulator",
-        "link": "https://yuzu-emu.org/",
-        "date": "2018-01-15"
     },
     {
         "title": "Custom Mechanical Keyboard",
@@ -14340,19 +12765,9 @@
         "date": "2018-01-10"
     },
     {
-        "title": "A letter about Google AMP",
-        "link": "http://ampletter.org/",
-        "date": "2018-01-10"
-    },
-    {
         "title": "Funding Yourself As A Free Software Developer",
         "link": "https://tyil.nl/articles/funding-yourself-as-free-software-developer.html",
         "date": "2018-01-10"
-    },
-    {
-        "title": "Termipal",
-        "link": "https://termipal.sh/",
-        "date": "2018-01-08"
     },
     {
         "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep",
@@ -14385,19 +12800,9 @@
         "date": "2018-01-07"
     },
     {
-        "title": "Meltdown and Spectre",
-        "link": "https://spectreattack.com/",
-        "date": "2018-01-06"
-    },
-    {
         "title": "I'm harvesting credit card numbers and passwords from your site. Here's how.",
         "link": "https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5",
         "date": "2018-01-06"
-    },
-    {
-        "title": "Security Newsletter",
-        "link": "https://securitynewsletter.co/",
-        "date": "2018-01-04"
     },
     {
         "title": "Instagram.css",
@@ -14447,11 +12852,6 @@
     {
         "title": "Scaling Slack’s Job Queue",
         "link": "https://slack.engineering/scaling-slacks-job-queue-687222e9d100",
-        "date": "2017-12-16"
-    },
-    {
-        "title": "Substratum",
-        "link": "https://substratum.net",
         "date": "2017-12-16"
     },
     {
@@ -14552,11 +12952,6 @@
     {
         "title": "The End of Gratipay ",
         "link": "https://gratipay.news/the-end-cbfba8f50981",
-        "date": "2017-11-02"
-    },
-    {
-        "title": "clipboard.js",
-        "link": "https://clipboardjs.com/",
         "date": "2017-11-02"
     }
 ]
