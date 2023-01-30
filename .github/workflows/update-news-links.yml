@@ -11,6 +11,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+    - uses: oleksiyrudenko/gha-git-credentials@v2-latest
+      with:
+          token: '${{ secrets.CHANGELOG_NEWS_LINKS }}'
     - uses: actions/setup-node@v3
       with:
         node-version: 16
