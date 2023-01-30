@@ -1,5 +1,34 @@
 [
     {
+        "title": "The yaml document from hell",
+        "link": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+        "date": "2023-01-30"
+    },
+    {
+        "title": "API Management for the API-First World",
+        "link": "https://blog.postman.com/new-postman-api-platform-redefining-api-management-for-api-first-world/?utm_source=changelog&utm_medium=newsletter&utm_campaign=changelog-news"
+    },
+    {
+        "title": "A very basic aggregator site in Next.js with Go cloud functions and Supabase",
+        "link": "https://chriscoyier.net/2023/01/23/a-very-basic-scraper-aggregator-site-in-next-js-with-go-cloud-functions-and-supabase/",
+        "date": "2023-01-27"
+    },
+    {
+        "title": "What we look for in a resume",
+        "link": "https://huyenchip.com//2023/01/24/what-we-look-for-in-a-candidate.html",
+        "date": "2023-01-26"
+    },
+    {
+        "title": "Building reliable distributed systems in Node",
+        "link": "https://temporal.io/blog/building-reliable-distributed-systems-in-node",
+        "date": "2023-01-26"
+    },
+    {
+        "title": "Seán Barry is quitting the rat race",
+        "link": "https://seanbarry.dev/posts/quitting-the-rat-race",
+        "date": "2023-01-25"
+    },
+    {
         "title": "Git-sim — Visually simulate Git operations on your repos",
         "link": "https://initialcommit.com/blog/git-sim",
         "date": "2023-01-24"

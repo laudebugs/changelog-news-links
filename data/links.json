@@ -1,5 +1,64 @@
 [
     {
+        "title": "Mainframes are still a big thing",
+        "link": "https://changelog.com/podcast/524",
+        "date": "2023-01-27"
+    },
+    {
+        "title": "The yaml document from hell",
+        "link": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+        "date": "2023-01-30"
+    },
+    {
+        "title": "Long-term code maintenance",
+        "link": "https://changelog.com/gotime/264",
+        "date": "2023-01-27"
+    },
+    {
+        "title": "CV spec and tools to manage your resume",
+        "link": "https://github.com/hexagonkt/codecv",
+        "date": "2023-01-27"
+    },
+    {
+        "title": "API Management for the API-First World",
+        "link": "https://blog.postman.com/new-postman-api-platform-redefining-api-management-for-api-first-world/?utm_source=changelog&utm_medium=newsletter&utm_campaign=changelog-news"
+    },
+    {
+        "title": "A very basic aggregator site in Next.js with Go cloud functions and Supabase",
+        "link": "https://chriscoyier.net/2023/01/23/a-very-basic-scraper-aggregator-site-in-next-js-with-go-cloud-functions-and-supabase/",
+        "date": "2023-01-27"
+    },
+    {
+        "title": "What we look for in a resume",
+        "link": "https://huyenchip.com//2023/01/24/what-we-look-for-in-a-candidate.html",
+        "date": "2023-01-26"
+    },
+    {
+        "title": "Why we switched to serverless containers",
+        "link": "https://changelog.com/shipit/87",
+        "date": "2023-01-26"
+    },
+    {
+        "title": "Building reliable distributed systems in Node",
+        "link": "https://temporal.io/blog/building-reliable-distributed-systems-in-node",
+        "date": "2023-01-26"
+    },
+    {
+        "title": "Seán Barry is quitting the rat race",
+        "link": "https://seanbarry.dev/posts/quitting-the-rat-race",
+        "date": "2023-01-25"
+    },
+    {
+        "title": "A macOS CLI to configure multi-display arrangements",
+        "link": "https://github.com/jakehilborn/displayplacer",
+        "date": "2023-01-25"
+    },
+    {
+        "title": "An unofficial, opinionated, gentle introduction to Nix",
+        "link": "https://zero-to-nix.com/",
+        "date": "2023-01-25"
+    },
+    {
         "title": "Just Postgres",
         "link": "https://changelog.com/podcast/523",
         "date": "2023-01-20"
