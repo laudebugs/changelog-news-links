@@ -48,4 +48,8 @@ jobs:
           git pull
           git add data
           git commit -m "update changelog news links"
-          git push origin main
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.CHANGELOG_NEWS_LINKS }}
+        branch: ${{ github.ref }}
