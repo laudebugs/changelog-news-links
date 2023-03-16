@@ -1,5 +1,693 @@
 [
     {
+        "title": "Goodbye Atom. Hello Zed.",
+        "link": "https://changelog.com/podcast/531",
+        "date": "2023-03-15"
+    },
+    {
+        "title": "The bits of Go we avoid (and why)",
+        "link": "https://changelog.com/gotime/269",
+        "date": "2023-03-16"
+    },
+    {
+        "title": "Docker is deleting open source orgs - what you need to know",
+        "link": "https://blog.alexellis.io/docker-is-deleting-open-source-images/",
+        "date": "2023-03-16"
+    },
+    {
+        "title": "Explore, analyze & understand complex data structures with JSON Crack",
+        "link": "https://github.com/AykutSarac/jsoncrack.com",
+        "date": "2023-03-16"
+    },
+    {
+        "title": "What do 37,000 developers say about Postman?",
+        "link": "https://blog.postman.com/what-developers-say-about-postman/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_what_do_37000_developers_say&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "AI search at You.com",
+        "link": "https://changelog.com/practicalai/215",
+        "date": "2023-03-15"
+    },
+    {
+        "title": "Modern Font Stacks",
+        "link": "https://modernfontstacks.com/",
+        "date": "2023-03-15"
+    },
+    {
+        "title": "GPT-4 is phenomenal at code",
+        "link": "https://twitter.com/sualehasif996/status/1635755267739598848",
+        "date": "2023-03-15"
+    },
+    {
+        "title": "A high-throughput file client for mounting Amazon S3 buckets",
+        "link": "https://github.com/awslabs/mountpoint-s3",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "How to tell if AI threatens YOUR job (and 3 simple rules to keep it)",
+        "link": "https://blog.testdouble.com/posts/2023-03-14-how-to-tell-if-ai-threatens-your-job/",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "Watchga watches GitHub Action runs",
+        "link": "https://github.com/nedbat/watchgha",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "4 things I learned after getting users",
+        "link": "https://basementcommunity.bearblog.dev/things-i-learned/",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "Automattic acquires ActivityPub plugin for WordPress",
+        "link": "https://wptavern.com/automattic-acquires-activitypub-plugin-for-wordpress",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "Single file Elixir scripts",
+        "link": "https://fly.io/phoenix-files/single-file-elixir-scripts/",
+        "date": "2023-03-13"
+    },
+    {
+        "title": "Dalai, InputOutput.dev, Wik, Rspack, Doodle, Marqo & iLLA",
+        "link": "https://changelog.com/podcast/news-2023-03-13",
+        "date": "2023-03-13"
+    },
+    {
+        "title": "pgrok is a poor man's ngrok",
+        "link": "https://github.com/pgrok/pgrok",
+        "date": "2023-03-13"
+    },
+    {
+        "title": "Scripts depicting the strange quirks of programming languages",
+        "link": "https://github.com/neemspees/tragic-methods",
+        "date": "2023-03-13"
+    },
+    {
+        "title": "Creating magical software",
+        "link": "https://changelog.com/founderstalk/94",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "Celebrating Eleventy 2.0 🎉",
+        "link": "https://changelog.com/jsparty/266",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "Deadlines as technology",
+        "link": "https://blog.jim-nielsen.com/2023/deadlines-as-technology/",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "Track the growth of your Mastodon account with MastoMetrics",
+        "link": "https://mastometrics.com/",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "This will blow your docs off",
+        "link": "https://changelog.com/gotime/268",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "Goodbye Atom. Hello Zed.",
+        "link": "https://changelog.com/podcast/531",
+        "date": "2023-03-15"
+    },
+    {
+        "title": "The bits of Go we avoid (and why)",
+        "link": "https://changelog.com/gotime/269",
+        "date": "2023-03-16"
+    },
+    {
+        "title": "Docker is deleting open source orgs - what you need to know",
+        "link": "https://blog.alexellis.io/docker-is-deleting-open-source-images/",
+        "date": "2023-03-16"
+    },
+    {
+        "title": "Explore, analyze & understand complex data structures with JSON Crack",
+        "link": "https://github.com/AykutSarac/jsoncrack.com",
+        "date": "2023-03-16"
+    },
+    {
+        "title": "What do 37,000 developers say about Postman?",
+        "link": "https://blog.postman.com/what-developers-say-about-postman/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_what_do_37000_developers_say&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "AI search at You.com",
+        "link": "https://changelog.com/practicalai/215",
+        "date": "2023-03-15"
+    },
+    {
+        "title": "Modern Font Stacks",
+        "link": "https://modernfontstacks.com/",
+        "date": "2023-03-15"
+    },
+    {
+        "title": "GPT-4 is phenomenal at code",
+        "link": "https://twitter.com/sualehasif996/status/1635755267739598848",
+        "date": "2023-03-15"
+    },
+    {
+        "title": "A high-throughput file client for mounting Amazon S3 buckets",
+        "link": "https://github.com/awslabs/mountpoint-s3",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "How to tell if AI threatens YOUR job (and 3 simple rules to keep it)",
+        "link": "https://blog.testdouble.com/posts/2023-03-14-how-to-tell-if-ai-threatens-your-job/",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "Watchga watches GitHub Action runs",
+        "link": "https://github.com/nedbat/watchgha",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "4 things I learned after getting users",
+        "link": "https://basementcommunity.bearblog.dev/things-i-learned/",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "Automattic acquires ActivityPub plugin for WordPress",
+        "link": "https://wptavern.com/automattic-acquires-activitypub-plugin-for-wordpress",
+        "date": "2023-03-14"
+    },
+    {
+        "title": "Single file Elixir scripts",
+        "link": "https://fly.io/phoenix-files/single-file-elixir-scripts/",
+        "date": "2023-03-13"
+    },
+    {
+        "title": "Dalai, InputOutput.dev, Wik, Rspack, Doodle, Marqo & iLLA",
+        "link": "https://changelog.com/podcast/news-2023-03-13",
+        "date": "2023-03-13"
+    },
+    {
+        "title": "pgrok is a poor man's ngrok",
+        "link": "https://github.com/pgrok/pgrok",
+        "date": "2023-03-13"
+    },
+    {
+        "title": "Scripts depicting the strange quirks of programming languages",
+        "link": "https://github.com/neemspees/tragic-methods",
+        "date": "2023-03-13"
+    },
+    {
+        "title": "Creating magical software",
+        "link": "https://changelog.com/founderstalk/94",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "Celebrating Eleventy 2.0 🎉",
+        "link": "https://changelog.com/jsparty/266",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "Deadlines as technology",
+        "link": "https://blog.jim-nielsen.com/2023/deadlines-as-technology/",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "Track the growth of your Mastodon account with MastoMetrics",
+        "link": "https://mastometrics.com/",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "This will blow your docs off",
+        "link": "https://changelog.com/gotime/268",
+        "date": "2023-03-10"
+    },
+    {
+        "title": "Why the floppy disk just won’t die",
+        "link": "https://www.wired.com/story/why-the-floppy-disk-just-wont-die/",
+        "date": "2023-03-09"
+    },
+    {
+        "title": "Chasing the 9s",
+        "link": "https://changelog.com/podcast/530",
+        "date": "2023-03-09"
+    },
+    {
+        "title": "Mathesar slaps a web-based spreadsheet UI on your Postgres database",
+        "link": "https://mathesar.org/",
+        "date": "2023-03-09"
+    },
+    {
+        "title": "What do 37,000 developers say about Postman?",
+        "link": "https://blog.postman.com/what-developers-say-about-postman/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_what_do_37000_developers_say&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "Introducing lazyasdf: an Elixir-based TUI for the asdf version manager",
+        "link": "https://www.mitchellhanberg.com/introducing-lazyasdf-a-tui-for-the-asdf-version-manager/",
+        "date": "2023-03-08"
+    },
+    {
+        "title": "Running WordPress in the browser",
+        "link": "https://wasmlabs.dev/articles/wordpress-in-the-browser/",
+        "date": "2023-03-08"
+    },
+    {
+        "title": "Demoing an open source Stable Diffusion plugin for Photoshop",
+        "link": "https://www.youtube.com/watch?v=VL_gbQai79E",
+        "date": "2023-03-08"
+    },
+    {
+        "title": "End-to-end cloud compute for AI/ML",
+        "link": "https://changelog.com/practicalai/214",
+        "date": "2023-03-07"
+    },
+    {
+        "title": "Scrollbar.app – a simple online tool for designing scrollbars",
+        "link": "https://scrollbar.app/",
+        "date": "2023-03-07"
+    },
+    {
+        "title": "Service Weaver is a programming framework for writing & deploying cloud apps",
+        "link": "https://serviceweaver.dev/",
+        "date": "2023-03-07"
+    },
+    {
+        "title": "Hired’s 2023 State of Software Engineers report",
+        "link": "https://pages.hired.email/rs/289-SIY-439/images/Hired_2023 State of Software Engineers.pdf",
+        "date": "2023-03-07"
+    },
+    {
+        "title": "A deep dive into resource management in Kubernetes",
+        "link": "https://martinheinz.dev/blog/91",
+        "date": "2023-03-06"
+    },
+    {
+        "title": "The making of Ice Cubes, an open source, SwiftUI Mastodon client",
+        "link": "https://scribe.rip/the-making-of-ice-cubes-an-open-source-swiftui-mastodon-client-45ebea5cf6b6",
+        "date": "2023-03-06"
+    },
+    {
+        "title": "New OpenAI APIs, self-hosting all the things, the Dart Frog project, curl's NuGet story & Hacker Stations",
+        "link": "https://changelog.com/podcast/news-2023-03-06",
+        "date": "2023-03-06"
+    },
+    {
+        "title": "Flying toasters (and other old screensavers) in CSS",
+        "link": "https://www.bryanbraun.com/after-dark-css/",
+        "date": "2023-03-06"
+    },
+    {
+        "title": "Tauri brings Rust to the JS Party",
+        "link": "https://changelog.com/jsparty/265",
+        "date": "2023-03-03"
+    },
+    {
+        "title": "AWS is asleep at the Lambda wheel",
+        "link": "https://www.lastweekinaws.com/blog/aws-is-asleep-at-the-lambda-wheel/",
+        "date": "2023-03-03"
+    },
+    {
+        "title": "You don't need a build step",
+        "link": "https://deno.com/blog/you-dont-need-a-build-step",
+        "date": "2023-03-03"
+    },
+    {
+        "title": "MRSK – deploy web apps anywhere",
+        "link": "https://mrsk.dev",
+        "date": "2023-03-02"
+    },
+    {
+        "title": "All you may need is HTML",
+        "link": "https://fabiensanglard.net/html/index.html",
+        "date": "2023-03-02"
+    },
+    {
+        "title": "Kaizen! Embracing change 🌟",
+        "link": "https://changelog.com/shipit/90",
+        "date": "2023-03-02"
+    },
+    {
+        "title": "You’re just a devcontainer.json away",
+        "link": "https://changelog.com/podcast/529",
+        "date": "2023-03-01"
+    },
+    {
+        "title": "The lone developer problem",
+        "link": "https://evanhahn.com/the-lone-developer-problem/",
+        "date": "2023-03-01"
+    },
+    {
+        "title": "OK, OKLCH: a color picker made to help think perceptively",
+        "link": "https://evilmartians.com/chronicles/oklch-a-color-picker-made-to-help-think-perceptively",
+        "date": "2023-03-01"
+    },
+    {
+        "title": "What do 37,000 developers say about Postman?",
+        "link": "https://blog.postman.com/what-developers-say-about-postman/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_what_do_37000_developers_say&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "10x your feedback game by choosing kindness over niceness",
+        "link": "https://abdulapopoola.com/2023/02/06/10x-your-feedback-game-choose-kindness-over-niceness/",
+        "date": "2023-02-28"
+    },
+    {
+        "title": "Success (and failure) in prompting",
+        "link": "https://changelog.com/practicalai/213",
+        "date": "2023-02-28"
+    },
+    {
+        "title": "Being a programmer again",
+        "link": "https://petros.blog/series-being-a-programmer-again/",
+        "date": "2023-02-28"
+    },
+    {
+        "title": "Write a first person game in 2kb with Rust",
+        "link": "https://grantshandy.github.io/posts/raycasting/",
+        "date": "2023-02-28"
+    },
+    {
+        "title": "Stack Overflow's architecture, Lobsters' killer libraries, Linux is ready for modern Macs, what to expect from your framework & GoatCounter web analytics",
+        "link": "https://changelog.com/podcast/news-2023-02-27",
+        "date": "2023-02-27"
+    },
+    {
+        "title": "From Go on EC2 to Fly.io: +fun, −$9/mo",
+        "link": "https://benhoyt.com/writings/flyio/",
+        "date": "2023-02-27"
+    },
+    {
+        "title": "You don't need Rails to start using Hotwire",
+        "link": "https://www.akshaykhot.com/using-hotwire-without-rails/",
+        "date": "2023-02-27"
+    },
+    {
+        "title": "Into the Fediverse",
+        "link": "https://changelog.com/podcast/528",
+        "date": "2023-02-24"
+    },
+    {
+        "title": "PaperAge – easy and secure paper backups of (smallish) secrets",
+        "link": "https://github.com/matiaskorhonen/paper-age",
+        "date": "2023-02-24"
+    },
+    {
+        "title": "We stand to save $7m over five years from our cloud exit",
+        "link": "https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa",
+        "date": "2023-02-24"
+    },
+    {
+        "title": "Frontend Feud: CSS Podcast vs @keyframers",
+        "link": "https://changelog.com/jsparty/264",
+        "date": "2023-02-24"
+    },
+    {
+        "title": "Is React still the right choice for Owncast in 2023?",
+        "link": "https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-frontend-web-rewrite/",
+        "date": "2023-02-23"
+    },
+    {
+        "title": "Monitoring my weather at home 🌩️",
+        "link": "https://tylercipriani.com/blog/2023/02/19/weather-station/",
+        "date": "2023-02-23"
+    },
+    {
+        "title": "How to start your blog in 2023",
+        "link": "https://molodtsov.me/2023/02/how-to-start-your-blog-in-2023/",
+        "date": "2023-02-22"
+    },
+    {
+        "title": "The Standard Ruby VS Code extension",
+        "link": "https://blog.testdouble.com/posts/2023-02-16-its-official-the-standard-ruby-vscode-extension/",
+        "date": "2023-02-22"
+    },
+    {
+        "title": "Applied NLP solutions & AI education",
+        "link": "https://changelog.com/practicalai/212",
+        "date": "2023-02-22"
+    },
+    {
+        "title": "Four ways to build web apps",
+        "link": "https://tomhummel.com/posts/four-web-apps/",
+        "date": "2023-02-21"
+    },
+    {
+        "title": "Sidney Bing, Elk for Mastodon, writing an engineering strategy, what's next for core-js & cool tool lightning round",
+        "link": "https://changelog.com/podcast/news-2023-02-20",
+        "date": "2023-02-20"
+    },
+    {
+        "title": "My favourite 3 lines of CSS",
+        "link": "https://andy-bell.co.uk/my-favourite-3-lines-of-css/",
+        "date": "2023-02-20"
+    },
+    {
+        "title": "The new headless Chrome makes fingerprint-based bot detection harder",
+        "link": "https://antoinevastel.com/bot detection/2023/02/19/new-headless-chrome.html",
+        "date": "2023-02-20"
+    },
+    {
+        "title": "What do 37,000 developers say about Postman?",
+        "link": "https://blog.postman.com/what-developers-say-about-postman/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_what_do_37000_developers_say&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "What it takes to scale engineering",
+        "link": "https://changelog.com/podcast/527",
+        "date": "2023-02-17"
+    },
+    {
+        "title": "Web development's lost decade",
+        "link": "https://changelog.com/jsparty/263",
+        "date": "2023-02-17"
+    },
+    {
+        "title": "A nice Mac GUI for `lsof`",
+        "link": "https://github.com/sveinbjornt/Sloth",
+        "date": "2023-02-17"
+    },
+    {
+        "title": "Sneaking custom HTML & CSS in to your GitHub README",
+        "link": "https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/",
+        "date": "2023-02-17"
+    },
+    {
+        "title": "What's new in Go 1.20",
+        "link": "https://changelog.com/gotime/267",
+        "date": "2023-02-16"
+    },
+    {
+        "title": "Homebrew 4.0.0 is ready for consumption 🍻",
+        "link": "https://brew.sh/2023/02/16/homebrew-4.0.0/",
+        "date": "2023-02-16"
+    },
+    {
+        "title": "SQLite the only database you will ever need in most cases",
+        "link": "https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html",
+        "date": "2023-02-16"
+    },
+    {
+        "title": "Rust efficiencies at AWS scale",
+        "link": "https://changelog.com/shipit/89",
+        "date": "2023-02-16"
+    },
+    {
+        "title": "Rust vs. Haskell",
+        "link": "https://serokell.io/blog/rust-vs-haskell",
+        "date": "2023-02-15"
+    },
+    {
+        "title": "A tool for running your GitLab CI/CD pipelines locally",
+        "link": "https://github.com/firecow/gitlab-ci-local",
+        "date": "2023-02-15"
+    },
+    {
+        "title": "Serverless GPUs",
+        "link": "https://changelog.com/practicalai/211",
+        "date": "2023-02-14"
+    },
+    {
+        "title": "The value of quantity over quality",
+        "link": "https://paavandesign.com/blog/ostaulta/",
+        "date": "2023-02-14"
+    },
+    {
+        "title": "The bottom emoji breaks rust-analyzer",
+        "link": "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer",
+        "date": "2023-02-14"
+    },
+    {
+        "title": "AI Commits - a CLI that writes your commit messages for you",
+        "link": "https://github.com/Nutlope/aicommits",
+        "date": "2023-02-14"
+    },
+    {
+        "title": "Load testing a $4 VPS, TOML for .env files, counting unique visitors sans cookies, the Arc browser & a love letter to Deno",
+        "link": "https://changelog.com/podcast/news-2023-02-13",
+        "date": "2023-02-13"
+    },
+    {
+        "title": "Call GPT-3 from your terminal",
+        "link": "https://github.com/TheR1D/shell_gpt",
+        "date": "2023-02-13"
+    },
+    {
+        "title": "Git with your friends",
+        "link": "https://changelog.com/podcast/526",
+        "date": "2023-02-10"
+    },
+    {
+        "title": "Generative AI for devs",
+        "link": "https://changelog.com/jsparty/262",
+        "date": "2023-02-10"
+    },
+    {
+        "title": "Why backlogs are useless, why they never shrink, and what to do instead",
+        "link": "https://lucasfcosta.com/2023/02/07/backlogs-are-useless.html",
+        "date": "2023-02-10"
+    },
+    {
+        "title": "Continuous improvement beats big ‘tada’ releases",
+        "link": "https://www.browserlondon.com/blog/2023/02/10/continuous-improvement-beats-big-tada-releases/",
+        "date": "2023-02-10"
+    },
+    {
+        "title": "What do 37,000 developers say about Postman?",
+        "link": "https://blog.postman.com/what-developers-say-about-postman/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_what_do_37000_developers_say&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "GPT in 60 lines of NumPy",
+        "link": "https://jaykmody.com/blog/gpt-from-scratch/",
+        "date": "2023-02-10"
+    },
+    {
+        "title": "Is htmx the way to Go?",
+        "link": "https://changelog.com/gotime/266",
+        "date": "2023-02-09"
+    },
+    {
+        "title": "The ten year journey of Facebook's app for iOS",
+        "link": "https://www.infoq.com/news/2023/02/Facebook-app-ten-years/",
+        "date": "2023-02-09"
+    },
+    {
+        "title": "Build a Q&A community with Answer",
+        "link": "https://answer.dev",
+        "date": "2023-02-08"
+    },
+    {
+        "title": "Query, provision, secure & operate cloud resources using SQL",
+        "link": "https://stackql.io",
+        "date": "2023-02-08"
+    },
+    {
+        "title": "How designers should ask for (and receive) high-quality feedback",
+        "link": "https://www.smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
+        "date": "2023-02-08"
+    },
+    {
+        "title": "MLOps is alive and well",
+        "link": "https://changelog.com/practicalai/210",
+        "date": "2023-02-07"
+    },
+    {
+        "title": "The art of knowing when to quit",
+        "link": "https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/",
+        "date": "2023-02-07"
+    },
+    {
+        "title": "OpenAI's new text classifier, teach yourself CS, programming philosophies are about state, you might not need Lodash & overrated scalability",
+        "link": "https://changelog.com/podcast/news-2023-02-06",
+        "date": "2023-02-06"
+    },
+    {
+        "title": "Achieving an undergrad level understanding of graph theory",
+        "link": "https://jacobzelko.com/01012023000122-graph-theory-learning/#roadmap",
+        "date": "2023-02-06"
+    },
+    {
+        "title": "StreetPass: Find your people on Mastodon",
+        "link": "https://streetpass.social",
+        "date": "2023-02-06"
+    },
+    {
+        "title": "The future (and the past) of the web is server-side rendering",
+        "link": "https://deno.com/blog/the-future-and-past-is-server-side-rendering",
+        "date": "2023-02-03"
+    },
+    {
+        "title": "Qwik has just the right amount of magic",
+        "link": "https://changelog.com/jsparty/261",
+        "date": "2023-02-03"
+    },
+    {
+        "title": "I’m now a full-time professional open source maintainer",
+        "link": "https://words.filippo.io/full-time-maintainer/",
+        "date": "2023-02-03"
+    },
+    {
+        "title": "A roadmap to learn Kubernetes from scratch",
+        "link": "https://github.com/techiescamp/kubernetes-learning-path",
+        "date": "2023-02-03"
+    },
+    {
+        "title": "Extrapolate knowledge graphs from unstructured text using GPT-3 🕵️‍♂️",
+        "link": "https://github.com/varunshenoy/GraphGPT",
+        "date": "2023-02-02"
+    },
+    {
+        "title": "How to ace that CFP",
+        "link": "https://changelog.com/gotime/265",
+        "date": "2023-02-02"
+    },
+    {
+        "title": "Treat ideas like cattle, not pets",
+        "link": "https://changelog.com/shipit/88",
+        "date": "2023-02-02"
+    },
+    {
+        "title": "The day I discovered vmtouch",
+        "link": "https://brunocalza.me/the-day-i-discoverd-vmtouch/",
+        "date": "2023-02-02"
+    },
+    {
+        "title": "Netlify acquires Gatsby",
+        "link": "https://thenewstack.io/netlify-acquires-gatsby-its-struggling-jamstack-competitor/",
+        "date": "2023-02-01"
+    },
+    {
+        "title": "What do 37,000 developers say about Postman?",
+        "link": "https://blog.postman.com/what-developers-say-about-postman/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_what_do_37000_developers_say&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "A heat map for your git repo 🔥",
+        "link": "https://github.com/jmforsythe/Git-Heat-Map",
+        "date": "2023-02-01"
+    },
+    {
+        "title": "Why we ship the most code on Friday",
+        "link": "https://blog.railway.app/p/ship-on-friday",
+        "date": "2023-02-01"
+    },
+    {
+        "title": "The best part of pair programming is when things go wrong",
+        "link": "https://www.bryanbraun.com/2022/12/31/the-best-part-of-pair-programming/",
+        "date": "2023-01-31"
+    },
+    {
+        "title": "3D assets & simulation at NVIDIA",
+        "link": "https://changelog.com/practicalai/209",
+        "date": "2023-01-31"
+    },
+    {
+        "title": "SQL should be your default choice for data engineering pipelines",
+        "link": "https://www.robinlinacre.com/recommend_sql/",
+        "date": "2023-01-31"
+    },
+    {
+        "title": "Data tool belts, Build Your Own Redis, the giscus comments system, prompt engineering shouldn't exist & ALPACA",
+        "link": "https://changelog.com/podcast/news-2023-01-30",
+        "date": "2023-01-30"
+    },
+    {
+        "title": "Forking Chrome to render in a terminal",
+        "link": "https://fathy.fr/carbonyl",
+        "date": "2023-01-30"
+    },
+    {
         "title": "Mainframes are still a big thing",
         "link": "https://changelog.com/podcast/524",
         "date": "2023-01-27"
