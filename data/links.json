@@ -1,5 +1,25 @@
 [
     {
+        "title": "Bringing Whisper and LLaMA to the masses",
+        "link": "https://changelog.com/podcast/532",
+        "date": "2023-03-22"
+    },
+    {
+        "title": "Recreating Node.js from scratch",
+        "link": "https://changelog.com/jsparty/268",
+        "date": "2023-03-24"
+    },
+    {
+        "title": "Develop a high-performance mindset",
+        "link": "https://changelog.com/brainscience/34",
+        "date": "2023-03-24"
+    },
+    {
+        "title": "Cheating is all you need",
+        "link": "https://about.sourcegraph.com/blog/cheating-is-all-you-need",
+        "date": "2023-03-24"
+    },
+    {
         "title": "Goodbye Atom. Hello Zed.",
         "link": "https://changelog.com/podcast/531",
         "date": "2023-03-15"

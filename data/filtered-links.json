@@ -1,5 +1,10 @@
 [
     {
+        "title": "Cheating is all you need",
+        "link": "https://about.sourcegraph.com/blog/cheating-is-all-you-need",
+        "date": "2023-03-24"
+    },
+    {
         "title": "Docker is deleting open source orgs - what you need to know",
         "link": "https://blog.alexellis.io/docker-is-deleting-open-source-images/",
         "date": "2023-03-16"
