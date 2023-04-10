@@ -1,5 +1,228 @@
 [
     {
+        "title": "LLMs break the internet",
+        "link": "https://changelog.com/podcast/534",
+        "date": "2023-04-07"
+    },
+    {
+        "title": "Nick & KBall's \"Coffee Talk\"",
+        "link": "https://changelog.com/jsparty/270",
+        "date": "2023-04-07"
+    },
+    {
+        "title": "If we lose the Internet Archive, we're screwed",
+        "link": "https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/",
+        "date": "2023-04-07"
+    },
+    {
+        "title": "The Bitcoin whitepaper is hidden in every modern copy of macOS",
+        "link": "https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "How to enhance your API-first design process",
+        "link": "https://blog.postman.com/how-to-enhance-your-api-first-design-process/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_how_to_enhance_your_api_first&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "An entirely subjective list of some fun fonts for your Linux console",
+        "link": "https://opensource.com/article/23/4/linux-terminal-fonts",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "The biggest job interview of GPT-4's life",
+        "link": "https://changelog.com/gotime/272",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "Indie Hackers is indie again!",
+        "link": "https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "How to be a -10x Engineer",
+        "link": "https://taylor.town/-10x",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "Exploring Elixir's BREAK menu",
+        "link": "https://blog.sequin.io/between-the-ctrl-cs/",
+        "date": "2023-04-05"
+    },
+    {
+        "title": "An LLM playground you can run on your laptop",
+        "link": "https://github.com/nat/openplayground",
+        "date": "2023-04-05"
+    },
+    {
+        "title": "Accelerated data science with a Kaggle grandmaster",
+        "link": "https://changelog.com/practicalai/217",
+        "date": "2023-04-04"
+    },
+    {
+        "title": "Make your CLI demos a breeze with zero stress and zero mistakes",
+        "link": "https://martinheinz.dev/blog/94",
+        "date": "2023-04-04"
+    },
+    {
+        "title": "What makes a neural network remember?",
+        "link": "https://www.oist.jp/news-center/news/2023/3/7/what-makes-neural-network-remember",
+        "date": "2023-04-04"
+    },
+    {
+        "title": "Twitter's open algorithm, Auto-GPT, LLMs as \"calculators for words\", SudoLang & stochastic parrots",
+        "link": "https://changelog.com/podcast/news-2023-04-03",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "Run Stable Diffusion on Mac natively",
+        "link": "https://github.com/godly-devotion/MochiDiffusion",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "XUL layout is gone (in Firefox)",
+        "link": "https://crisal.io/words/2023/03/30/xul-layout-is-gone.html",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "trurl manipulates URLs",
+        "link": "https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "GitHub private repos considered private-­ish",
+        "link": "https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "Is your Postgres ready for production?",
+        "link": "https://www.crunchydata.com/blog/is-your-postgres-ready-for-production",
+        "date": "2023-03-31"
+    },
+    {
+        "title": "Everything is a Remix (Complete Updated 2023 Edition)",
+        "link": "https://www.youtube.com/watch?v=X9RYuvPCQUA",
+        "date": "2023-03-31"
+    },
+    {
+        "title": "See you later, humans!",
+        "link": "https://changelog.com/jsparty/269",
+        "date": "2023-03-31"
+    },
+    {
+        "title": "LLMs break the internet",
+        "link": "https://changelog.com/podcast/534",
+        "date": "2023-04-07"
+    },
+    {
+        "title": "Nick & KBall's \"Coffee Talk\"",
+        "link": "https://changelog.com/jsparty/270",
+        "date": "2023-04-07"
+    },
+    {
+        "title": "If we lose the Internet Archive, we're screwed",
+        "link": "https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/",
+        "date": "2023-04-07"
+    },
+    {
+        "title": "The Bitcoin whitepaper is hidden in every modern copy of macOS",
+        "link": "https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "How to enhance your API-first design process",
+        "link": "https://blog.postman.com/how-to-enhance-your-api-first-design-process/?utm_source=api_platform&utm_medium=changelog&utm_campaign=referral&utm_term=blog_how_to_enhance_your_api_first&utm_content=changelog_newsletter"
+    },
+    {
+        "title": "An entirely subjective list of some fun fonts for your Linux console",
+        "link": "https://opensource.com/article/23/4/linux-terminal-fonts",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "The biggest job interview of GPT-4's life",
+        "link": "https://changelog.com/gotime/272",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "Indie Hackers is indie again!",
+        "link": "https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "How to be a -10x Engineer",
+        "link": "https://taylor.town/-10x",
+        "date": "2023-04-06"
+    },
+    {
+        "title": "Exploring Elixir's BREAK menu",
+        "link": "https://blog.sequin.io/between-the-ctrl-cs/",
+        "date": "2023-04-05"
+    },
+    {
+        "title": "An LLM playground you can run on your laptop",
+        "link": "https://github.com/nat/openplayground",
+        "date": "2023-04-05"
+    },
+    {
+        "title": "Accelerated data science with a Kaggle grandmaster",
+        "link": "https://changelog.com/practicalai/217",
+        "date": "2023-04-04"
+    },
+    {
+        "title": "Make your CLI demos a breeze with zero stress and zero mistakes",
+        "link": "https://martinheinz.dev/blog/94",
+        "date": "2023-04-04"
+    },
+    {
+        "title": "What makes a neural network remember?",
+        "link": "https://www.oist.jp/news-center/news/2023/3/7/what-makes-neural-network-remember",
+        "date": "2023-04-04"
+    },
+    {
+        "title": "Twitter's open algorithm, Auto-GPT, LLMs as \"calculators for words\", SudoLang & stochastic parrots",
+        "link": "https://changelog.com/podcast/news-2023-04-03",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "Run Stable Diffusion on Mac natively",
+        "link": "https://github.com/godly-devotion/MochiDiffusion",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "XUL layout is gone (in Firefox)",
+        "link": "https://crisal.io/words/2023/03/30/xul-layout-is-gone.html",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "trurl manipulates URLs",
+        "link": "https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "GitHub private repos considered private-­ish",
+        "link": "https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/",
+        "date": "2023-04-03"
+    },
+    {
+        "title": "Is your Postgres ready for production?",
+        "link": "https://www.crunchydata.com/blog/is-your-postgres-ready-for-production",
+        "date": "2023-03-31"
+    },
+    {
+        "title": "Everything is a Remix (Complete Updated 2023 Edition)",
+        "link": "https://www.youtube.com/watch?v=X9RYuvPCQUA",
+        "date": "2023-03-31"
+    },
+    {
+        "title": "See you later, humans!",
+        "link": "https://changelog.com/jsparty/269",
+        "date": "2023-03-31"
+    },
+    {
+        "title": "Automate your browser with GPT-4",
+        "link": "https://github.com/TaxyAI/browser-extension",
+        "date": "2023-03-31"
+    },
+    {
         "title": "A new path to full-time open source",
         "link": "https://changelog.com/podcast/533",
         "date": "2023-03-29"
