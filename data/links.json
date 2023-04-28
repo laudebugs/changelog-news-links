@@ -1,5 +1,125 @@
 [
     {
+        "title": "Diversity at conferences",
+        "link": "https://changelog.com/gotime/274",
+        "date": "2023-04-27"
+    },
+    {
+        "title": "Hard drive reliability at scale",
+        "link": "https://changelog.com/podcast/537",
+        "date": "2023-04-26"
+    },
+    {
+        "title": "Causal inference",
+        "link": "https://changelog.com/practicalai/220",
+        "date": "2023-04-25"
+    },
+    {
+        "title": "Dataset wars, Bark, Kent Beck needs to recalibrate, StableLM & blind prompting is not prompt engineering",
+        "link": "https://changelog.com/news/41",
+        "date": "2023-04-24"
+    },
+    {
+        "title": "Making \"safe npm\"",
+        "link": "https://changelog.com/jsparty/272",
+        "date": "2023-04-21"
+    },
+    {
+        "title": "Builder journey to streaming data platform",
+        "link": "https://changelog.com/founderstalk/95",
+        "date": "2023-04-20"
+    },
+    {
+        "title": "Capabilities of LLMs 🤯",
+        "link": "https://changelog.com/practicalai/219",
+        "date": "2023-04-19"
+    },
+    {
+        "title": "How do you do, fellow Hack Clubbers?",
+        "link": "https://changelog.com/podcast/536",
+        "date": "2023-04-19"
+    },
+    {
+        "title": "Free Dolly, GitHub Accelerator's cohort, improving Tailscale via Apple’s open source & what the heck are passkeys?!",
+        "link": "https://changelog.com/news/40",
+        "date": "2023-04-17"
+    },
+    {
+        "title": "I'd like to add you to my professional network",
+        "link": "https://changelog.com/jsparty/271",
+        "date": "2023-04-14"
+    },
+    {
+        "title": "Diversity at conferences",
+        "link": "https://changelog.com/gotime/274",
+        "date": "2023-04-27"
+    },
+    {
+        "title": "Hard drive reliability at scale",
+        "link": "https://changelog.com/podcast/537",
+        "date": "2023-04-26"
+    },
+    {
+        "title": "Causal inference",
+        "link": "https://changelog.com/practicalai/220",
+        "date": "2023-04-25"
+    },
+    {
+        "title": "Dataset wars, Bark, Kent Beck needs to recalibrate, StableLM & blind prompting is not prompt engineering",
+        "link": "https://changelog.com/news/41",
+        "date": "2023-04-24"
+    },
+    {
+        "title": "Making \"safe npm\"",
+        "link": "https://changelog.com/jsparty/272",
+        "date": "2023-04-21"
+    },
+    {
+        "title": "Builder journey to streaming data platform",
+        "link": "https://changelog.com/founderstalk/95",
+        "date": "2023-04-20"
+    },
+    {
+        "title": "Capabilities of LLMs 🤯",
+        "link": "https://changelog.com/practicalai/219",
+        "date": "2023-04-19"
+    },
+    {
+        "title": "How do you do, fellow Hack Clubbers?",
+        "link": "https://changelog.com/podcast/536",
+        "date": "2023-04-19"
+    },
+    {
+        "title": "Free Dolly, GitHub Accelerator's cohort, improving Tailscale via Apple’s open source & what the heck are passkeys?!",
+        "link": "https://changelog.com/news/40",
+        "date": "2023-04-17"
+    },
+    {
+        "title": "I'd like to add you to my professional network",
+        "link": "https://changelog.com/jsparty/271",
+        "date": "2023-04-14"
+    },
+    {
+        "title": "Examining capitalism's chokepoints",
+        "link": "https://changelog.com/podcast/535",
+        "date": "2023-04-14"
+    },
+    {
+        "title": "Domain-driven design with Go",
+        "link": "https://changelog.com/gotime/273",
+        "date": "2023-04-13"
+    },
+    {
+        "title": "Computer scientists as rogue art historians",
+        "link": "https://changelog.com/practicalai/218",
+        "date": "2023-04-12"
+    },
+    {
+        "title": "Ken Thompson's keynote, Tabby, The LLama Effect, Codeberg & facing the inevitable",
+        "link": "https://changelog.com/news/39",
+        "date": "2023-04-10"
+    },
+    {
         "title": "LLMs break the internet",
         "link": "https://changelog.com/podcast/534",
         "date": "2023-04-07"
