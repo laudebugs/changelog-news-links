@@ -1,5 +1,20 @@
 [
     {
+        "title": "Livebook's big launch week",
+        "link": "https://changelog.com/podcast/538",
+        "date": "2023-05-03"
+    },
+    {
+        "title": "Large models on CPUs",
+        "link": "https://changelog.com/practicalai/221",
+        "date": "2023-05-02"
+    },
+    {
+        "title": "Hyperswitch, the future of programming, Thoughtworks' latest tech radar & your docs aren't \"simple\"",
+        "link": "https://changelog.com/news/42",
+        "date": "2023-05-01"
+    },
+    {
         "title": "CSS Color Party 🎉",
         "link": "https://changelog.com/jsparty/273",
         "date": "2023-04-28"
