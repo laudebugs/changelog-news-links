@@ -1,5 +1,25 @@
 [
     {
+        "title": "ANTHOLOGY — Open source AI",
+        "link": "https://changelog.com/podcast/541",
+        "date": "2023-05-24"
+    },
+    {
+        "title": "How to ace that talk",
+        "link": "https://changelog.com/gotime/277",
+        "date": "2023-05-23"
+    },
+    {
+        "title": "Data augmentation with LlamaIndex",
+        "link": "https://changelog.com/practicalai/224",
+        "date": "2023-05-23"
+    },
+    {
+        "title": "Trogon, StableStudio, life after Apple, Google's problematic new TLDs & how to discuss programming languages",
+        "link": "https://changelog.com/news/45",
+        "date": "2023-05-22"
+    },
+    {
         "title": "The ORMazing show",
         "link": "https://changelog.com/jsparty/276",
         "date": "2023-05-19"
