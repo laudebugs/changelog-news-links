@@ -1,5 +1,20 @@
 [
     {
+        "title": "ANTHOLOGY — Maintaining maintainers",
+        "link": "https://changelog.com/podcast/542",
+        "date": "2023-05-31"
+    },
+    {
+        "title": "The files & folders of Go projects",
+        "link": "https://changelog.com/gotime/278",
+        "date": "2023-05-31"
+    },
+    {
+        "title": "Controlled and compliant AI applications",
+        "link": "https://changelog.com/practicalai/225",
+        "date": "2023-05-31"
+    },
+    {
         "title": "An API store for LLMs, DeviceScript, Nyxt: the hacker's browser, expectations debt & there's still no silver bullet",
         "link": "https://changelog.com/news/46",
         "date": "2023-05-30"
