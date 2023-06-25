@@ -1,5 +1,20 @@
 [
     {
+        "title": "There's a whole PEP about that",
+        "link": "https://changelog.com/friends/5",
+        "date": "2023-06-23"
+    },
+    {
+        "title": "Is print debugging good enough?",
+        "link": "https://changelog.com/jsparty/281",
+        "date": "2023-06-22"
+    },
+    {
+        "title": "Rebuilding DevOps from the ground up",
+        "link": "https://changelog.com/podcast/545",
+        "date": "2023-06-22"
+    },
+    {
         "title": "Neurodiverse gophers",
         "link": "https://changelog.com/gotime/281",
         "date": "2023-06-21"
