@@ -1,5 +1,25 @@
 [
     {
+        "title": "Even the best rides come to an end",
+        "link": "https://changelog.com/friends/6",
+        "date": "2023-06-30"
+    },
+    {
+        "title": "K8s vs serverless for distributed systems",
+        "link": "https://changelog.com/gotime/282",
+        "date": "2023-06-29"
+    },
+    {
+        "title": "Don't make things worse!",
+        "link": "https://changelog.com/podcast/546",
+        "date": "2023-06-28"
+    },
+    {
+        "title": "Automated cartography using AI",
+        "link": "https://changelog.com/practicalai/229",
+        "date": "2023-06-28"
+    },
+    {
         "title": "AI poisoned its own well, libraries to UnsuckJS, we need more Richard Stallman  & ChatGPT package hallucination",
         "link": "https://changelog.com/news/50",
         "date": "2023-06-26"
