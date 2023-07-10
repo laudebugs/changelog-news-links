@@ -1,5 +1,10 @@
 [
     {
+        "title": "The massive bug at the heart of npm",
+        "link": "https://changelog.com/jsparty/282",
+        "date": "2023-07-07"
+    },
+    {
         "title": "Cambrian explosion of generative models",
         "link": "https://changelog.com/practicalai/230",
         "date": "2023-07-06"
