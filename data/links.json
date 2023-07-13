@@ -1,5 +1,20 @@
 [
     {
+        "title": "A developer's toolkit for SOTA AI",
+        "link": "https://changelog.com/practicalai/231",
+        "date": "2023-07-12"
+    },
+    {
+        "title": "Gophers Say! GopherCon EU 2023",
+        "link": "https://changelog.com/gotime/284",
+        "date": "2023-07-11"
+    },
+    {
+        "title": "Oracle smacks IBM over RHEL, a Slack clone in 5 lines of Bash, 13 ways to think about joins, llama.cpp learns web chat & Meta will pay to remove Python's GIL",
+        "link": "https://changelog.com/news/52",
+        "date": "2023-07-10"
+    },
+    {
         "title": "The massive bug at the heart of npm",
         "link": "https://changelog.com/jsparty/282",
         "date": "2023-07-07"
