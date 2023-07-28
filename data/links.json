@@ -1,5 +1,15 @@
 [
     {
+        "title": "So do we like Generics or not?",
+        "link": "https://changelog.com/gotime/286",
+        "date": "2023-07-25"
+    },
+    {
+        "title": "There's a new Llama in town",
+        "link": "https://changelog.com/practicalai/233",
+        "date": "2023-07-25"
+    },
+    {
         "title": "Supabase quietly went public, Twitter is now X, GitHub's Copilot Chat now in public preview & Oxide has homelab plans (in 2050)",
         "link": "https://changelog.com/news/54",
         "date": "2023-07-24"
