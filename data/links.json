@@ -1,5 +1,20 @@
 [
     {
+        "title": "Homelab nerds, unite!",
+        "link": "https://changelog.com/friends/9",
+        "date": "2023-07-28"
+    },
+    {
+        "title": "From Docker to Dagger",
+        "link": "https://changelog.com/podcast/550",
+        "date": "2023-07-28"
+    },
+    {
+        "title": "Frontend Feud: CSS Pod vs Whiskey Web and Whatnot",
+        "link": "https://changelog.com/jsparty/285",
+        "date": "2023-07-28"
+    },
+    {
         "title": "So do we like Generics or not?",
         "link": "https://changelog.com/gotime/286",
         "date": "2023-07-25"
