@@ -1,5 +1,15 @@
 [
     {
+        "title": "You call it tech debt I call it malpractice",
+        "link": "https://changelog.com/friends/12",
+        "date": "2023-09-01"
+    },
+    {
+        "title": "Modernizing packages to ESM",
+        "link": "https://changelog.com/jsparty/290",
+        "date": "2023-09-01"
+    },
+    {
         "title": "Back to the terminal of the future",
         "link": "https://changelog.com/podcast/555",
         "date": "2023-08-30"
