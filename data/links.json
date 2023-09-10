@@ -1,5 +1,20 @@
 [
     {
+        "title": "Doomed to discuss AI",
+        "link": "https://changelog.com/friends/13",
+        "date": "2023-09-08"
+    },
+    {
+        "title": "A view to a transitions API",
+        "link": "https://changelog.com/jsparty/291",
+        "date": "2023-09-07"
+    },
+    {
+        "title": "Prototyping with Go",
+        "link": "https://changelog.com/gotime/290",
+        "date": "2023-09-07"
+    },
+    {
         "title": "OpenTF for an open Terraform",
         "link": "https://changelog.com/podcast/556",
         "date": "2023-09-06"
