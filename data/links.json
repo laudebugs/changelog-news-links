@@ -1,5 +1,25 @@
 [
     {
+        "title": "What do we want from a web browser?",
+        "link": "https://changelog.com/friends/14",
+        "date": "2023-09-15"
+    },
+    {
+        "title": "Type War (what is it good for?)",
+        "link": "https://changelog.com/jsparty/292",
+        "date": "2023-09-14"
+    },
+    {
+        "title": "Attack of the Canaries!",
+        "link": "https://changelog.com/podcast/557",
+        "date": "2023-09-13"
+    },
+    {
+        "title": "Go templating using Templ",
+        "link": "https://changelog.com/gotime/291",
+        "date": "2023-09-13"
+    },
+    {
         "title": "Bun 1.0 is here & Mojo is ready for download",
         "link": "https://changelog.com/news/61",
         "date": "2023-09-11"
