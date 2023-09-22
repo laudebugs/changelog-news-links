@@ -1,5 +1,20 @@
 [
     {
+        "title": "Web dev security school",
+        "link": "https://changelog.com/jsparty/293",
+        "date": "2023-09-21"
+    },
+    {
+        "title": "Automate all the UIs!",
+        "link": "https://changelog.com/practicalai/239",
+        "date": "2023-09-20"
+    },
+    {
+        "title": "Open source is at a crossroads",
+        "link": "https://changelog.com/podcast/558",
+        "date": "2023-09-20"
+    },
+    {
         "title": "Death by a thousand microservices",
         "link": "https://changelog.com/news/62",
         "date": "2023-09-18"
