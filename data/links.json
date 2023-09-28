@@ -1,5 +1,15 @@
 [
     {
+        "title": "Zero Trust & Go",
+        "link": "https://changelog.com/gotime/292",
+        "date": "2023-09-27"
+    },
+    {
+        "title": "The missing sync layer for modern apps",
+        "link": "https://changelog.com/news/63",
+        "date": "2023-09-25"
+    },
+    {
         "title": "Web dev security school",
         "link": "https://changelog.com/jsparty/293",
         "date": "2023-09-21"
