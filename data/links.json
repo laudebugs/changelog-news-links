@@ -1,5 +1,20 @@
 [
     {
+        "title": "#define: a game of fake definitions",
+        "link": "https://changelog.com/friends/15",
+        "date": "2023-09-29"
+    },
+    {
+        "title": "Reports of Node's death are greatly exaggerated",
+        "link": "https://changelog.com/jsparty/294",
+        "date": "2023-09-28"
+    },
+    {
+        "title": "Vibes from Strange Loop",
+        "link": "https://changelog.com/podcast/559",
+        "date": "2023-09-28"
+    },
+    {
         "title": "Zero Trust & Go",
         "link": "https://changelog.com/gotime/292",
         "date": "2023-09-27"
