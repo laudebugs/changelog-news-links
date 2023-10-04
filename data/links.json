@@ -1,5 +1,15 @@
 [
     {
+        "title": "Generative models: exploration to deployment",
+        "link": "https://changelog.com/practicalai/240",
+        "date": "2023-10-03"
+    },
+    {
+        "title": "InfluxDB drops Go for Rust but gokrazy is really cool",
+        "link": "https://changelog.com/news/64",
+        "date": "2023-10-02"
+    },
+    {
         "title": "#define: a game of fake definitions",
         "link": "https://changelog.com/friends/15",
         "date": "2023-09-29"
