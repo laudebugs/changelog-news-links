@@ -1,5 +1,20 @@
 [
     {
+        "title": "Party on PartyKit",
+        "link": "https://changelog.com/jsparty/296",
+        "date": "2023-10-12"
+    },
+    {
+        "title": "Coming to asciinema near you",
+        "link": "https://changelog.com/podcast/561",
+        "date": "2023-10-11"
+    },
+    {
+        "title": "Experiences from GopherCon 2023",
+        "link": "https://changelog.com/gotime/293",
+        "date": "2023-10-11"
+    },
+    {
         "title": "RTO vs WFH & the case for strong static typing",
         "link": "https://changelog.com/news/65",
         "date": "2023-10-09"
