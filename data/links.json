@@ -1,5 +1,25 @@
 [
     {
+        "title": "Human skills to pay the bills",
+        "link": "https://changelog.com/friends/18",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Pushing ntfy to the next level",
+        "link": "https://changelog.com/podcast/562",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "AI's impact on developers",
+        "link": "https://changelog.com/practicalai/241",
+        "date": "2023-10-20"
+    },
+    {
+        "title": "Use Effect (not useEffect)",
+        "link": "https://changelog.com/jsparty/297",
+        "date": "2023-10-19"
+    },
+    {
         "title": "LMMS are the new LLMs",
         "link": "https://changelog.com/news/66",
         "date": "2023-10-16"
