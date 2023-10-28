@@ -1,5 +1,25 @@
 [
     {
+        "title": "Protecting screen time",
+        "link": "https://changelog.com/friends/19",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "ANTHOLOGY — The way of open source",
+        "link": "https://changelog.com/podcast/563",
+        "date": "2023-10-27"
+    },
+    {
+        "title": "I wanna React Jam it with you",
+        "link": "https://changelog.com/jsparty/298",
+        "date": "2023-10-26"
+    },
+    {
+        "title": "The se7en deadly sins of Go",
+        "link": "https://changelog.com/gotime/294",
+        "date": "2023-10-25"
+    },
+    {
         "title": "Deep learning in Rust with Burn 🔥",
         "link": "https://changelog.com/practicalai/242",
         "date": "2023-10-24"
