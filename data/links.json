@@ -1,5 +1,20 @@
 [
     {
+        "title": "It dependencies",
+        "link": "https://changelog.com/friends/22",
+        "date": "2023-11-17"
+    },
+    {
+        "title": "All the places Swift will go",
+        "link": "https://changelog.com/podcast/566",
+        "date": "2023-11-16"
+    },
+    {
+        "title": "Building something new",
+        "link": "https://changelog.com/jsparty/301",
+        "date": "2023-11-16"
+    },
+    {
         "title": "Event-driven systems & architecture",
         "link": "https://changelog.com/gotime/297",
         "date": "2023-11-14"
