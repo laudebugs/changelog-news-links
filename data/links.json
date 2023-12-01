@@ -1,5 +1,20 @@
 [
     {
+        "title": "Gleaming the KubeCon",
+        "link": "https://changelog.com/podcast/568",
+        "date": "2023-11-30"
+    },
+    {
+        "title": "Art of the state machine",
+        "link": "https://changelog.com/jsparty/303",
+        "date": "2023-11-30"
+    },
+    {
+        "title": "The OpenAI debacle (a retrospective)",
+        "link": "https://changelog.com/practicalai/247",
+        "date": "2023-11-29"
+    },
+    {
         "title": "Was Jamstack a zero interest rate phenomenon?",
         "link": "https://changelog.com/news/72",
         "date": "2023-11-27"
