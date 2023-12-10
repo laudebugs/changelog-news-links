@@ -1,5 +1,15 @@
 [
     {
+        "title": "HATEOAS corpus",
+        "link": "https://changelog.com/friends/24",
+        "date": "2023-12-08"
+    },
+    {
+        "title": "From WebGL to WebGPU",
+        "link": "https://changelog.com/jsparty/304",
+        "date": "2023-12-07"
+    },
+    {
         "title": "Hare aims to be a 100 year language",
         "link": "https://changelog.com/podcast/569",
         "date": "2023-12-06"
