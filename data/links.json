@@ -1,5 +1,10 @@
 [
     {
+        "title": "ANTHOLOGY — The technical bits",
+        "link": "https://changelog.com/podcast/570",
+        "date": "2023-12-15"
+    },
+    {
         "title": "What's new in Go's cryptography libraries: Part 2",
         "link": "https://changelog.com/gotime/298",
         "date": "2023-12-12"
