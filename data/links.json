@@ -1,5 +1,20 @@
 [
     {
+        "title": "State of the \"log\" 2023",
+        "link": "https://changelog.com/podcast/571",
+        "date": "2023-12-20"
+    },
+    {
+        "title": "What's next in JavaScript (a TC39 update)",
+        "link": "https://changelog.com/jsparty/305",
+        "date": "2023-12-20"
+    },
+    {
+        "title": "Open source, on-disk vector search with LanceDB",
+        "link": "https://changelog.com/practicalai/250",
+        "date": "2023-12-19"
+    },
+    {
         "title": "The code, prose & conversations that shaped 2023",
         "link": "https://changelog.com/news/75",
         "date": "2023-12-18"
