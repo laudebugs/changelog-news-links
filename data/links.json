@@ -1,5 +1,25 @@
 [
     {
+        "title": "Kaizen! Should we build a CDN?",
+        "link": "/friends/26",
+        "date": "2024-01-12"
+    },
+    {
+        "title": "htmx: a new old way to build the web",
+        "link": "/jsparty/307",
+        "date": "2024-01-12"
+    },
+    {
+        "title": "Amazon's silent sacking",
+        "link": "/podcast/573",
+        "date": "2024-01-11"
+    },
+    {
+        "title": "AI predictions for 2024",
+        "link": "/practicalai/251",
+        "date": "2024-01-10"
+    },
+    {
         "title": "The I in LLM stands for intelligence",
         "link": "/news/76",
         "date": "2024-01-08"
