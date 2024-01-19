@@ -1,5 +1,25 @@
 [
     {
+        "title": "Frontend Feud: CSS Podcast vs CompressedFM",
+        "link": "/jsparty/308",
+        "date": "2024-01-18"
+    },
+    {
+        "title": "Let's talk FreeBSD (finally)",
+        "link": "/podcast/574",
+        "date": "2024-01-17"
+    },
+    {
+        "title": "Advent of GenAI Hackathon recap",
+        "link": "/practicalai/252",
+        "date": "2024-01-17"
+    },
+    {
+        "title": "All about Kafka",
+        "link": "/gotime/299",
+        "date": "2024-01-16"
+    },
+    {
         "title": "A plea for lean software",
         "link": "/news/77",
         "date": "2024-01-15"
