@@ -1,5 +1,25 @@
 [
     {
+        "title": "Future of [energy, content, food]",
+        "link": "/friends/30",
+        "date": "2024-02-09"
+    },
+    {
+        "title": "Taking on Goliath",
+        "link": "/podcast/577",
+        "date": "2024-02-08"
+    },
+    {
+        "title": "React Server Components 🧐",
+        "link": "/jsparty/311",
+        "date": "2024-02-08"
+    },
+    {
+        "title": "What's new in Go 1.22",
+        "link": "/gotime/302",
+        "date": "2024-02-07"
+    },
+    {
         "title": "Data synthesis for SOTA LLMs",
         "link": "/practicalai/255",
         "date": "2024-02-06"
