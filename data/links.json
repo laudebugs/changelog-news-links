@@ -1,5 +1,20 @@
 [
     {
+        "title": "Yeeting stuff into public",
+        "link": "/friends/31",
+        "date": "2024-02-17"
+    },
+    {
+        "title": "What exactly is Open Source AI?",
+        "link": "/podcast/578",
+        "date": "2024-02-16"
+    },
+    {
+        "title": "Building containers without Docker",
+        "link": "/shipit/91",
+        "date": "2024-02-16"
+    },
+    {
         "title": "Angular moves fast without breaking things",
         "link": "/jsparty/312",
         "date": "2024-02-15"
