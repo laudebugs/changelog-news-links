@@ -1,5 +1,25 @@
 [
     {
+        "title": "Making shell history magical with Atuin",
+        "link": "/podcast/579",
+        "date": "2024-02-21"
+    },
+    {
+        "title": "Foundations of Go performance",
+        "link": "/gotime/304",
+        "date": "2024-02-20"
+    },
+    {
+        "title": "Leading the charge on AI in National Security",
+        "link": "/practicalai/257",
+        "date": "2024-02-20"
+    },
+    {
+        "title": "Quantum computing gets a reality check",
+        "link": "/news/82",
+        "date": "2024-02-19"
+    },
+    {
         "title": "Yeeting stuff into public",
         "link": "/friends/31",
         "date": "2024-02-17"
