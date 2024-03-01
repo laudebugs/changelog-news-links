@@ -1,5 +1,25 @@
 [
     {
+        "title": "Take a look, it's in a book",
+        "link": "/jsparty/314",
+        "date": "2024-02-29"
+    },
+    {
+        "title": "Leading in the era of AI code intelligence",
+        "link": "/podcast/580",
+        "date": "2024-02-28"
+    },
+    {
+        "title": "Dance Party",
+        "link": "/podcast/dance-party",
+        "date": "2024-02-28"
+    },
+    {
+        "title": "Representation Engineering (Activation Hacking)",
+        "link": "/practicalai/258",
+        "date": "2024-02-28"
+    },
+    {
         "title": "Creating art & visualizations with Go",
         "link": "/gotime/305",
         "date": "2024-02-27"
