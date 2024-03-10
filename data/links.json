@@ -1,5 +1,25 @@
 [
     {
+        "title": "Scoring your project’s security",
+        "link": "/shipit/94",
+        "date": "2024-03-09"
+    },
+    {
+        "title": "Bourbon and better software",
+        "link": "/friends/34",
+        "date": "2024-03-08"
+    },
+    {
+        "title": "It's not always DNS",
+        "link": "/podcast/581",
+        "date": "2024-03-08"
+    },
+    {
+        "title": "Getting a pulse on your Core Web Vitals 🩺",
+        "link": "/jsparty/315",
+        "date": "2024-03-07"
+    },
+    {
         "title": "YOLOv9: Computer vision is alive and well",
         "link": "/practicalai/259",
         "date": "2024-03-06"
