@@ -1,5 +1,20 @@
 [
     {
+        "title": "The Oban Pros",
+        "link": "/friends/35",
+        "date": "2024-03-15"
+    },
+    {
+        "title": "We have a right to repair!",
+        "link": "/podcast/582",
+        "date": "2024-03-15"
+    },
+    {
+        "title": "Advocating for the future of the open web",
+        "link": "/jsparty/316",
+        "date": "2024-03-14"
+    },
+    {
         "title": "Jumping into an existing codebase",
         "link": "/gotime/307",
         "date": "2024-03-12"
