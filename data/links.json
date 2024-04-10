@@ -1,5 +1,15 @@
 [
     {
+        "title": "Ship software, not code",
+        "link": "/gotime/311",
+        "date": "2024-04-09"
+    },
+    {
+        "title": "HashiCorp strikes back",
+        "link": "/news/89",
+        "date": "2024-04-08"
+    },
+    {
         "title": "Deploying projects vs products",
         "link": "/shipit/98",
         "date": "2024-04-07"
