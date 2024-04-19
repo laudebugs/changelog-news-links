@@ -1,5 +1,25 @@
 [
     {
+        "title": "The boring JavaScript stack",
+        "link": "/jsparty/319",
+        "date": "2024-04-18"
+    },
+    {
+        "title": "Local cert management for mere mortals",
+        "link": "/gotime/312",
+        "date": "2024-04-17"
+    },
+    {
+        "title": "Leading and building Raycast",
+        "link": "/podcast/587",
+        "date": "2024-04-17"
+    },
+    {
+        "title": "Udio & the age of multi-modal AI",
+        "link": "/practicalai/265",
+        "date": "2024-04-16"
+    },
+    {
         "title": "Devin's Upwork \"side hustle\" exposed",
         "link": "/news/90",
         "date": "2024-04-15"
