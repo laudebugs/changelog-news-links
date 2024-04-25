@@ -1,5 +1,25 @@
 [
     {
+        "title": "Mamba & Jamba",
+        "link": "/practicalai/266",
+        "date": "2024-04-24"
+    },
+    {
+        "title": "Run Gleam run",
+        "link": "/podcast/588",
+        "date": "2024-04-24"
+    },
+    {
+        "title": "What's new in Go's cryptography libraries: Part 3",
+        "link": "/gotime/313",
+        "date": "2024-04-23"
+    },
+    {
+        "title": "The threat to open source comes from within",
+        "link": "/news/91",
+        "date": "2024-04-22"
+    },
+    {
         "title": "Rug pull, not cool!",
         "link": "/friends/40",
         "date": "2024-04-19"
