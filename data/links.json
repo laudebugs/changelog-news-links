@@ -1,5 +1,20 @@
 [
     {
+        "title": "The Wu-Tang way",
+        "link": "/friends/42",
+        "date": "2024-05-03"
+    },
+    {
+        "title": "SSR web components for all",
+        "link": "/jsparty/321",
+        "date": "2024-05-02"
+    },
+    {
+        "title": "Castro leans into indie",
+        "link": "/podcast/589",
+        "date": "2024-05-01"
+    },
+    {
         "title": "Go workshops that work",
         "link": "/gotime/314",
         "date": "2024-04-30"
