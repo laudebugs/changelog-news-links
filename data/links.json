@@ -1,5 +1,20 @@
 [
     {
+        "title": "Building the Patreon for developers",
+        "link": "/podcast/591",
+        "date": "2024-05-15"
+    },
+    {
+        "title": "Full-stack approach for effective AI agents",
+        "link": "/practicalai/269",
+        "date": "2024-05-15"
+    },
+    {
+        "title": "Avoiding the soft delete anti-pattern",
+        "link": "/news/94",
+        "date": "2024-05-13"
+    },
+    {
         "title": "How WebMD ran in the year 2000",
         "link": "/shipit/103",
         "date": "2024-05-10"
