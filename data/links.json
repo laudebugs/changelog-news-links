@@ -1,5 +1,20 @@
 [
     {
+        "title": "Should web development need a build step?",
+        "link": "/jsparty/326",
+        "date": "2024-06-06"
+    },
+    {
+        "title": "Microsoft is all-in on AI: Part 2",
+        "link": "/podcast/594",
+        "date": "2024-06-05"
+    },
+    {
+        "title": "Rise of the AI PC & local LLMs",
+        "link": "/practicalai/272",
+        "date": "2024-06-04"
+    },
+    {
         "title": "Yet another open source rug pull",
         "link": "/news/97",
         "date": "2024-06-03"
