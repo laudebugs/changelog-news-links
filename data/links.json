@@ -1,5 +1,30 @@
 [
     {
+        "title": "Where DOESN’T curl run",
+        "link": "/friends/49",
+        "date": "2024-06-21"
+    },
+    {
+        "title": "How to build a Nushell",
+        "link": "/shipit/109",
+        "date": "2024-06-21"
+    },
+    {
+        "title": "Polypane-demonium",
+        "link": "/jsparty/327",
+        "date": "2024-06-20"
+    },
+    {
+        "title": "Securing GitHub",
+        "link": "/podcast/596",
+        "date": "2024-06-19"
+    },
+    {
+        "title": "The perplexities of information retrieval",
+        "link": "/practicalai/274",
+        "date": "2024-06-19"
+    },
+    {
         "title": "Is Go evolving in the wrong direction?",
         "link": "/gotime/319",
         "date": "2024-06-18"
