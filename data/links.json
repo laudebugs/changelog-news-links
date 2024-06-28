@@ -1,5 +1,25 @@
 [
     {
+        "title": "React Native the Expo way",
+        "link": "/jsparty/328",
+        "date": "2024-06-27"
+    },
+    {
+        "title": "MAJOR.SEMVER.PATCH",
+        "link": "/podcast/597",
+        "date": "2024-06-26"
+    },
+    {
+        "title": "Apple Intelligence & Advanced RAG",
+        "link": "/practicalai/275",
+        "date": "2024-06-25"
+    },
+    {
+        "title": "Gophers Say! GopherCon EU Berlin 2024",
+        "link": "/gotime/320",
+        "date": "2024-06-25"
+    },
+    {
         "title": "Please let this be Peak LLM",
         "link": "/news/100",
         "date": "2024-06-24"
