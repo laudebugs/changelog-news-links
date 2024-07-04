@@ -1,5 +1,25 @@
 [
     {
+        "title": "Dependencies are dangerous",
+        "link": "/gotime/321",
+        "date": "2024-07-03"
+    },
+    {
+        "title": "Code review anxiety",
+        "link": "/podcast/598",
+        "date": "2024-07-03"
+    },
+    {
+        "title": " Stanford's AI Index Report 2024",
+        "link": "/practicalai/276",
+        "date": "2024-07-02"
+    },
+    {
+        "title": "The scariest chart in all of software",
+        "link": "/news/101",
+        "date": "2024-07-01"
+    },
+    {
         "title": "The Kubernetes of Lambda",
         "link": "/shipit/110",
         "date": "2024-06-29"
