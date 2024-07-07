@@ -1,5 +1,20 @@
 [
     {
+        "title": "What happened to open source",
+        "link": "/shipit/111",
+        "date": "2024-07-06"
+    },
+    {
+        "title": "A different kind of rug pull",
+        "link": "/friends/51",
+        "date": "2024-07-05"
+    },
+    {
+        "title": "A standard library for JavaScript",
+        "link": "/jsparty/329",
+        "date": "2024-07-04"
+    },
+    {
         "title": "Dependencies are dangerous",
         "link": "/gotime/321",
         "date": "2024-07-03"
