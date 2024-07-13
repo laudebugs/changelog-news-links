@@ -1,5 +1,30 @@
 [
     {
+        "title": "Last DevRel standing",
+        "link": "/friends/52",
+        "date": "2024-07-12"
+    },
+    {
+        "title": "Spilling the git tea",
+        "link": "/shipit/112",
+        "date": "2024-07-12"
+    },
+    {
+        "title": "It all starts with Postgres",
+        "link": "/podcast/599",
+        "date": "2024-07-11"
+    },
+    {
+        "title": "The Ember take on recent hot topics",
+        "link": "/jsparty/330",
+        "date": "2024-07-11"
+    },
+    {
+        "title": "Vectoring in on Pinecone",
+        "link": "/practicalai/277",
+        "date": "2024-07-10"
+    },
+    {
         "title": "How Mat writes HTTP services in Go",
         "link": "/gotime/322",
         "date": "2024-07-09"
