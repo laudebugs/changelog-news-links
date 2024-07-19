@@ -1,5 +1,25 @@
 [
     {
+        "title": "Building LLM agents in JS",
+        "link": "/jsparty/331",
+        "date": "2024-07-18"
+    },
+    {
+        "title": "Aha moments reading Go's source: Part 1",
+        "link": "/gotime/323",
+        "date": "2024-07-18"
+    },
+    {
+        "title": "The first real-time voice assistant",
+        "link": "/practicalai/278",
+        "date": "2024-07-18"
+    },
+    {
+        "title": "What even is the modern data stack",
+        "link": "/podcast/600",
+        "date": "2024-07-17"
+    },
+    {
         "title": "The six dumbest ideas in computer security",
         "link": "/news/103",
         "date": "2024-07-15"
