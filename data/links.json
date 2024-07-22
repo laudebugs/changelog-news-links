@@ -1,5 +1,15 @@
 [
     {
+        "title": "There’s a TUI for that",
+        "link": "/friends/53",
+        "date": "2024-07-19"
+    },
+    {
+        "title": "GitLab's infrastructure",
+        "link": "/shipit/113",
+        "date": "2024-07-19"
+    },
+    {
         "title": "Building LLM agents in JS",
         "link": "/jsparty/331",
         "date": "2024-07-18"
