@@ -1,5 +1,20 @@
 [
     {
+        "title": "Deploying on a Friday",
+        "link": "/shipit/114",
+        "date": "2024-07-27"
+    },
+    {
+        "title": "The BSOD CrowdStrikes back",
+        "link": "/friends/54",
+        "date": "2024-07-26"
+    },
+    {
+        "title": "Going flat with ESLint",
+        "link": "/jsparty/332",
+        "date": "2024-07-25"
+    },
+    {
         "title": "Hyperventilating over the Gartner AI Hype Cycle",
         "link": "/practicalai/279",
         "date": "2024-07-24"
