@@ -1,5 +1,15 @@
 [
     {
+        "title": "What's new in Go 1.23",
+        "link": "/gotime/325",
+        "date": "2024-07-30"
+    },
+    {
+        "title": "The Swiss government goes open source",
+        "link": "/news/105",
+        "date": "2024-07-29"
+    },
+    {
         "title": "Deploying on a Friday",
         "link": "/shipit/114",
         "date": "2024-07-27"
