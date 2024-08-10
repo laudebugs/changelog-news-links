@@ -1,5 +1,30 @@
 [
     {
+        "title": "The Zookeeper of jujutsu",
+        "link": "/shipit/116",
+        "date": "2024-08-09"
+    },
+    {
+        "title": "Picking a database should be simple",
+        "link": "/friends/56",
+        "date": "2024-08-09"
+    },
+    {
+        "title": "OpenAPI & API Design",
+        "link": "/gotime/328",
+        "date": "2024-08-08"
+    },
+    {
+        "title": "Into the Bobiverse",
+        "link": "/podcast/603",
+        "date": "2024-08-07"
+    },
+    {
+        "title": "Gaudi processors & Intel's AI portfolio",
+        "link": "/practicalai/281",
+        "date": "2024-08-07"
+    },
+    {
         "title": "80% of professional programmers are unhappy",
         "link": "/news/106",
         "date": "2024-08-05"
