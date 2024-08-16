@@ -1,5 +1,25 @@
 [
     {
+        "title": "Forging Minecraft's scripting API",
+        "link": "/jsparty/334",
+        "date": "2024-08-15"
+    },
+    {
+        "title": "Why we need Ladybird",
+        "link": "/podcast/604",
+        "date": "2024-08-14"
+    },
+    {
+        "title": "Only as good as the data",
+        "link": "/practicalai/282",
+        "date": "2024-08-14"
+    },
+    {
+        "title": "Big shoes to fill",
+        "link": "/gotime/326",
+        "date": "2024-08-13"
+    },
+    {
         "title": "The best, worst codebase",
         "link": "/news/107",
         "date": "2024-08-12"
