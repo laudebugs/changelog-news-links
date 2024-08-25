@@ -1,5 +1,25 @@
 [
     {
+        "title": "Threat hunter in the machine",
+        "link": "/friends/58",
+        "date": "2024-08-23"
+    },
+    {
+        "title": "MySQL performance",
+        "link": "/shipit/118",
+        "date": "2024-08-23"
+    },
+    {
+        "title": "There be a11y dragons",
+        "link": "/jsparty/335",
+        "date": "2024-08-22"
+    },
+    {
+        "title": "Threat modeling LLM apps",
+        "link": "/practicalai/283",
+        "date": "2024-08-22"
+    },
+    {
         "title": "Flavors of Ship It!",
         "link": "/podcast/605",
         "date": "2024-08-21"
