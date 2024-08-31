@@ -1,5 +1,35 @@
 [
     {
+        "title": "The diagram IS the code",
+        "link": "/shipit/119",
+        "date": "2024-08-30"
+    },
+    {
+        "title": "#define: piggyback",
+        "link": "/friends/59",
+        "date": "2024-08-30"
+    },
+    {
+        "title": "Metrics Driven Development",
+        "link": "/practicalai/284",
+        "date": "2024-08-29"
+    },
+    {
+        "title": "Reinventing Kafka on object storage",
+        "link": "/podcast/606",
+        "date": "2024-08-29"
+    },
+    {
+        "title": "When 3rd party JavaScript attacks",
+        "link": "/jsparty/336",
+        "date": "2024-08-29"
+    },
+    {
+        "title": "The community of gophers",
+        "link": "/gotime/329",
+        "date": "2024-08-28"
+    },
+    {
         "title": "What good programmers worry about",
         "link": "/news/109",
         "date": "2024-08-26"
