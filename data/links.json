@@ -1,5 +1,30 @@
 [
     {
+        "title": "Starbucks DVD peddlers",
+        "link": "/friends/60",
+        "date": "2024-09-06"
+    },
+    {
+        "title": "Learning & teaching networking & AI",
+        "link": "/shipit/120",
+        "date": "2024-09-06"
+    },
+    {
+        "title": "Don’t ever use these TypeScript features",
+        "link": "/jsparty/337",
+        "date": "2024-09-05"
+    },
+    {
+        "title": "Open source threaded team chat?!",
+        "link": "/podcast/607",
+        "date": "2024-09-05"
+    },
+    {
+        "title": "AI is more than GenAI",
+        "link": "/practicalai/285",
+        "date": "2024-09-05"
+    },
+    {
         "title": "Cursor wants to write all the world's code",
         "link": "/news/110",
         "date": "2024-09-03"
