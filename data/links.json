@@ -1,5 +1,25 @@
 [
     {
+        "title": "The best, worst codebase",
+        "link": "/podcast/609",
+        "date": "2024-09-18"
+    },
+    {
+        "title": "How I lost my (old) job to AI",
+        "link": "/gotime/331",
+        "date": "2024-09-18"
+    },
+    {
+        "title": "Pausing to think about scikit-learn & OpenAI o1",
+        "link": "/practicalai/287",
+        "date": "2024-09-17"
+    },
+    {
+        "title": "Why GitHub actually won",
+        "link": "/news/112",
+        "date": "2024-09-16"
+    },
+    {
         "title": "Building Rawkode Academy",
         "link": "/shipit/121",
         "date": "2024-09-13"
