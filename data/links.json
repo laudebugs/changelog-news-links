@@ -1,5 +1,30 @@
 [
     {
+        "title": "The wrong place to slap a person",
+        "link": "/friends/63",
+        "date": "2024-09-27"
+    },
+    {
+        "title": "A learning mindset, starting with COBOL",
+        "link": "/shipit/123",
+        "date": "2024-09-27"
+    },
+    {
+        "title": "Leveling up JavaScript with Deno 2",
+        "link": "/jsparty/340",
+        "date": "2024-09-26"
+    },
+    {
+        "title": "Leveling up JavaScript with Deno 2",
+        "link": "/podcast/610",
+        "date": "2024-09-26"
+    },
+    {
+        "title": "GraphRAG (beyond the hype)",
+        "link": "/practicalai/288",
+        "date": "2024-09-25"
+    },
+    {
         "title": "\"Founder Mode\" at work when you're not a founder",
         "link": "/gotime/332",
         "date": "2024-09-24"
