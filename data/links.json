@@ -1,5 +1,25 @@
 [
     {
+        "title": "Create interactive tutorials the easy way",
+        "link": "/jsparty/341",
+        "date": "2024-10-03"
+    },
+    {
+        "title": "Russ Cox on passing the torch",
+        "link": "/gotime/333",
+        "date": "2024-10-03"
+    },
+    {
+        "title": "Understanding what's possible, doable & scalable",
+        "link": "/practicalai/289",
+        "date": "2024-10-03"
+    },
+    {
+        "title": "Free-threaded Python",
+        "link": "/podcast/611",
+        "date": "2024-10-02"
+    },
+    {
         "title": "Display custom maps on your website for free",
         "link": "/news/114",
         "date": "2024-09-30"
