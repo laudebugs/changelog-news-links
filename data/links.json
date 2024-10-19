@@ -1,5 +1,120 @@
 [
     {
+        "title": "You'll rent chips and be happy",
+        "link": "/friends/66",
+        "date": "2024-10-18"
+    },
+    {
+        "title": "Kubernetes is an anti-platform",
+        "link": "/shipit/126",
+        "date": "2024-10-18"
+    },
+    {
+        "title": "Lessons from 10k hours of programming (Remastered)",
+        "link": "/podcast/613",
+        "date": "2024-10-17"
+    },
+    {
+        "title": "Digging through Jerod Santo’s tool box",
+        "link": "/jsparty/343",
+        "date": "2024-10-17"
+    },
+    {
+        "title": "Practical workflow orchestration",
+        "link": "/practicalai/291",
+        "date": "2024-10-15"
+    },
+    {
+        "title": "Working from home is powering productivity",
+        "link": "/news/116",
+        "date": "2024-10-14"
+    },
+    {
+        "title": "The indispensable cog",
+        "link": "/friends/65",
+        "date": "2024-10-11"
+    },
+    {
+        "title": "TIME to get SERIESous about databases",
+        "link": "/shipit/125",
+        "date": "2024-10-11"
+    },
+    {
+        "title": "The Moneyball approach",
+        "link": "/podcast/612",
+        "date": "2024-10-10"
+    },
+    {
+        "title": "A great horse to bet on",
+        "link": "/jsparty/342",
+        "date": "2024-10-10"
+    },
+    {
+        "title": "You'll rent chips and be happy",
+        "link": "/friends/66",
+        "date": "2024-10-18"
+    },
+    {
+        "title": "Kubernetes is an anti-platform",
+        "link": "/shipit/126",
+        "date": "2024-10-18"
+    },
+    {
+        "title": "Lessons from 10k hours of programming (Remastered)",
+        "link": "/podcast/613",
+        "date": "2024-10-17"
+    },
+    {
+        "title": "Digging through Jerod Santo’s tool box",
+        "link": "/jsparty/343",
+        "date": "2024-10-17"
+    },
+    {
+        "title": "Practical workflow orchestration",
+        "link": "/practicalai/291",
+        "date": "2024-10-15"
+    },
+    {
+        "title": "Working from home is powering productivity",
+        "link": "/news/116",
+        "date": "2024-10-14"
+    },
+    {
+        "title": "The indispensable cog",
+        "link": "/friends/65",
+        "date": "2024-10-11"
+    },
+    {
+        "title": "TIME to get SERIESous about databases",
+        "link": "/shipit/125",
+        "date": "2024-10-11"
+    },
+    {
+        "title": "The Moneyball approach",
+        "link": "/podcast/612",
+        "date": "2024-10-10"
+    },
+    {
+        "title": "A great horse to bet on",
+        "link": "/jsparty/342",
+        "date": "2024-10-10"
+    },
+    {
+        "title": "Unpop roundup",
+        "link": "/gotime/334",
+        "date": "2024-10-09"
+    },
+    {
+        "title": "Towards high-quality (maybe synthetic) datasets",
+        "link": "/practicalai/290",
+        "date": "2024-10-09"
+    },
+    {
+        "title": "The slow death of the hyperlink",
+        "link": "/news/115",
+        "date": "2024-10-07"
+    },
+    {
         "title": "You suck at programming",
         "link": "/shipit/124",
         "date": "2024-10-04"
