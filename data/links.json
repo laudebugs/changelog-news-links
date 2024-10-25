@@ -1,5 +1,20 @@
 [
     {
+        "title": "Big data is dead, analytics is alive",
+        "link": "/practicalai/292",
+        "date": "2024-10-24"
+    },
+    {
+        "title": "Elasticsearch is open source, again",
+        "link": "/podcast/614",
+        "date": "2024-10-24"
+    },
+    {
+        "title": "AI for Observability",
+        "link": "/gotime/335",
+        "date": "2024-10-23"
+    },
+    {
         "title": "Naming conventions that need to die",
         "link": "/news/117",
         "date": "2024-10-21"
