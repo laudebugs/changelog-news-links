@@ -1,5 +1,15 @@
 [
     {
+        "title": "Wine Web and a whole lot of Whatnot",
+        "link": "/friends/68",
+        "date": "2024-11-01"
+    },
+    {
+        "title": "Infosec & OpenTelemetry",
+        "link": "/shipit/128",
+        "date": "2024-11-01"
+    },
+    {
         "title": "Rails is having a moment (again)",
         "link": "/podcast/615",
         "date": "2024-10-31"
