@@ -1,5 +1,25 @@
 [
     {
+        "title": "ANTHOLOGY – Self-hosted, self-confident & self-employed",
+        "link": "/friends/69",
+        "date": "2024-11-08"
+    },
+    {
+        "title": "News & whitepapers",
+        "link": "/shipit/129",
+        "date": "2024-11-08"
+    },
+    {
+        "title": "How Vercel thinks about Next.js",
+        "link": "/jsparty/345",
+        "date": "2024-11-07"
+    },
+    {
+        "title": "ANTHOLOGY — Packages, pledges & protocols",
+        "link": "/podcast/616",
+        "date": "2024-11-06"
+    },
+    {
         "title": "Writing a shell in Go",
         "link": "/gotime/336",
         "date": "2024-11-06"
