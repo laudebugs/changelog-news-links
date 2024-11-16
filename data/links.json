@@ -1,5 +1,30 @@
 [
     {
+        "title": "Bus factors & conspiracy theories",
+        "link": "/friends/70",
+        "date": "2024-11-15"
+    },
+    {
+        "title": "Hosting Hachyderm",
+        "link": "/shipit/130",
+        "date": "2024-11-15"
+    },
+    {
+        "title": "Gotta give to get back",
+        "link": "/podcast/617",
+        "date": "2024-11-14"
+    },
+    {
+        "title": "It's all about documentation",
+        "link": "/jsparty/346",
+        "date": "2024-11-14"
+    },
+    {
+        "title": "Creating tested, reliable AI applications",
+        "link": "/practicalai/295",
+        "date": "2024-11-13"
+    },
+    {
         "title": "Crawl, walk & run your way to usable CLIs in Go",
         "link": "/gotime/337",
         "date": "2024-11-12"
