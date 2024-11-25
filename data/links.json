@@ -1,5 +1,15 @@
 [
     {
+        "title": "Local-first, y/n? ",
+        "link": "/friends/71",
+        "date": "2024-11-22"
+    },
+    {
+        "title": "Abstractions and implementations",
+        "link": "/shipit/131",
+        "date": "2024-11-22"
+    },
+    {
         "title": "Unpop roundup! 2023",
         "link": "/gotime/338",
         "date": "2024-11-21"
